@@ -137,44 +137,44 @@ def draw_star(draw, cx, cy, size, color, points=4):
 
 
 def make_en_cover():
-    """Fancy warm EN cover — cream/peach bg, heaviest bold R logo, luxury feel."""
-    img = Image.new("RGB", (SIZE, SIZE), "#fff5ec")
+    """Sleek black-blue EN cover — electric blue R logo, crisp and modern."""
+    img = Image.new("RGB", (SIZE, SIZE), "#080c1a")
     draw = ImageDraw.Draw(img)
 
     cx, cy = SIZE // 2, 500
 
-    # ── Background: warm cream → soft peach (fancy, light) ──
+    # ── Background: black → deep blue gradient ──
     for y in range(SIZE):
         ratio = y / SIZE
-        r = int(255 - ratio * 25)
-        g = int(245 - ratio * 55)
-        b = int(236 - ratio * 55)
-        draw.line([(0, y), (SIZE, y)], fill=(max(r,238), max(g,188), max(b,180)))
+        r = int(8 + ratio * 18)
+        g = int(12 + ratio * 22)
+        b = int(26 + ratio * 45)
+        draw.line([(0, y), (SIZE, y)], fill=(r, g, b))
 
     # ── Large glowing accent circle top-right ──
     for r in range(380, 0, -1):
         draw.ellipse(
             [SIZE - 130 - r, -70 - r, SIZE - 130 + r, -70 + r],
-            fill=(220, 70, 50) if r % 3 == 0 else (238, 82, 56),
+            fill=(40, 80, 180) if r % 3 == 0 else (50, 95, 200),
         )
 
-    # ── Subtle decorative orbs ──
+    # ── Subtle orbs ──
     for ox, oy, r, color in [
-        (100, 200, 22, (215, 95, 68)),
-        (130, 950, 16, (195, 115, 88)),
-        (1280, 1000, 20, (195, 115, 88)),
-        (100, 1150, 14, (215, 95, 68)),
-        (1290, 1200, 12, (215, 95, 68)),
-        (250, 350, 10, (225, 105, 72)),
-        (80, 600, 8, (205, 125, 92)),
-        (1320, 650, 10, (205, 125, 92)),
+        (100, 200, 22, (55, 100, 200)),
+        (130, 950, 16, (45, 85, 175)),
+        (1280, 1000, 20, (45, 85, 175)),
+        (100, 1150, 14, (55, 100, 200)),
+        (1290, 1200, 12, (55, 100, 200)),
+        (250, 350, 10, (60, 110, 210)),
+        (80, 600, 8, (40, 80, 170)),
+        (1320, 650, 10, (40, 80, 170)),
     ]:
         draw.ellipse([ox - r, oy - r, ox + r, oy + r], fill=color)
 
-    # ── Giant geometric burst ──
+    # ── Geometric burst ──
     burst_colors = [
-        (255, 95, 65), (255, 185, 55), (255, 125, 85),
-        (250, 210, 68), (255, 108, 78), (255, 168, 52),
+        (60, 130, 255), (30, 180, 255), (80, 100, 240),
+        (40, 160, 255), (100, 140, 245), (20, 190, 255),
     ]
     for i in range(6):
         angle = math.radians(i * 60 - 15)
@@ -186,30 +186,30 @@ def make_en_cover():
         x3 = cx + math.cos(angle - 0.35) * r
         y3 = cy + math.sin(angle - 0.35) * r
         draw.polygon([(x1, y1), (x2, y2), (x3, y3)], fill=burst_colors[i])
-        draw.polygon([(x1, y1), (x2, y2), (x3, y3)], outline="#2d1810", width=14)
+        draw.polygon([(x1, y1), (x2, y2), (x3, y3)], outline="#080c1a", width=14)
 
     # ── Central circle ──
     for r in range(340, 0, -2):
         draw.ellipse(
             [cx - r, cy - r, cx + r, cy + r],
-            fill=(255, 255, 252) if r % 4 == 0 else (255, 253, 248),
+            fill=(235, 242, 255) if r % 4 == 0 else (245, 248, 255),
         )
-    draw.ellipse([cx - 340, cy - 340, cx + 340, cy + 340], outline="#2d1810", width=18)
+    draw.ellipse([cx - 340, cy - 340, cx + 340, cy + 340], outline="#080c1a", width=18)
 
     # ═══════════════════════════════════════════════
-    # ✦ STYLISH "R" LOGO — heaviest bold, gold
+    # ✦ ELECTRIC BLUE "R" LOGO
     # ═══════════════════════════════════════════════
     draw.rounded_rectangle(
         [cx - 200, cy - 200, cx + 200, cy + 200],
-        radius=40, fill="#1a0a05",
+        radius=40, fill="#080c1a",
     )
     draw.rounded_rectangle(
         [cx - 200, cy - 200, cx + 200, cy + 200],
-        radius=40, outline="#2d1810", width=8,
+        radius=40, outline="#080c1a", width=8,
     )
 
     try:
-        logo_font = load_font(EN_FONT, 280, index=4)  # Heaviest weight
+        logo_font = load_font(EN_FONT, 280, index=4)
     except Exception:
         try:
             logo_font = load_font(EN_FONT, 280, index=2)
@@ -221,11 +221,10 @@ def make_en_cover():
     rx = cx - rw / 2
     ry = cy - 155
     for off in [(-5,-5),(5,-5),(-5,5),(5,5),(-4,0),(4,0),(0,-4),(0,4)]:
-        draw.text((rx+off[0], ry+off[1]), letter_r, fill="#1a0a05", font=logo_font)
-    draw.text((rx, ry), letter_r, fill=(242, 188, 42), font=logo_font)
+        draw.text((rx+off[0], ry+off[1]), letter_r, fill="#080c1a", font=logo_font)
+    draw.text((rx, ry), letter_r, fill=(60, 160, 255), font=logo_font)
 
     # Small bolt accent
-    bolt_color = (255, 148, 38)
     bolt_cx, bolt_cy = cx + 110, cy - 130
     bolt = [
         (bolt_cx, bolt_cy - 30),
@@ -236,11 +235,11 @@ def make_en_cover():
         (bolt_cx - 6, bolt_cy - 10),
         (bolt_cx + 10, bolt_cy - 30),
     ]
-    draw.polygon(bolt, fill=bolt_color, outline="#1a0a05", width=5)
+    draw.polygon(bolt, fill=(100, 200, 255), outline="#080c1a", width=5)
 
     # ── Accent bars ──
-    draw.rectangle([60, 470, 1340, 476], fill=(222, 72, 48))
-    draw.rectangle([60, 920, 1340, 926], fill=(222, 72, 48))
+    draw.rectangle([60, 470, 1340, 476], fill=(60, 130, 255))
+    draw.rectangle([60, 920, 1340, 926], fill=(60, 130, 255))
 
     # ═══════════════════════════════════════════════
     # ✨ "Rin's DAILY NEWS" — heaviest bold
@@ -257,22 +256,22 @@ def make_en_cover():
     except Exception:
         small_font = title_font
 
-    draw.rectangle([0, 1050, SIZE, SIZE], fill="#1a0a05")
-    draw.rectangle([0, 1050, SIZE, 1058], fill=(222, 72, 48))
+    draw.rectangle([0, 1050, SIZE, SIZE], fill="#080c1a")
+    draw.rectangle([0, 1050, SIZE, 1058], fill=(60, 130, 255))
 
     for text, y, color in [
-        ("Rin's", 1080, (242, 178, 42)),
+        ("Rin's", 1080, (100, 180, 255)),
         ("DAILY NEWS", 1200, (255, 255, 255)),
     ]:
         tw = draw.textlength(text, font=title_font)
         dx = (SIZE - tw) / 2
         for off in [(-4,-4),(4,-4),(-4,4),(4,4),(-3,0),(3,0),(0,-3),(0,3)]:
-            draw.text((dx+off[0], y+off[1]), text, fill="#1a0a05", font=title_font)
+            draw.text((dx+off[0], y+off[1]), text, fill="#080c1a", font=title_font)
         draw.text((dx, y), text, fill=color, font=title_font)
 
     credit = "by Rinちゃん ⚡  ·  Every Morning 7am SGT"
     cw = draw.textlength(credit, font=small_font)
-    draw.text(((SIZE - cw) / 2, 1360), credit, fill=(225, 210, 195), font=small_font)
+    draw.text(((SIZE - cw) / 2, 1360), credit, fill=(140, 160, 200), font=small_font)
 
     path = os.path.join(OUT_DIR, "cover-en.jpg")
     img.save(path, "JPEG", quality=92)
