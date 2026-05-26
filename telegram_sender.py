@@ -33,13 +33,14 @@ def send_audio(chat_id: str, audio_path: str, caption: str = "") -> dict:
         )
     return resp.json()
 
+DEFAULT_CHAT_ID = "7712018868"  # Yilin
+
 def get_chat_id() -> str:
     """Get chat ID from recent updates — works after user sends /start to bot."""
     resp = requests.get(f"{BASE_API}/getUpdates", timeout=10).json()
     if resp.get("ok") and resp["result"]:
-        # Return the most recent chat ID
         return str(resp["result"][-1]["message"]["chat"]["id"])
-    return None
+    return DEFAULT_CHAT_ID  # Fallback to known chat ID
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Send daily news to Telegram")
