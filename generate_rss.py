@@ -5,6 +5,7 @@ from datetime import datetime
 import os
 import sys
 import glob
+import shutil
 import subprocess
 import json
 
@@ -93,8 +94,15 @@ def generate_rss(lang: str):
     fg.link(href=feed_url, rel="self", type="application/rss+xml")  # <atom:link>
     fg.link(href=BASE_URL)  # <link> to website
 
-    # Cover art (1400×1400 JPG)
-    cover_url = f"{BASE_URL}/audio/cover-{lang}.jpg"
+    # Cover art — use latest timestamped copy to bust CDN caches
+    cover_pattern = os.path.join(AUDIO_DIR, f"cover-{lang}-*.jpg")
+    cover_files = sorted(glob.glob(cover_pattern), reverse=True)
+    if cover_files:
+        cover_name = os.path.basename(cover_files[0])
+    else:
+        # Fallback to base cover
+        cover_name = f"cover-{lang}.jpg"
+    cover_url = f"{BASE_URL}/audio/{cover_name}"
     fg.image(url=cover_url, title=title, link=BASE_URL)
     fg.podcast.itunes_image(cover_url)
 

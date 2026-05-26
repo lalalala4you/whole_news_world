@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Generate podcast cover art — dynamic EN + bold readable JP."""
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
-import math, os
+import math, os, glob, shutil
 
 SIZE = 1400
 OUT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "audio")
@@ -118,7 +118,14 @@ def make_jp_cover():
 
     path = os.path.join(OUT_DIR, "cover-ja.jpg")
     img.save(path, "JPEG", quality=92)
-    print(f"✅ JP cover: {path} ({os.path.getsize(path)/1024:.0f} KB)")
+    # Also save timestamped copy for cache busting
+    ts_path = os.path.join(OUT_DIR, f"cover-ja-{int(os.path.getmtime(path))}.jpg")
+    shutil.copy2(path, ts_path)
+    # Clean up old timestamped copies (keep only latest)
+    for old in sorted(glob.glob(os.path.join(OUT_DIR, "cover-ja-*.jpg")), reverse=True)[1:]:
+        os.remove(old)
+        print(f"  🗑 Cleaned up old: {os.path.basename(old)}")
+    print(f"✅ JP cover: {path} ({os.path.getsize(path)/1024:.0f} KB) + timestamped")
     return path
 
 
@@ -349,7 +356,14 @@ def make_en_cover():
 
     path = os.path.join(OUT_DIR, "cover-en.jpg")
     img.save(path, "JPEG", quality=92)
-    print(f"✅ EN cover: {path} ({os.path.getsize(path)/1024:.0f} KB)")
+    # Also save timestamped copy for cache busting
+    ts_path = os.path.join(OUT_DIR, f"cover-en-{int(os.path.getmtime(path))}.jpg")
+    shutil.copy2(path, ts_path)
+    # Clean up old timestamped copies (keep only latest)
+    for old in sorted(glob.glob(os.path.join(OUT_DIR, "cover-en-*.jpg")), reverse=True)[1:]:
+        os.remove(old)
+        print(f"  🗑 Cleaned up old: {os.path.basename(old)}")
+    print(f"✅ EN cover: {path} ({os.path.getsize(path)/1024:.0f} KB) + timestamped")
     return path
 
 
