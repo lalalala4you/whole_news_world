@@ -142,7 +142,7 @@ def generate_rss(lang: str):
         fe.enclosure(
             f"{BASE_URL}/audio/{audio_filename}",
             str(os.path.getsize(audio_path)),
-            "audio/mp4"
+            "audio/x-m4a"
         )
 
         pub = datetime.strptime(date_str, "%Y-%m-%d").strftime(
