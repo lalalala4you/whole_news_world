@@ -23,7 +23,23 @@ PODCAST_OWNER_EMAIL = "rin@daily-news.local"
 
 
 def get_audio_duration(filepath):
-    """Get audio duration in HH:MM:SS format using ffprobe."""
+    """Get audio duration in HH:MM:SS format using macOS afinfo."""
+    try:
+        result = subprocess.run(
+            ['afinfo', filepath],
+            capture_output=True, text=True, timeout=10
+        )
+        for line in result.stdout.splitlines():
+            if 'duration' in line:
+                # "estimated duration: 322.729615 sec"
+                secs = float(line.strip().split()[-2])
+                h = int(secs // 3600)
+                m = int((secs % 3600) // 60)
+                s = int(secs % 60)
+                return f"{h:02d}:{m:02d}:{s:02d}"
+    except Exception:
+        pass
+    # Fallback: try ffprobe
     try:
         result = subprocess.run(
             ['ffprobe', '-v', 'quiet', '-print_format', 'json',
@@ -31,10 +47,10 @@ def get_audio_duration(filepath):
             capture_output=True, text=True, timeout=10
         )
         data = json.loads(result.stdout)
-        duration_sec = float(data['format']['duration'])
-        h = int(duration_sec // 3600)
-        m = int((duration_sec % 3600) // 60)
-        s = int(duration_sec % 60)
+        secs = float(data['format']['duration'])
+        h = int(secs // 3600)
+        m = int((secs % 3600) // 60)
+        s = int(secs % 60)
         return f"{h:02d}:{m:02d}:{s:02d}"
     except Exception:
         return "00:05:00"
@@ -73,9 +89,9 @@ def generate_rss(lang: str):
     fg.podcast.itunes_type("episodic")
     fg.podcast.itunes_category("News", "Daily News")
 
-    # Links: <link> to website, <atom:link rel="self"> to feed URL
-    fg.link(href=BASE_URL)
-    fg.link(href=feed_url, rel="self", type="application/rss+xml")
+    # Links: set atom:link FIRST, then <link> (feedgen order matters!)
+    fg.link(href=feed_url, rel="self", type="application/rss+xml")  # <atom:link>
+    fg.link(href=BASE_URL)  # <link> to website
 
     # Cover art (1400×1400 JPG)
     cover_url = f"{BASE_URL}/audio/cover-{lang}.jpg"
