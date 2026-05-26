@@ -137,44 +137,44 @@ def draw_star(draw, cx, cy, size, color, points=4):
 
 
 def make_en_cover():
-    """Stylish EN cover — logo monogram center, JP-style orbs, bold 'Rin's DAILY NEWS'."""
-    img = Image.new("RGB", (SIZE, SIZE), "#0d0d1f")
+    """Fancy warm EN cover — cream/peach bg, heaviest bold R logo, luxury feel."""
+    img = Image.new("RGB", (SIZE, SIZE), "#fff5ec")
     draw = ImageDraw.Draw(img)
 
     cx, cy = SIZE // 2, 500
 
-    # ── Background: deep navy gradient (matching JP) ──
+    # ── Background: warm cream → soft peach (fancy, light) ──
     for y in range(SIZE):
         ratio = y / SIZE
-        r = int(13 + ratio * 25)
-        g = int(13 + ratio * 28)
-        b = int(31 + ratio * 40)
-        draw.line([(0, y), (SIZE, y)], fill=(r, g, b))
+        r = int(255 - ratio * 25)
+        g = int(245 - ratio * 55)
+        b = int(236 - ratio * 55)
+        draw.line([(0, y), (SIZE, y)], fill=(max(r,238), max(g,188), max(b,180)))
 
-    # ── Large glowing accent circle top-right (matching JP) ──
+    # ── Large glowing accent circle top-right ──
     for r in range(380, 0, -1):
         draw.ellipse(
             [SIZE - 130 - r, -70 - r, SIZE - 130 + r, -70 + r],
-            fill=(200, 50, 35) if r % 3 == 0 else (215, 55, 40),
+            fill=(220, 70, 50) if r % 3 == 0 else (238, 82, 56),
         )
 
-    # ── Subtle decorative orbs (JP-style: small, simple) ──
+    # ── Subtle decorative orbs ──
     for ox, oy, r, color in [
-        (100, 200, 22, (200, 80, 60)),
-        (130, 950, 16, (180, 100, 80)),
-        (1280, 1000, 20, (180, 100, 80)),
-        (100, 1150, 14, (200, 80, 60)),
-        (1290, 1200, 12, (200, 80, 60)),
-        (250, 350, 10, (210, 90, 65)),
-        (80, 600, 8, (190, 110, 85)),
-        (1320, 650, 10, (190, 110, 85)),
+        (100, 200, 22, (215, 95, 68)),
+        (130, 950, 16, (195, 115, 88)),
+        (1280, 1000, 20, (195, 115, 88)),
+        (100, 1150, 14, (215, 95, 68)),
+        (1290, 1200, 12, (215, 95, 68)),
+        (250, 350, 10, (225, 105, 72)),
+        (80, 600, 8, (205, 125, 92)),
+        (1320, 650, 10, (205, 125, 92)),
     ]:
         draw.ellipse([ox - r, oy - r, ox + r, oy + r], fill=color)
 
     # ── Giant geometric burst ──
     burst_colors = [
-        (255, 90, 60), (255, 180, 50), (255, 120, 80),
-        (245, 200, 60), (255, 100, 70), (255, 160, 45),
+        (255, 95, 65), (255, 185, 55), (255, 125, 85),
+        (250, 210, 68), (255, 108, 78), (255, 168, 52),
     ]
     for i in range(6):
         angle = math.radians(i * 60 - 15)
@@ -186,46 +186,46 @@ def make_en_cover():
         x3 = cx + math.cos(angle - 0.35) * r
         y3 = cy + math.sin(angle - 0.35) * r
         draw.polygon([(x1, y1), (x2, y2), (x3, y3)], fill=burst_colors[i])
-        draw.polygon([(x1, y1), (x2, y2), (x3, y3)], outline="#0d0d1f", width=16)
+        draw.polygon([(x1, y1), (x2, y2), (x3, y3)], outline="#2d1810", width=14)
 
     # ── Central circle ──
     for r in range(340, 0, -2):
         draw.ellipse(
             [cx - r, cy - r, cx + r, cy + r],
-            fill=(255, 248, 238) if r % 4 == 0 else (255, 252, 245),
+            fill=(255, 255, 252) if r % 4 == 0 else (255, 253, 248),
         )
-    draw.ellipse([cx - 340, cy - 340, cx + 340, cy + 340], outline="#0d0d1f", width=20)
+    draw.ellipse([cx - 340, cy - 340, cx + 340, cy + 340], outline="#2d1810", width=18)
 
     # ═══════════════════════════════════════════════
-    # ✦ STYLISH LOGO MONOGRAM — "R⚡" center
+    # ✦ STYLISH "R" LOGO — heaviest bold, gold
     # ═══════════════════════════════════════════════
-    # Dark rounded square backdrop
     draw.rounded_rectangle(
         [cx - 200, cy - 200, cx + 200, cy + 200],
-        radius=40, fill="#0d0d1f",
+        radius=40, fill="#1a0a05",
     )
     draw.rounded_rectangle(
         [cx - 200, cy - 200, cx + 200, cy + 200],
-        radius=40, outline="#0d0d1f", width=8,
+        radius=40, outline="#2d1810", width=8,
     )
 
-    # "R" — big bold letter as logo
     try:
-        logo_font = load_font(EN_FONT, 280, index=2)  # Helvetica Neue Bold
+        logo_font = load_font(EN_FONT, 280, index=4)  # Heaviest weight
     except Exception:
-        logo_font = ImageFont.load_default()
+        try:
+            logo_font = load_font(EN_FONT, 280, index=2)
+        except Exception:
+            logo_font = ImageFont.load_default()
 
     letter_r = "R"
     rw = draw.textlength(letter_r, font=logo_font)
     rx = cx - rw / 2
     ry = cy - 155
-    # Outline
-    for off in [(-4,-4),(4,-4),(-4,4),(4,4),(-3,0),(3,0),(0,-3),(0,3)]:
-        draw.text((rx+off[0], ry+off[1]), letter_r, fill="#0d0d1f", font=logo_font)
-    draw.text((rx, ry), letter_r, fill=(255, 200, 50), font=logo_font)
+    for off in [(-5,-5),(5,-5),(-5,5),(5,5),(-4,0),(4,0),(0,-4),(0,4)]:
+        draw.text((rx+off[0], ry+off[1]), letter_r, fill="#1a0a05", font=logo_font)
+    draw.text((rx, ry), letter_r, fill=(242, 188, 42), font=logo_font)
 
-    # Small lightning bolt accent on the R (top-right of letter)
-    bolt_color = (255, 140, 40)
+    # Small bolt accent
+    bolt_color = (255, 148, 38)
     bolt_cx, bolt_cy = cx + 110, cy - 130
     bolt = [
         (bolt_cx, bolt_cy - 30),
@@ -236,42 +236,43 @@ def make_en_cover():
         (bolt_cx - 6, bolt_cy - 10),
         (bolt_cx + 10, bolt_cy - 30),
     ]
-    draw.polygon(bolt, fill=bolt_color)
-    draw.polygon(bolt, outline="#0d0d1f", width=6)
+    draw.polygon(bolt, fill=bolt_color, outline="#1a0a05", width=5)
 
-    # ── Accent bars (matching JP) ──
-    draw.rectangle([60, 470, 1340, 476], fill=(210, 60, 42))
-    draw.rectangle([60, 920, 1340, 926], fill=(210, 60, 42))
+    # ── Accent bars ──
+    draw.rectangle([60, 470, 1340, 476], fill=(222, 72, 48))
+    draw.rectangle([60, 920, 1340, 926], fill=(222, 72, 48))
 
     # ═══════════════════════════════════════════════
-    # ✨ "Rin's DAILY NEWS" — bold typography
+    # ✨ "Rin's DAILY NEWS" — heaviest bold
     # ═══════════════════════════════════════════════
     try:
-        title_font = load_font(EN_FONT, 110, index=2)
+        title_font = load_font(EN_FONT, 110, index=4)
     except Exception:
-        title_font = ImageFont.load_default()
+        try:
+            title_font = load_font(EN_FONT, 110, index=2)
+        except Exception:
+            title_font = ImageFont.load_default()
     try:
         small_font = load_font(EN_FONT, 32, index=0)
     except Exception:
         small_font = title_font
 
-    # Text area
-    draw.rectangle([0, 1050, SIZE, SIZE], fill="#0d0d1f")
-    draw.rectangle([0, 1050, SIZE, 1058], fill=(210, 60, 42))
+    draw.rectangle([0, 1050, SIZE, SIZE], fill="#1a0a05")
+    draw.rectangle([0, 1050, SIZE, 1058], fill=(222, 72, 48))
 
     for text, y, color in [
-        ("Rin's", 1080, (255, 180, 60)),
+        ("Rin's", 1080, (242, 178, 42)),
         ("DAILY NEWS", 1200, (255, 255, 255)),
     ]:
         tw = draw.textlength(text, font=title_font)
         dx = (SIZE - tw) / 2
         for off in [(-4,-4),(4,-4),(-4,4),(4,4),(-3,0),(3,0),(0,-3),(0,3)]:
-            draw.text((dx+off[0], y+off[1]), text, fill="#0d0d1f", font=title_font)
+            draw.text((dx+off[0], y+off[1]), text, fill="#1a0a05", font=title_font)
         draw.text((dx, y), text, fill=color, font=title_font)
 
     credit = "by Rinちゃん ⚡  ·  Every Morning 7am SGT"
     cw = draw.textlength(credit, font=small_font)
-    draw.text(((SIZE - cw) / 2, 1360), credit, fill=(180, 170, 190), font=small_font)
+    draw.text(((SIZE - cw) / 2, 1360), credit, fill=(225, 210, 195), font=small_font)
 
     path = os.path.join(OUT_DIR, "cover-en.jpg")
     img.save(path, "JPEG", quality=92)
