@@ -151,23 +151,23 @@ def make_en_cover():
         b = int(200 - ratio * 130)
         draw.line([(0, y), (SIZE, y)], fill=(r, g, b))
 
-    # ── Large glowing accent circle top-right ──
+    # ── Large glowing accent circle top-right (orange, JP-style) ──
     for r in range(380, 0, -1):
         draw.ellipse(
             [SIZE - 130 - r, -70 - r, SIZE - 130 + r, -70 + r],
-            fill=(40, 80, 180) if r % 3 == 0 else (50, 95, 200),
+            fill=(200, 50, 35) if r % 3 == 0 else (215, 55, 40),
         )
 
-    # ── Subtle orbs ──
+    # ── Subtle orbs (orange, matching JP) ──
     for ox, oy, r, color in [
-        (100, 200, 22, (55, 100, 200)),
-        (130, 950, 16, (45, 85, 175)),
-        (1280, 1000, 20, (45, 85, 175)),
-        (100, 1150, 14, (55, 100, 200)),
-        (1290, 1200, 12, (55, 100, 200)),
-        (250, 350, 10, (60, 110, 210)),
-        (80, 600, 8, (40, 80, 170)),
-        (1320, 650, 10, (40, 80, 170)),
+        (100, 200, 22, (200, 80, 60)),
+        (130, 950, 16, (180, 100, 80)),
+        (1280, 1000, 20, (180, 100, 80)),
+        (100, 1150, 14, (200, 80, 60)),
+        (1290, 1200, 12, (200, 80, 60)),
+        (250, 350, 10, (210, 90, 65)),
+        (80, 600, 8, (190, 110, 85)),
+        (1320, 650, 10, (190, 110, 85)),
     ]:
         draw.ellipse([ox - r, oy - r, ox + r, oy + r], fill=color)
 
@@ -237,9 +237,9 @@ def make_en_cover():
     ]
     draw.polygon(bolt, fill=(100, 200, 255), outline="#080c1a", width=5)
 
-    # ── Accent bars ──
-    draw.rectangle([60, 470, 1340, 476], fill=(60, 130, 255))
-    draw.rectangle([60, 920, 1340, 926], fill=(60, 130, 255))
+    # ── Accent bars (orange, matching JP) ──
+    draw.rectangle([60, 470, 1340, 476], fill=(210, 60, 42))
+    draw.rectangle([60, 920, 1340, 926], fill=(210, 60, 42))
 
     # ═══════════════════════════════════════════════
     # ✨ "Rin's DAILY NEWS" — heaviest bold
@@ -257,10 +257,10 @@ def make_en_cover():
         small_font = title_font
 
     draw.rectangle([0, 1050, SIZE, SIZE], fill="#080c1a")
-    draw.rectangle([0, 1050, SIZE, 1058], fill=(60, 130, 255))
+    draw.rectangle([0, 1050, SIZE, 1058], fill=(210, 60, 42))
 
     for text, y, color in [
-        ("Rin's", 1080, (100, 180, 255)),
+        ("Rin's", 1080, (255, 180, 60)),
         ("DAILY NEWS", 1200, (255, 255, 255)),
     ]:
         tw = draw.textlength(text, font=title_font)
