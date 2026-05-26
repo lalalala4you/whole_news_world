@@ -197,7 +197,7 @@ def make_en_cover():
     draw.ellipse([cx - 340, cy - 340, cx + 340, cy + 340], outline="#080c1a", width=18)
 
     # ═══════════════════════════════════════════════
-    # ✦ ELECTRIC BLUE "R" LOGO
+    # ✦ "Rin" WORDMARK — bold white, gold underline
     # ═══════════════════════════════════════════════
     draw.rounded_rectangle(
         [cx - 200, cy - 200, cx + 200, cy + 200],
@@ -209,33 +209,22 @@ def make_en_cover():
     )
 
     try:
-        logo_font = load_font(EN_FONT, 280, index=4)
+        rin_font = load_font(EN_FONT, 160, index=4)
     except Exception:
         try:
-            logo_font = load_font(EN_FONT, 280, index=2)
+            rin_font = load_font(EN_FONT, 160, index=2)
         except Exception:
-            logo_font = ImageFont.load_default()
+            rin_font = ImageFont.load_default()
 
-    letter_r = "R"
-    rw = draw.textlength(letter_r, font=logo_font)
-    rx = cx - rw / 2
-    ry = cy - 155
-    for off in [(-5,-5),(5,-5),(-5,5),(5,5),(-4,0),(4,0),(0,-4),(0,4)]:
-        draw.text((rx+off[0], ry+off[1]), letter_r, fill="#080c1a", font=logo_font)
-    draw.text((rx, ry), letter_r, fill=(60, 160, 255), font=logo_font)
+    text = "Rin"
+    tw = draw.textlength(text, font=rin_font)
+    rx, ry = cx - tw / 2, cy - 90
+    for off in [(-4,-4),(4,-4),(-4,4),(4,4),(-3,0),(3,0),(0,-3),(0,3)]:
+        draw.text((rx+off[0], ry+off[1]), text, fill="#080c1a", font=rin_font)
+    draw.text((rx, ry), text, fill=(255, 255, 255), font=rin_font)
 
-    # Small bolt accent
-    bolt_cx, bolt_cy = cx + 110, cy - 130
-    bolt = [
-        (bolt_cx, bolt_cy - 30),
-        (bolt_cx - 18, bolt_cy + 5),
-        (bolt_cx + 2, bolt_cy + 5),
-        (bolt_cx - 8, bolt_cy + 35),
-        (bolt_cx + 14, bolt_cy - 10),
-        (bolt_cx - 6, bolt_cy - 10),
-        (bolt_cx + 10, bolt_cy - 30),
-    ]
-    draw.polygon(bolt, fill=(100, 200, 255), outline="#080c1a", width=5)
+    # Gold underline
+    draw.rectangle([cx - 80, cy + 40, cx + 80, cy + 48], fill=(255, 180, 50))
 
     # ── Accent bars (orange, matching JP) ──
     draw.rectangle([60, 470, 1340, 476], fill=(210, 60, 42))
