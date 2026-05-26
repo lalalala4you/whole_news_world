@@ -6,7 +6,11 @@ import os
 import sys
 import glob
 
-BASE_URL = "https://rin-daily-news.example.com"  # TODO: update with actual hosting URL
+# Try to import config, fall back to placeholder
+try:
+    from config import BASE_URL
+except ImportError:
+    BASE_URL = "https://YOUR_USERNAME.github.io/rin-daily-news"
 NEWS_DIR = os.path.dirname(os.path.abspath(__file__))
 AUDIO_DIR = os.path.join(NEWS_DIR, "audio")
 
