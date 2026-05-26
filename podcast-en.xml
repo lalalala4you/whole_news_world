@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃん's Daily News Brief</title><link>https://rin-daily-news.example.com</link><description>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</description><atom:link href="https://rin-daily-news.example.com" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 26 May 2026 01:36:00 +0000</lastBuildDate><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><item><title>News Brief - May 26, 2026</title><description># Rinちゃん's Daily News Brief — May 26, 2026
+
+## 🌍 Top 5 Global Stories
+
+### #1 | US Launches Fresh Strikes on Iran as Peace Deal Hangs in Balance
+
+The US military has launched new strikes on southern Iran, targeting missile launch sites and boats near Bandar Abbas on the Strait of Hormuz. US Central Command said the strikes were taken in "self-defence" and designed to protect American troops, while Iran's foreign ministry said "some progress" has been made in ongoing peace talks but a deal "is not imminent." President Trump had suggested the sides were close to a deal involving a 60-day ceasefire extension, reopening of the Strait of Hormuz, and a framework for negotiating Iran's nuclear programme. Oil prices fell sharply and Asian markets rose on Monday on hopes of an agreement, though Trump later said he had told negotiators "not to rush."
+
+**Why it matters:** The outcome of these negotiations will determine whether the Strait of Hormuz — through which 20% of the world's oil passes — reopens, directly affecting global energy prices and the trajectory of the US-Iran war that began in February.
+
+🏷️ Geopolitics / Energy
+
+### #2 | Russia Threatens Systematic Strikes on Kyiv, Tells Foreign Nationals to Leave
+
+Russia has threatened to launch a fresh wave of "systematic strikes" against Kyiv targeting "decision-making centres and command posts," days after carrying out one of the largest aerial assaults on the Ukrainian capital since the war began. Saturday night's barrage killed four people and injured about 100 across Ukraine, using dozens of ballistic and cruise missiles, hundreds of drones, and a hypersonic Oreshnik missile. Russian Foreign Minister Sergei Lavrov urged US Secretary of State Marco Rubio to evacuate American diplomats from Kyiv in a Monday phone call. Ukraine called the threats "shameless blackmail" and urged allies to increase pressure on Moscow.
+
+**Why it matters:** The escalation signals Moscow's intent to intensify urban warfare despite years of for</description><guid isPermaLink="false">rin-daily-news-en-2026-05-26</guid><enclosure url="https://rin-daily-news.example.com/audio/daily-news-en-2026-05-26.m4a" length="1346328" type="audio/mp4"/><pubDate>Tue, 26 May 2026 07:00:00 +0800</pubDate></item></channel></rss>
