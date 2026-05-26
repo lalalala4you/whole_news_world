@@ -18,6 +18,7 @@ except ImportError:
 NEWS_DIR = os.path.dirname(os.path.abspath(__file__))
 AUDIO_DIR = os.path.join(NEWS_DIR, "audio")
 
+DEFAULT_FEED_URL = None  # override with --feed-url for jsDelivr
 PODCAST_AUTHOR = "Rinちゃん"
 PODCAST_OWNER_NAME = "Rinちゃん"
 PODCAST_OWNER_EMAIL = "rin@daily-news.local"
@@ -62,7 +63,7 @@ def generate_rss(lang: str):
     fg = FeedGenerator()
     fg.load_extension("podcast")
 
-    feed_url = f"{BASE_URL}/podcast-{lang}.xml"
+    feed_url_custom = DEFAULT_FEED_URL or f"{BASE_URL}/podcast-{lang}.xml"
 
     if lang == "en":
         title = "Rinちゃん's Daily News Brief"
@@ -91,7 +92,7 @@ def generate_rss(lang: str):
     fg.podcast.itunes_category("News", "Daily News")
 
     # Links: set atom:link FIRST, then <link> (feedgen order matters!)
-    fg.link(href=feed_url, rel="self", type="application/rss+xml")  # <atom:link>
+    fg.link(href=feed_url_custom, rel="self", type="application/rss+xml")  # <atom:link>
     fg.link(href=BASE_URL)  # <link> to website
 
     # Cover art — use latest timestamped copy to bust CDN caches
