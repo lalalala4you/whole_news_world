@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃんの今日のニュース</title><link>https://lalalala4you.github.io/whole_news_world</link><description>毎朝お届けする世界の重要ニューストップ5。政治、テクノロジー、経済など、シンガポール・米国・中国・EU・日本から厳選。</description><atom:link href="https://lalalala4you.github.io/whole_news_world" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-ja.jpg</url><title>Rinちゃんの今日のニュース</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>ja</language><lastBuildDate>Tue, 26 May 2026 02:49:10 +0000</lastBuildDate><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-ja.jpg"/><item><title>News Brief - May 26, 2026</title><description># Rinちゃんの今日のニュース — 2026年5月26日
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃんの今日のニュース</title><link>https://lalalala4you.github.io/whole_news_world/podcast-ja.xml</link><description>毎朝お届けする世界の重要ニューストップ5。政治、テクノロジー、経済など、シンガポール・米国・中国・EU・日本から厳選。</description><atom:link href="https://lalalala4you.github.io/whole_news_world/podcast-ja.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-ja.jpg</url><title>Rinちゃんの今日のニュース</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>ja</language><lastBuildDate>Tue, 26 May 2026 10:10:24 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-ja.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>rin@daily-news.local</itunes:email></itunes:owner><itunes:summary>毎朝お届けする世界の重要ニューストップ5。政治、テクノロジー、経済など、シンガポール・米国・中国・EU・日本から厳選。</itunes:summary><itunes:type>episodic</itunes:type><item><title>ニュース速報 - 2026年05月26日</title><description># Rinちゃんの今日のニュース — 2026年5月26日
 
 ## 🌍 世界の重要ニュース トップ5
 
@@ -41,4 +41,15 @@
 
 **なぜ重要か：** 既知の脅威人物を追跡・阻止するシークレットサービスの能力に深刻な疑問が生じており、米大統領の警備網の隙が露呈した形だ。
 
-🏷️ 米国 / 安</description><guid isPermaLink="false">rin-daily-news-ja-2026-05-26</guid><enclosure url="https://lalalala4you.github.io/whole_news_world/audio/daily-news-ja-2026-05-26.m4a" length="1607248" type="audio/mp4"/><pubDate>Tue, 26 May 2026 07:00:00 +0800</pubDate></item></channel></rss>
+🏷️ 米国 / 安全保障
+
+---
+
+*Rinちゃんがお届けしました。情報源：BBC News、The Straits Times、AP通信。時刻はすべてシンガポール時間（UTC+8）。*
+</description><guid isPermaLink="false">rin-daily-news-ja-2026-05-26</guid><enclosure url="https://lalalala4you.github.io/whole_news_world/audio/daily-news-ja-2026-05-26.m4a" length="1607248" type="audio/mp4"/><pubDate>Tue, 26 May 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:05:00</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># Rinちゃんの今日のニュース — 2026年5月26日
+
+## 🌍 世界の重要ニュース トップ5
+
+### #1 | 米軍がイラン南部を新たに攻撃、和平交渉は難航
+
+米軍はイラン南部のバンダル・アッバース港周辺のミサイル発射基地および機雷敷設艇に対し新たな攻撃を実施した。米中央軍は「自衛」目的と説明しつつ「停戦中も自制を保ちながら部隊を防衛している」と述べた。一方、イラン外務省報道官は和平協議</itunes:summary></item></channel></rss>
