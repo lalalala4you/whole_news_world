@@ -4,8 +4,8 @@ set -e
 cd "$(dirname "$0")"
 
 # jsDelivr URLs for the podcast feeds
-EN_FEED_URL="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/podcast-en.xml"
-JA_FEED_URL="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/podcast-ja.xml"
+EN_FEED_URL="https://cdn.statically.io/gh/lalalala4you/whole_news_world/main/podcast-en.xml"
+JA_FEED_URL="https://cdn.statically.io/gh/lalalala4you/whole_news_world/main/podcast-ja.xml"
 
 echo "📻 Generating RSS feeds..."
 python3 -c "
