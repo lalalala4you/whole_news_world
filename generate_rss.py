@@ -95,15 +95,15 @@ def generate_rss(lang: str):
     fg.link(href=feed_url_custom, rel="self", type="application/rss+xml")  # <atom:link>
     fg.link(href=BASE_URL)  # <link> to website
 
-    # Cover art — use latest timestamped copy to bust CDN caches
+    # Cover art — use jsDelivr (always current, unlike GitHub Pages)
     cover_pattern = os.path.join(AUDIO_DIR, f"cover-{lang}-*.jpg")
     cover_files = sorted(glob.glob(cover_pattern), reverse=True)
     if cover_files:
         cover_name = os.path.basename(cover_files[0])
     else:
-        # Fallback to base cover
         cover_name = f"cover-{lang}.jpg"
-    cover_url = f"{BASE_URL}/audio/{cover_name}"
+    # Assets via jsDelivr for instant availability (GitHub Pages lag)
+    cover_url = f"https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/{cover_name}"
     fg.image(url=cover_url, title=title, link=BASE_URL)
     fg.podcast.itunes_image(cover_url)
 
