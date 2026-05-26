@@ -18,7 +18,7 @@ except ImportError:
 NEWS_DIR = os.path.dirname(os.path.abspath(__file__))
 AUDIO_DIR = os.path.join(NEWS_DIR, "audio")
 
-DEFAULT_FEED_URL = None  # override with --feed-url for jsDelivr
+DEFAULT_FEED_URL = "https://cdn.statically.io/gh/lalalala4you/whole_news_world/main/podcast-{lang}.xml"
 PODCAST_AUTHOR = "Rinちゃん"
 PODCAST_OWNER_NAME = "Rinちゃん"
 PODCAST_OWNER_EMAIL = "rin@daily-news.local"
@@ -63,7 +63,7 @@ def generate_rss(lang: str):
     fg = FeedGenerator()
     fg.load_extension("podcast")
 
-    feed_url_custom = DEFAULT_FEED_URL or f"{BASE_URL}/podcast-{lang}.xml"
+    feed_url_custom = DEFAULT_FEED_URL.format(lang=lang) if DEFAULT_FEED_URL else f"{BASE_URL}/podcast-{lang}.xml"
 
     if lang == "en":
         title = "Rinちゃん's Daily News Brief"
