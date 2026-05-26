@@ -32,6 +32,11 @@ def generate_rss(lang: str):
     fg.language(lang)
     fg.podcast.itunes_category("News", "Daily News")
     
+    # Cover art (1400x1400 JPG for Apple Podcasts)
+    cover_url = f"{BASE_URL}/audio/cover-{lang}.jpg"
+    fg.image(cover_url)
+    fg.podcast.itunes_image(cover_url)
+    
     # Find all audio files for this language, sorted by date (newest first)
     pattern = os.path.join(AUDIO_DIR, f"daily-news-{lang}-*.m4a")
     audio_files = sorted(glob.glob(pattern), reverse=True)
