@@ -137,34 +137,36 @@ def draw_star(draw, cx, cy, size, color, points=4):
 
 
 def make_en_cover():
-    """Bold modern EN cover — huge logo character, floating orbs, thick outlines."""
-    img = Image.new("RGB", (SIZE, SIZE), "#0f0f23")
+    """Sharp modern EN cover — geometric center icon, subtle orbs, bold text."""
+    img = Image.new("RGB", (SIZE, SIZE), "#0d0d1f")
     draw = ImageDraw.Draw(img)
 
     cx, cy = SIZE // 2, 500
 
-    # ── Floating orbs in background ──
-    orb_data = [
-        (120, 180, 55, (255, 120, 70, 180)),
-        (1280, 150, 40, (255, 180, 50, 160)),
-        (80, 600, 70, (255, 90, 60, 140)),
-        (1320, 550, 48, (255, 200, 60, 150)),
-        (200, 950, 60, (255, 140, 80, 130)),
-        (1200, 900, 50, (245, 190, 55, 140)),
-        (160, 1200, 38, (255, 110, 65, 120)),
-        (1240, 1150, 44, (255, 170, 50, 130)),
-        (400, 140, 30, (255, 150, 70, 160)),
-        (1000, 100, 36, (255, 190, 55, 150)),
-        (60, 380, 25, (255, 130, 75, 170)),
-        (1340, 350, 28, (255, 160, 50, 165)),
-    ]
-    for ox, oy, r, color in orb_data:
-        draw.ellipse([ox - r, oy - r, ox + r, oy + r], fill=color[:3])
-        draw.ellipse([ox - r, oy - r, ox + r, oy + r], outline="#0f0f23", width=8)
-        # Inner highlight
-        draw.ellipse([ox - r//3, oy - r//3, ox + r//3, oy + r//3], fill=(min(color[0]+40,255), min(color[1]+40,255), min(color[2]+40,255)))
+    # ── Background: deep navy gradient (like JP cover) ──
+    for y in range(SIZE):
+        ratio = y / SIZE
+        r = int(13 + ratio * 25)
+        g = int(13 + ratio * 28)
+        b = int(31 + ratio * 40)
+        draw.line([(0, y), (SIZE, y)], fill=(r, g, b))
 
-    # ── Giant geometric burst behind character ──
+    # ── Subtle decorative orbs (JP-style: small, simple, no thick outlines) ──
+    for ox, oy, r, color in [
+        (100, 200, 22, (200, 80, 60)),
+        (1300, 180, 18, (200, 80, 60)),
+        (130, 950, 16, (180, 100, 80)),
+        (1280, 1000, 20, (180, 100, 80)),
+        (100, 1150, 14, (200, 80, 60)),
+        (1290, 1200, 12, (200, 80, 60)),
+        (250, 350, 10, (210, 90, 65)),
+        (1150, 280, 12, (210, 90, 65)),
+        (80, 600, 8, (190, 110, 85)),
+        (1320, 650, 10, (190, 110, 85)),
+    ]:
+        draw.ellipse([ox - r, oy - r, ox + r, oy + r], fill=color)
+
+    # ── Giant geometric burst ──
     burst_colors = [
         (255, 90, 60), (255, 180, 50), (255, 120, 80),
         (245, 200, 60), (255, 100, 70), (255, 160, 45),
@@ -179,94 +181,58 @@ def make_en_cover():
         x3 = cx + math.cos(angle - 0.35) * r
         y3 = cy + math.sin(angle - 0.35) * r
         draw.polygon([(x1, y1), (x2, y2), (x3, y3)], fill=burst_colors[i])
-        draw.polygon([(x1, y1), (x2, y2), (x3, y3)], outline="#0f0f23", width=16)
+        draw.polygon([(x1, y1), (x2, y2), (x3, y3)], outline="#0d0d1f", width=16)
 
     # ── Central circle ──
-    for r in range(360, 0, -2):
+    for r in range(340, 0, -2):
         draw.ellipse(
             [cx - r, cy - r, cx + r, cy + r],
-            fill=(255, 245, 230) if r % 4 == 0 else (255, 252, 242),
+            fill=(255, 248, 238) if r % 4 == 0 else (255, 252, 245),
         )
-    draw.ellipse([cx - 360, cy - 360, cx + 360, cy + 360], outline="#0f0f23", width=20)
+    draw.ellipse([cx - 340, cy - 340, cx + 340, cy + 340], outline="#0d0d1f", width=20)
 
     # ═══════════════════════════════════════════════
-    # 🎤 HUGE LOGO CHARACTER — fills the circle
+    # ⚡ SHARP GEOMETRIC CENTER ICON — lightning bolt
+    #    Simple, angular, modern, energetic
     # ═══════════════════════════════════════════════
-
-    # ── Head (MASSIVE, fills 90% of circle) ──
-    head_r = 290
-    draw.ellipse(
-        [cx - head_r, cy - 260, cx + head_r, cy + 250],
-        fill=(255, 205, 155), outline="#0f0f23", width=16,
+    # Background: dark rounded square behind icon
+    draw.rounded_rectangle(
+        [cx - 200, cy - 200, cx + 200, cy + 200],
+        radius=40, fill="#0d0d1f",
+    )
+    draw.rounded_rectangle(
+        [cx - 200, cy - 200, cx + 200, cy + 200],
+        radius=40, outline="#0d0d1f", width=8,
     )
 
-    # ── Hair (bold geometric block) ──
-    hair_color = (45, 25, 15)
-    draw.ellipse([cx - 310, cy - 300, cx + 310, cy - 40], fill=hair_color)
-    draw.ellipse([cx - 310, cy - 300, cx + 310, cy - 40], outline="#0f0f23", width=14)
-    # Side hair swoops
-    for side, sx in [(-1, cx - 290), (1, cx + 130)]:
-        pts = [
-            (sx, cy - 200), (sx + side * 120, cy - 140),
-            (sx + side * 70, cy + 40), (sx + side * 15, cy - 60),
-        ]
-        draw.polygon(pts, fill=hair_color, outline="#0f0f23", width=12)
+    # Lightning bolt — sharp, angled, bold
+    bolt_color = (255, 200, 40)
+    bolt = [
+        (cx - 30, cy - 180),   # top point
+        (cx - 100, cy - 20),    # left indent
+        (cx - 20, cy - 20),     # right indent top
+        (cx - 50, cy + 120),    # left bottom
+        (cx + 50, cy - 50),     # right mid
+        (cx + 100, cy + 20),    # right indent
+        (cx + 40, cy + 20),     # left mid bottom
+        (cx + 80, cy + 180),    # bottom point
+        (cx - 60, cy + 50),     # left lower mid
+        (cx - 120, cy - 80),    # far left
+        (cx - 30, cy - 80),     # back to top area
+    ]
+    draw.polygon(bolt, fill=bolt_color)
+    draw.polygon(bolt, outline="#0d0d1f", width=12)
 
-    # ── EYES (BIG BOLD, scaled up) ──
-    eye_y = cy - 90
-    eye_spacing = 100
-    for ex in [cx - eye_spacing, cx + eye_spacing]:
-        eye_w, eye_h = 70, 62
-        # White
-        draw.ellipse(
-            [ex - eye_w, eye_y - eye_h, ex + eye_w, eye_y + eye_h],
-            fill="white", outline="#0f0f23", width=14,
-        )
-        # Iris
-        iris_r = 40
-        draw.ellipse(
-            [ex - iris_r, eye_y - 30, ex + iris_r, eye_y + 50],
-            fill=(75, 35, 18), outline="#0f0f23", width=10,
-        )
-        # Pupil
-        draw.ellipse([ex - 18, eye_y - 4, ex + 18, eye_y + 36], fill="#0f0f23")
-        # Big sparkle
-        draw.ellipse([ex - 30, eye_y - 42, ex - 10, eye_y - 22], fill="white")
-        draw.ellipse([ex + 6, eye_y - 6, ex + 16, eye_y + 4], fill="white")
+    # Small sparkle off the bolt tip
+    draw.ellipse([cx + 85, cy - 195, cx + 105, cy - 175], fill=(255, 230, 100))
+    draw.ellipse([cx + 88, cy - 192, cx + 102, cy - 178], fill="white")
 
-    # Eyebrows
-    for ex in [cx - eye_spacing, cx + eye_spacing]:
-        draw.line([(ex - 65, eye_y - 72), (ex + 65, eye_y - 72)], fill="#0f0f23", width=20)
-
-    # ── Blush (big circles) ──
-    for bx in [cx - 160, cx + 160]:
-        draw.ellipse([bx - 45, eye_y + 28, bx + 45, eye_y + 78], fill=(255, 165, 165), outline="#0f0f23", width=8)
-
-    # ── Nose ──
-    draw.ellipse([cx - 18, eye_y + 42, cx + 18, eye_y + 78], fill=(255, 165, 128), outline="#0f0f23", width=8)
-
-    # ── BIG SMILE ──
-    mouth_y = eye_y + 115
-    draw.arc([cx - 55, mouth_y - 18, cx + 55, mouth_y + 45], start=0, end=170, fill="#0f0f23", width=14)
-
-    # ── CHUNKY HEADPHONES (bigger, bolder) ──
-    hp_color = (255, 50, 80)
-    hp_top = cy - 330
-    draw.arc([cx - 300, hp_top, cx + 300, hp_top + 200], start=0, end=360, fill="#0f0f23", width=26)
-    draw.arc([cx - 300, hp_top + 13, cx + 300, hp_top + 174], start=0, end=360, fill=hp_color, width=22)
-    for ecx in [cx - 315, cx + 315]:
-        draw.ellipse([ecx - 60, hp_top + 60, ecx + 60, hp_top + 170], fill=hp_color, outline="#0f0f23", width=14)
-        draw.ellipse([ecx - 36, hp_top + 85, ecx + 36, hp_top + 150], fill=(255, 130, 150), outline="#0f0f23", width=8)
-
-    # ── GIANT MIC (on the side, bold) ──
-    mic_x, mic_y = cx + 270, cy - 60
-    draw.rounded_rectangle([mic_x - 18, mic_y, mic_x + 18, mic_y + 80], radius=8, fill=(45, 45, 55), outline="#0f0f23", width=12)
-    draw.ellipse([mic_x - 32, mic_y - 75, mic_x + 32, mic_y - 8], fill=(75, 75, 95), outline="#0f0f23", width=12)
-    for dy in range(-62, -18, 8):
-        draw.line([(mic_x - 20, mic_y + dy), (mic_x + 20, mic_y + dy)], fill="#0f0f23", width=6)
+    # ── Accent bars (like JP cover) ──
+    draw.rectangle([60, 470, 1340, 476], fill=(210, 60, 42))
+    draw.rectangle([60, 920, 1340, 926], fill=(210, 60, 42))
 
     # ═══════════════════════════════════════════════
-    # ✨ BOLD TYPOGRAPHY — massive, readable
+    # ✨ BOLD TYPOGRAPHY
     # ═══════════════════════════════════════════════
     try:
         huge_font = load_font(EN_FONT, 130, index=2)
@@ -277,9 +243,9 @@ def make_en_cover():
     except Exception:
         small_font = huge_font
 
-    # Text background bar
-    draw.rectangle([0, 1050, SIZE, SIZE], fill="#0f0f23")
-    draw.rectangle([0, 1050, SIZE, 1058], fill=(255, 90, 60))
+    # Text area
+    draw.rectangle([0, 1050, SIZE, SIZE], fill="#0d0d1f")
+    draw.rectangle([0, 1050, SIZE, 1058], fill=(210, 60, 42))
 
     for text, y, color in [
         ("DAILY", 1090, (255, 255, 255)),
@@ -288,7 +254,7 @@ def make_en_cover():
         tw = draw.textlength(text, font=huge_font)
         dx = (SIZE - tw) / 2
         for off in [(-5,-5),(5,-5),(-5,5),(5,5),(-4,0),(4,0),(0,-4),(0,4)]:
-            draw.text((dx+off[0], y+off[1]), text, fill="#0f0f23", font=huge_font)
+            draw.text((dx+off[0], y+off[1]), text, fill="#0d0d1f", font=huge_font)
         draw.text((dx, y), text, fill=color, font=huge_font)
 
     credit = "by Rinちゃん ⚡  ·  Every Morning 7am SGT"
