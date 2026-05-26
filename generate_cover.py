@@ -143,12 +143,12 @@ def make_en_cover():
 
     cx, cy = SIZE // 2, 500
 
-    # ── Background: black → deep blue gradient ──
+    # ── Background: punchy bright blue top → deep navy bottom ──
     for y in range(SIZE):
         ratio = y / SIZE
-        r = int(8 + ratio * 18)
-        g = int(12 + ratio * 22)
-        b = int(26 + ratio * 45)
+        r = int(15 + ratio * 10)
+        g = int(50 + ratio * 5)
+        b = int(200 - ratio * 130)
         draw.line([(0, y), (SIZE, y)], fill=(r, g, b))
 
     # ── Large glowing accent circle top-right ──
