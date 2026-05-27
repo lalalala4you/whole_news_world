@@ -109,13 +109,13 @@ def generate_rss(lang: str):
     fg.podcast.itunes_image(cover_url)
 
     # ── Episodes ──
-    pattern = os.path.join(AUDIO_DIR, f"daily-news-{lang}-*.m4a")
+    pattern = os.path.join(AUDIO_DIR, f"daily-news-{lang}-*.mp3")
     audio_files = sorted(glob.glob(pattern), reverse=True)
     archive = os.path.join(NEWS_DIR, "archive")
 
     date_pairs = []
     for af in audio_files[:14]:
-        date_str = af.split(f"daily-news-{lang}-")[-1].replace(".m4a", "")
+        date_str = af.split(f"daily-news-{lang}-")[-1].replace(".mp3", "")
         txt = os.path.join(archive, f"daily-news-{lang}-{date_str}.md")
         date_pairs.append((date_str, af, txt if os.path.exists(txt) else None))
 
@@ -152,7 +152,7 @@ def generate_rss(lang: str):
         fe.enclosure(
             f"https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/{audio_filename}",
             str(os.path.getsize(audio_path)),
-            "audio/mp4"
+            "audio/mpeg"
         )
 
         pub = datetime.strptime(date_str, "%Y-%m-%d").strftime(
