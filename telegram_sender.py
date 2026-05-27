@@ -5,8 +5,14 @@ import sys
 import os
 import argparse
 
-TOKEN = "8899268721:AAF3i_WXMU2Yr22e8J2aRHc6rJATah08Wvo"
-BASE_API = f"https://api.telegram.org/bot{TOKEN}"
+# Load credentials from config (NOT in git — keep token private)
+try:
+    from config import TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID
+except ImportError:
+    print("❌ config.py not found or missing TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID")
+    sys.exit(1)
+
+BASE_API = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}"
 
 def send_message(chat_id: str, text: str) -> dict:
     """Send text message to Telegram chat."""
@@ -33,30 +39,17 @@ def send_audio(chat_id: str, audio_path: str, caption: str = "") -> dict:
         )
     return resp.json()
 
-DEFAULT_CHAT_ID = "7712018868"  # Yilin
-
-def get_chat_id() -> str:
-    """Get chat ID from recent updates — works after user sends /start to bot."""
-    resp = requests.get(f"{BASE_API}/getUpdates", timeout=10).json()
-    if resp.get("ok") and resp["result"]:
-        return str(resp["result"][-1]["message"]["chat"]["id"])
-    return DEFAULT_CHAT_ID  # Fallback to known chat ID
-
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Send daily news to Telegram")
-    parser.add_argument("--chat-id", help="Telegram chat ID (optional, auto-detect if omitted)")
+    parser.add_argument("--chat-id", default=TELEGRAM_CHAT_ID, help="Telegram chat ID")
     parser.add_argument("--text", help="Path to text summary file")
     parser.add_argument("--audio", help="Path to M4A audio file")
     parser.add_argument("--lang", default="en", help="Language code (en/ja)")
     args = parser.parse_args()
 
-    chat_id = args.chat_id or get_chat_id()
-    if not chat_id:
-        print("❌ No chat ID found. Please send /start to your bot first.")
-        sys.exit(1)
-    
+    chat_id = args.chat_id
     print(f"📱 Sending to Telegram chat {chat_id}...")
-    
+
     # 1. Send a brief text header first
     if args.text and os.path.exists(args.text):
         with open(args.text) as f:
@@ -69,7 +62,7 @@ if __name__ == "__main__":
             print(f"  ✅ Header sent")
         else:
             print(f"  ⚠️ Header failed: {result}")
-    
+
     # 2. Send the audio file
     if args.audio and os.path.exists(args.audio):
         caption = f"🎙️ Daily News Brief — {os.path.basename(args.audio).replace('daily-news-', '').replace('.m4a', '')} ({args.lang.upper()})"
@@ -78,5 +71,5 @@ if __name__ == "__main__":
             print(f"  ✅ Audio sent ({os.path.getsize(args.audio)/1024:.0f} KB)")
         else:
             print(f"  ⚠️ Audio send failed: {result}")
-    
+
     print("✅ Telegram delivery complete!")
