@@ -23,7 +23,7 @@ AUDIO_DIR = os.path.join(NEWS_DIR, "audio")
 DEFAULT_FEED_URL = "https://lalalala4you.github.io/whole_news_world/podcast-{lang}.xml"
 PODCAST_AUTHOR = "Rinちゃん"
 PODCAST_OWNER_NAME = "Rinちゃん"
-PODCAST_OWNER_EMAIL = "rin@daily-news.local"
+PODCAST_OWNER_EMAIL = "rin@dailynews.fm"
 
 
 def get_audio_duration(filepath):
@@ -97,15 +97,14 @@ def generate_rss(lang: str):
     fg.link(href=feed_url_custom, rel="self", type="application/rss+xml")  # <atom:link>
     fg.link(href=BASE_URL)  # <link> to website
 
-    # Cover art — use jsDelivr (always current, unlike GitHub Pages)
+    # Cover art — use direct GitHub Pages URL (Apple requires stable, direct URLs)
     cover_pattern = os.path.join(AUDIO_DIR, f"cover-{lang}-*.jpg")
     cover_files = sorted(glob.glob(cover_pattern), reverse=True)
     if cover_files:
         cover_name = os.path.basename(cover_files[0])
     else:
         cover_name = f"cover-{lang}.jpg"
-    # Assets via jsDelivr for instant availability (GitHub Pages lag)
-    cover_url = f"https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/{cover_name}"
+    cover_url = f"{BASE_URL}/audio/{cover_name}"
     fg.image(url=cover_url, title=title, link=BASE_URL)
     fg.podcast.itunes_image(cover_url)
 
