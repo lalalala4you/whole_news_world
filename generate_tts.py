@@ -52,7 +52,7 @@ def generate_tts(text: str, output_dir: str, lang: str, date_str: str) -> str:
     """Generate M4A audio using edge-tts. Returns path to M4A file."""
     voice = VOICES.get(lang, VOICES["en"])
     base_name = f"daily-news-{lang}-{date_str}"
-    m4a_path = os.path.join(output_dir, f"{base_name}.m4a")
+    mp3_path = os.path.join(output_dir, f"{base_name}.mp3")
     
     # Preprocess text for TTS
     processed = preprocess_for_tts(text, lang)
@@ -64,7 +64,7 @@ def generate_tts(text: str, output_dir: str, lang: str, date_str: str) -> str:
             "--voice", voice,
             f"--rate={RATE}",
             "--text", processed,
-            "--write-media", m4a_path,
+            "--write-media", mp3_path,
         ],
         capture_output=True,
         text=True,
@@ -75,9 +75,9 @@ def generate_tts(text: str, output_dir: str, lang: str, date_str: str) -> str:
         print(f"❌ edge-tts failed: {result.stderr}")
         raise RuntimeError(f"edge-tts failed: {result.stderr}")
     
-    size_kb = os.path.getsize(m4a_path) / 1024
-    print(f"✅ {base_name}.m4a ({size_kb:.0f} KB)")
-    return m4a_path
+    size_kb = os.path.getsize(mp3_path) / 1024
+    print(f"✅ {base_name}.mp3 ({size_kb:.0f} KB)")
+    return mp3_path
 
 
 if __name__ == "__main__":
