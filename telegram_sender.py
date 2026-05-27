@@ -43,7 +43,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Send daily news to Telegram")
     parser.add_argument("--chat-id", default=TELEGRAM_CHAT_ID, help="Telegram chat ID")
     parser.add_argument("--text", help="Path to text summary file")
-    parser.add_argument("--audio", help="Path to M4A audio file")
+    parser.add_argument("--audio", help="Path to MP3 audio file")
     parser.add_argument("--lang", default="en", help="Language code (en/ja)")
     args = parser.parse_args()
 
@@ -65,7 +65,7 @@ if __name__ == "__main__":
 
     # 2. Send the audio file
     if args.audio and os.path.exists(args.audio):
-        caption = f"🎙️ Daily News Brief — {os.path.basename(args.audio).replace('daily-news-', '').replace('.m4a', '')} ({args.lang.upper()})"
+        caption = f"🎙️ Daily News Brief — {os.path.basename(args.audio).replace('daily-news-', '').replace('.mp3', '')} ({args.lang.upper()})"
         result = send_audio(chat_id, args.audio, caption)
         if result.get("ok"):
             print(f"  ✅ Audio sent ({os.path.getsize(args.audio)/1024:.0f} KB)")
