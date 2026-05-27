@@ -1,42 +1,84 @@
 #!/usr/bin/env python3
-"""Generate TTS audio from text using macOS `say` and convert to M4A."""
+"""Generate TTS audio using Microsoft Edge neural voices (free, high quality).
+
+Uses edge-tts for natural intonation, pacing, and breathing.
+Voices: Christopher (EN news), Nanami (JA)
+"""
 import subprocess
 import sys
 import os
-from datetime import datetime
+import re
 
 VOICES = {
-    "en": "Samantha",   # Warm American English
-    "ja": "Kyoko",      # Clear Japanese
+    "en": "en-US-ChristopherNeural",   # Male, News authority voice
+    "ja": "ja-JP-NanamiNeural",         # Female, natural Japanese
 }
 
+# Speech rate adjustment (-50% to +100%, 0 = default)
+RATE = "-5%"  # Slightly slower for podcast feel
+
+
+def preprocess_for_tts(text: str, lang: str) -> str:
+    """Convert markdown to clean text with natural SSML-like formatting.
+    Edge-TTS auto-detects sentence boundaries and adds natural pauses."""
+    
+    # Strip markdown formatting symbols that TTS might read literally
+    text = re.sub(r'\*\*(.*?)\*\*', r'\1', text)  # Bold → plain
+    text = re.sub(r'\[(.*?)\]\(.*?\)', r'\1', text)  # Links → text only
+    
+    # Remove markdown header markers, add period for TTS pause
+    text = re.sub(r'^#{1,3}\s+', '', text, flags=re.MULTILINE)
+    
+    # Remove horizontal rules
+    text = re.sub(r'^---+\s*$', '', text, flags=re.MULTILINE)
+    
+    # Remove emoji that TTS might stumble on
+    text = re.sub(r'[🌍🏷️🎙️📰🇺🇸🇬🇧🇯🇵🇨🇳🇪🇺🇸🇬🇮🇳🇦🇺🇰🇷🇫🇷🇩🇪]', '', text)
+    
+    # Add explicit pauses where we want them (edge-tts supports SSML)
+    # But edge-tts CLI doesn't support inline SSML easily
+    # Instead, use sentence breaks and paragraph spacing
+    
+    # Ensure proper spacing between sections
+    text = re.sub(r'\n{3,}', '\n\n', text)  # Max 2 newlines
+    
+    # Clean up stray characters
+    text = text.replace('|', ',')  # Replace pipe with comma
+    
+    return text.strip()
+
+
 def generate_tts(text: str, output_dir: str, lang: str, date_str: str) -> str:
-    """Generate M4A audio from text. Returns path to M4A file."""
-    voice = VOICES.get(lang, "Samantha")
+    """Generate M4A audio using edge-tts. Returns path to M4A file."""
+    voice = VOICES.get(lang, VOICES["en"])
     base_name = f"daily-news-{lang}-{date_str}"
-    aiff_path = os.path.join(output_dir, f"{base_name}.aiff")
     m4a_path = os.path.join(output_dir, f"{base_name}.m4a")
     
-    # Step 1: Generate AIFF with macOS say
-    print(f"Generating {lang} TTS with voice {voice}...")
-    subprocess.run(
-        ["say", "-v", voice, "-o", aiff_path, text],
-        check=True
+    # Preprocess text for TTS
+    processed = preprocess_for_tts(text, lang)
+    
+    print(f"🎙️  Generating {lang.upper()} TTS with {voice}...")
+    result = subprocess.run(
+        [
+            "edge-tts",
+            "--voice", voice,
+            f"--rate={RATE}",
+            "--text", processed,
+            "--write-media", m4a_path,
+        ],
+        capture_output=True,
+        text=True,
+        timeout=120,
     )
     
-    # Step 2: Convert to M4A (AAC) - podcast standard
-    print(f"Converting to M4A...")
-    subprocess.run(
-        ["afconvert", "-f", "m4af", "-d", "aac", aiff_path, "-o", m4a_path],
-        check=True
-    )
-    
-    # Clean up AIFF
-    os.remove(aiff_path)
+    if result.returncode != 0:
+        print(f"❌ edge-tts failed: {result.stderr}")
+        raise RuntimeError(f"edge-tts failed: {result.stderr}")
     
     size_kb = os.path.getsize(m4a_path) / 1024
-    print(f"✅ Generated: {m4a_path} ({size_kb:.0f} KB)")
+    print(f"✅ {base_name}.m4a ({size_kb:.0f} KB)")
     return m4a_path
+
 
 if __name__ == "__main__":
     if len(sys.argv) < 4:
