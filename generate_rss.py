@@ -147,12 +147,12 @@ def generate_rss(lang: str):
         fe.podcast.itunes_explicit("no")
         fe.podcast.itunes_duration(get_audio_duration(audio_path))
 
-        # Audio enclosure
+        # Audio enclosure — use jsDelivr CDN for byte-range support (required by Apple Podcasts)
         audio_filename = os.path.basename(audio_path)
         fe.enclosure(
-            f"{BASE_URL}/audio/{audio_filename}",
+            f"https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/{audio_filename}",
             str(os.path.getsize(audio_path)),
-            "audio/x-m4a"
+            "audio/mp4"
         )
 
         pub = datetime.strptime(date_str, "%Y-%m-%d").strftime(
