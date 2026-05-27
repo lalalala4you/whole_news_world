@@ -10,7 +10,7 @@ import os
 import re
 
 VOICES = {
-    "en": "en-US-ChristopherNeural",   # Male, News authority voice
+    "en": "en-US-AriaNeural",         # Female, News anchor voice
     "ja": "ja-JP-NanamiNeural",         # Female, natural Japanese
 }
 

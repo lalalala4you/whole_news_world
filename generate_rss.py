@@ -18,7 +18,9 @@ except ImportError:
 NEWS_DIR = os.path.dirname(os.path.abspath(__file__))
 AUDIO_DIR = os.path.join(NEWS_DIR, "audio")
 
-DEFAULT_FEED_URL = "https://cdn.statically.io/gh/lalalala4you/whole_news_world/main/podcast-{lang}.xml"
+# Apple Podcasts requires the atom:self link to match the subscribed URL.
+# Use the canonical GitHub Pages URL here (not CDN).
+DEFAULT_FEED_URL = "https://lalalala4you.github.io/whole_news_world/podcast-{lang}.xml"
 PODCAST_AUTHOR = "Rinちゃん"
 PODCAST_OWNER_NAME = "Rinちゃん"
 PODCAST_OWNER_EMAIL = "rin@daily-news.local"
