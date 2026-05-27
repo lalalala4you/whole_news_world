@@ -19,8 +19,8 @@ NEWS_DIR = os.path.dirname(os.path.abspath(__file__))
 AUDIO_DIR = os.path.join(NEWS_DIR, "audio")
 
 # Apple Podcasts requires the atom:self link to match the subscribed URL.
-# Use the canonical GitHub Pages URL here (not CDN).
-DEFAULT_FEED_URL = "https://lalalala4you.github.io/whole_news_world/podcast-{lang}.xml"
+# Use raw.githubusercontent.com for instant, uncached delivery.
+DEFAULT_FEED_URL = "https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-{lang}.xml"
 PODCAST_AUTHOR = "Rinちゃん"
 PODCAST_OWNER_NAME = "Rinちゃん"
 PODCAST_OWNER_EMAIL = "rin@dailynews.fm"
