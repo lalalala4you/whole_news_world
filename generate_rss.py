@@ -23,7 +23,7 @@ AUDIO_DIR = os.path.join(NEWS_DIR, "audio")
 DEFAULT_FEED_URL = "https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-{lang}.xml"
 PODCAST_AUTHOR = "Rinちゃん"
 PODCAST_OWNER_NAME = "Rinちゃん"
-PODCAST_OWNER_EMAIL = "rin@dailynews.fm"
+PODCAST_OWNER_EMAIL = "bypfdg87k5@privaterelay.appleid.com"
 
 
 def get_audio_duration(filepath):
@@ -110,11 +110,14 @@ def generate_rss(lang: str):
 
     # ── Episodes ──
     pattern = os.path.join(AUDIO_DIR, f"daily-news-{lang}-*.mp3")
-    audio_files = sorted(glob.glob(pattern), reverse=True)
+    all_audio = sorted(
+        [f for f in glob.glob(pattern) if "-latest" not in f],
+        reverse=True
+    )
     archive = os.path.join(NEWS_DIR, "archive")
 
     date_pairs = []
-    for af in audio_files[:14]:
+    for af in all_audio[:14]:
         date_str = af.split(f"daily-news-{lang}-")[-1].replace(".mp3", "")
         txt = os.path.join(archive, f"daily-news-{lang}-{date_str}.md")
         date_pairs.append((date_str, af, txt if os.path.exists(txt) else None))
