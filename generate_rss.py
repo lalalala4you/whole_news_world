@@ -23,7 +23,7 @@ AUDIO_DIR = os.path.join(NEWS_DIR, "audio")
 DEFAULT_FEED_URL = "https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-{lang}.xml"
 PODCAST_AUTHOR = "Rinちゃん"
 PODCAST_OWNER_NAME = "Rinちゃん"
-PODCAST_OWNER_EMAIL = "bypfdg87k5@privaterelay.appleid.com"
+PODCAST_OWNER_EMAIL = "yilin27077@gmail.com"
 
 
 def get_audio_duration(filepath):
