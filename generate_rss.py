@@ -168,7 +168,26 @@ def generate_rss(lang: str):
     print(f"✅ RSS feed: {rss_path} ({episode_count} episodes)")
 
 
+def copy_latest(lang: str):
+    """Copy the most recent episode to a fixed -latest.mp3 filename for Shortcuts auto-play."""
+    pattern = os.path.join(AUDIO_DIR, f"daily-news-{lang}-*.mp3")
+    # Exclude existing -latest files from the glob
+    audio_files = sorted(
+        [f for f in glob.glob(pattern) if "-latest" not in f],
+        reverse=True
+    )
+    if not audio_files:
+        print(f"⚠️  No audio files found for {lang}, skipping -latest copy")
+        return
+    latest = audio_files[0]
+    dest = os.path.join(AUDIO_DIR, f"daily-news-{lang}-latest.mp3")
+    shutil.copy2(latest, dest)
+    size_mb = os.path.getsize(dest) / (1024 * 1024)
+    print(f"📎 Copied latest {lang}: {os.path.basename(latest)} → {os.path.basename(dest)} ({size_mb:.1f} MB)")
+
+
 if __name__ == "__main__":
     langs = sys.argv[1:] if len(sys.argv) > 1 else ["en", "ja"]
     for lang in langs:
         generate_rss(lang)
+        copy_latest(lang)
