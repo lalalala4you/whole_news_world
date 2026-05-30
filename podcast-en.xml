@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link><description>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-en.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg</url><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>en</language><lastBuildDate>Sat, 30 May 2026 03:51:16 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</itunes:summary><itunes:type>episodic</itunes:type><item><title>News Brief - May 26, 2026</title><description># Rinちゃん's Daily News Brief — May 26, 2026
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link><description>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-en.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg</url><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>en</language><lastBuildDate>Sat, 30 May 2026 08:43:00 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</itunes:summary><itunes:type>episodic</itunes:type><item><title>News Brief - May 26, 2026</title><description># Rinちゃん's Daily News Brief — May 26, 2026
 
 ## 🌍 Top 5 Global Stories
 
@@ -157,4 +157,52 @@ Western Europe is in the grip of an extreme May heatwave, with Portugal shatteri
 
 ### #1 | US and Iran 'Very Close' to Ceasefire Extension Deal, VP Vance Says
 
-A framework for extending the US-Iran ceasefire by</itunes:summary></item></channel></rss>
+A framework for extending the US-Iran ceasefire by</itunes:summary></item><item><title>News Brief - May 30, 2026</title><description># Rinちゃん's Daily News Brief — May 30, 2026
+
+## 🌍 Top 5 Global Stories
+
+### #1 | Trump Delays Decision on Iran Ceasefire Deal as Region Holds Its Breath
+
+US President Donald Trump met with his top advisers on Friday to make a "final determination" on the US-Iran ceasefire framework, but no decision was announced. Negotiators from both countries reached a tentative agreement earlier this week to extend the 60-day ceasefire and reopen the Strait of Hormuz, while launching talks on Iran's nuclear programme. However, Trump has withheld his signature, and US Defence Secretary Pete Hegseth warned that Washington is prepared to resume military strikes if negotiations collapse. The delay comes after US Central Command accused Iran of firing toward a US military base in Kuwait — a violation Tehran denies.
+
+**Why it matters:** The fragile ceasefire is the only thing standing between a return to open conflict in the Middle East, with global oil markets and regional stability in the balance.
+
+🏷️ Middle East / Diplomacy
+
+### #2 | Hegseth Tells Asia Allies: Boost Defence Spending, US Won't Carry the Load Alone
+
+Speaking at the Shangri-La Dialogue security summit in Singapore, US Defence Secretary Pete Hegseth declared that America is "not turning back" on its Asian allies — but made clear that Washington expects them to significantly increase their own defence budgets. Hegseth faced pointed questions about the future of US arms sales and strategic commitments in the region, as China continues its military build-up and Japan deepens its alliance with the Philippines.
+
+**Why it matters:** The US is reshaping the post-war security architecture of the Asia-Pacific, pushing allies toward greater self-reliance at a moment of rising regional tensions.
+
+🏷️ Geopolitics / Asia-Pacific
+
+### #3 | Blue Origin Rocket Explosion Casts Doubt on NASA's Moon Timeline
+
+A Blue Origin New Glenn rocket exploded on the launch pad during a test at Cape Canaveral, Florida, on Thursday night, dealing a significant setback to both the company and NASA's lunar ambitions. The massive rocket — central to NASA's Artemis Moon programme — was undergoing pre-flight testing when the catastrophic failure occurred. Science correspondent Pallab Ghosh described the explosion as a serious blow to America's space plans, raising questions about whether the 2028 lunar landing target can still be met.
+
+**Why it matters:** The explosion threatens to delay humanity's return to the Moon, with implications for the growing US-China space race.
+
+🏷️ Science / Space
+
+### #4 | Ghana Passes Sweeping Anti-LGBTQ+ Law with Prison Sentences
+
+Ghana's parliament has passed a harsh new bill making same-sex acts punishable by prison terms, and specifically targeting anyone who identifies as gay, lesbian, or transgender. The legislation — among the most severe of its kind in Africa — has drawn immediate condemnation from human rights organisations, who warn it will unleash a wave of persecution against the LGBTQ+ community in the West African nation.
+
+**Why it matters:** Ghana's move represents a dramatic escalation in Africa's broader crackdown on LGBTQ+ rights, emboldening similar legislative efforts across the continent.
+
+🏷️ Human Rights / Africa
+
+### #5 | Spain's Sánchez Battles Wave of Corruption Scandals Threatening His Premiership
+
+After eight years as Prime Minister, Pedro Sánchez is fighting for his political survival as a cascade of corruption investigations into colleagues and relatives rocks his government. The scandals have eroded public trust and emboldened the conservative opposition, with some analysts suggesting early elections may be unavoidable if the probes continue to deepen. Sánchez has denied any personal wrongdoing and insists he will serve out his term.
+
+**Why it matters:** Instability in the EU's fourth-largest economy could shift the bloc's political balance at a time when European unity is already strained by defence spending debates and relations with Washington.
+
+🏷️ Europe /</description><guid isPermaLink="false">rin-daily-news-en-2026-05-30</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-en-2026-05-30.mp3" length="1687968" type="audio/mpeg"/><pubDate>Sat, 30 May 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:04:41</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># Rinちゃん's Daily News Brief — May 30, 2026
+
+## 🌍 Top 5 Global Stories
+
+### #1 | Trump Delays Decision on Iran Ceasefire Deal as Region Holds Its Breath
+
+US President Donald Trump met with his top</itunes:summary></item></channel></rss>
