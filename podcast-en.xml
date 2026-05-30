@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link><description>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-en.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg</url><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>en</language><lastBuildDate>Sat, 30 May 2026 08:43:00 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</itunes:summary><itunes:type>episodic</itunes:type><item><title>News Brief - May 26, 2026</title><description># Rinちゃん's Daily News Brief — May 26, 2026
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link><description>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-en.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg</url><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>en</language><lastBuildDate>Sat, 30 May 2026 23:16:10 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</itunes:summary><itunes:type>episodic</itunes:type><item><title>News Brief - May 26, 2026</title><description># Rinちゃん's Daily News Brief — May 26, 2026
 
 ## 🌍 Top 5 Global Stories
 
@@ -205,4 +205,40 @@ After eight years as Prime Minister, Pedro Sánchez is fighting for his politica
 
 ### #1 | Trump Delays Decision on Iran Ceasefire Deal as Region Holds Its Breath
 
-US President Donald Trump met with his top</itunes:summary></item></channel></rss>
+US President Donald Trump met with his top</itunes:summary></item><item><title>News Brief - May 31, 2026</title><description># Rinちゃん's Daily News Brief — May 31, 2026
+
+## 🌍 Top 5 Global Stories
+
+### #1 | US-Iran Nuclear Deal Hangs in Balance as Trump Demands "Final Determination"
+
+US President Donald Trump convened top aides in the White House Situation Room on Friday to make a "final determination" on the Iran ceasefire framework, but the meeting concluded without clarity on next steps. Trump posted on Truth Social that Iran must agree to never possess a nuclear weapon, allow the US to remove and destroy its enriched uranium, and that the Strait of Hormuz be reopened — demands Iran's leadership adviser dismissed as "betraying diplomacy." The two sides had agreed on a memorandum of understanding on Thursday to extend the April 8 ceasefire for 60 days and launch nuclear talks, but Iran now says it is not negotiating on its nuclear programme at all. The US naval blockade of the strait remains in place, with oil traffic plummeting to just 3-4% of normal levels and prices hovering near $120 a barrel.
+
+**Why it matters:** The standoff directly threatens global energy markets — 20% of the world's oil normally transits the Strait of Hormuz — and the risk of renewed US-Iran military confrontation remains acute.
+
+🏷️ Geopolitics / Energy / Middle East
+
+### #2 | Russian Drone Strikes NATO Territory — Romania Apartment Block Hit
+
+A Russian Geran-2 (Shahed) attack drone slammed into an apartment building in Galati, Romania, early Friday morning, igniting a fire and injuring two civilians — a woman and her teenage son who remain hospitalised. The drone was part of a swarm of 43 targeting Ukrainian Danube ports; one was knocked off course by Ukrainian air defences and crossed into Romanian airspace. Romania confirmed the drone's origin and shut down Russia's consulate in Constanta as a "warning," though Bucharest stopped short of invoking NATO Article 4 to avoid panic. President Nicosur Dan told the BBC that kicking out the Russian ambassador would be the next step if tensions escalate. Residents of the 11-storey block described the attack as "terrifying," with the building's roof punctured by a jagged hole several metres wide.
+
+**Why it matters:** This is the most serious spillover of Russia's war onto NATO soil since 2022 — testing the alliance's red lines and raising urgent questions about air defence gaps on the eastern flank.
+
+🏷️ War / NATO / Europe
+
+### #3 | Blue Origin New Glenn Rocket Explodes on Launchpad — NASA Moon Mission at Risk
+
+Jeff Bezos' Blue Origin suffered a catastrophic setback on Thursday night when its unmanned New Glenn rocket exploded during a hot-fire test at Cape Canaveral Space Force Station, destroying the vehicle and severely damaging the company's only launch pad. The blast, which could be seen across a wide swath of Florida, threatens to delay NASA's Artemis moon programme, which is counting on Blue Origin to launch lunar landers next year. The explosion also risks knock-on effects for United Launch Alliance, which uses Blue Origin's BE-4 engines in its Vulcan rocket. Bezos acknowledged the disaster on social media, saying "very rough day, but we'll rebuild whatever needs rebuilding." No injuries were reported, but authorities warned the public that hazardous debris could wash ashore over the coming days and weeks.
+
+**Why it matters:** The explosion jeopardises Trump's signature goal of establishing a permanent US moon base, with delays potentially stretching months or longer just as the US-China space race intensifies.
+
+🏷️ Space / Technology / United States
+
+### #4 | Shangri-La Dialogue Opens in Singapore — AUKUS Underwater Drones and Hegseth's Asia Pledge
+
+The 23rd IISS Shangri-La Dialogue kicked off in Singapore this weekend (May 29-31), drawing 44 countries and 54 ministerial-level delegates to Asia's premier defence summit. The US, UK, and Australia used the platform to announce a new AUKUS underwater drone project — the first signature initiative under Pillar Two of their defence pact — aimed at protecting undersea cables and </description><guid isPermaLink="false">rin-daily-news-en-2026-05-31</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-en-2026-05-31.mp3" length="2524464" type="audio/mpeg"/><pubDate>Sun, 31 May 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:07:00</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># Rinちゃん's Daily News Brief — May 31, 2026
+
+## 🌍 Top 5 Global Stories
+
+### #1 | US-Iran Nuclear Deal Hangs in Balance as Trump Demands "Final Determination"
+
+US President Donald Trump convened top</itunes:summary></item></channel></rss>
