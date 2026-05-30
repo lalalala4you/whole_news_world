@@ -35,7 +35,7 @@ def send_audio(chat_id: str, audio_path: str, caption: str = "") -> dict:
             f"{BASE_API}/sendAudio",
             data={"chat_id": chat_id, "caption": caption, "parse_mode": "Markdown"},
             files={"audio": (os.path.basename(audio_path), f, "audio/mp4")},
-            timeout=60,
+            timeout=120,
         )
     return resp.json()
 
