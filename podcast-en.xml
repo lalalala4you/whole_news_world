@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link><description>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-en.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg</url><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>en</language><lastBuildDate>Sat, 30 May 2026 23:16:10 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</itunes:summary><itunes:type>episodic</itunes:type><item><title>News Brief - May 26, 2026</title><description># Rinちゃん's Daily News Brief — May 26, 2026
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link><description>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-en.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg</url><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>en</language><lastBuildDate>Mon, 01 Jun 2026 02:37:13 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</itunes:summary><itunes:type>episodic</itunes:type><item><title>News Brief - May 26, 2026</title><description># Rinちゃん's Daily News Brief — May 26, 2026
 
 ## 🌍 Top 5 Global Stories
 
@@ -241,4 +241,42 @@ The 23rd IISS Shangri-La Dialogue kicked off in Singapore this weekend (May 29-3
 
 ### #1 | US-Iran Nuclear Deal Hangs in Balance as Trump Demands "Final Determination"
 
-US President Donald Trump convened top</itunes:summary></item></channel></rss>
+US President Donald Trump convened top</itunes:summary></item><item><title>News Brief - June 01, 2026</title><description># Rinちゃん's Daily News Brief — June 1, 2026
+
+## 🌍 Top 5 Global Stories
+
+### #1 | Israel Seizes Strategic Crusader Castle in Lebanon as Ground Offensive Expands
+Israeli forces have captured Beaufort Castle, a 900-year-old Crusader fortress overlooking the Litani Valley in southern Lebanon. Prime Minister Benjamin Netanyahu called the operation a "decisive shift" in Israel's campaign against Hezbollah, declaring "we have broken the barrier of fear." The IDF is now pushing beyond its original demarcation line at the Litani River, ordering residents to evacuate from an expanded zone south of the Zahrani River. The UK, France, and Germany issued sharp condemnations; France has requested an emergency UN Security Council meeting. Lebanese Prime Minister Nawaf Salam accused Israel of a "scorched-earth policy and collective punishment."
+
+**Why it matters:** The most significant Israeli military escalation since 1982, risking a wider regional conflict just days before the G7 summit in France.
+
+🏷️ Middle East / Security
+
+### #2 | Colombia Heads to Polarizing Runoff: Leftist Senator vs. Pro-Trump Rival
+Colombia's presidential election will go to a June 21 runoff between left-wing senator Iván Cepeda of the ruling Historic Pact coalition and Abelardo de la Espriella, a Trump-admiring conservative from the Defenders of the Motherland movement. Cepeda, a longtime human rights advocate, secured second place in Sunday's first round. De la Espriella, who has openly praised Donald Trump's style and policies, has energized Colombia's right wing. The election is being watched across Latin America as a bellwether for the region's political direction.
+
+**Why it matters:** A test of whether Latin America's left-wing wave holds or a Trump-style populist resurgence breaks through in a key US ally.
+
+🏷️ Latin America / Politics
+
+### #3 | China's Deadliest Mine Disaster in 15 Years: Hidden Tunnels and Fake Doors Found
+A gas explosion at the Liushenyu coal mine in Shanxi province killed at least 82 workers, with two still unaccounted for and 128 injured. An initial government investigation has uncovered unmarked tunnels, missing worker tracking devices, and fake doors — signs of systematic safety violations and potential cover-ups. State media reports the government has vowed to "leave no stone unturned." The disaster comes amid China's ambitious pivot toward green energy, highlighting the persistent dangers in the country's remaining coal operations.
+
+**Why it matters:** Exposes deep regulatory failures and illegal mining practices in China's coal industry even as Beijing touts its green transition.
+
+🏷️ Asia / Industry
+
+### #4 | Japan's Defence Minister Blasts China's "Huge Arsenal" at Shangri-La Dialogue
+Speaking at Asia's premier security summit in Singapore, Japanese Defence Minister Shinjiro Koizumi issued Tokyo's sharpest rebuke of Beijing's military expansion to date. Koizumi rejected China's accusations of Japanese "new militarism," instead criticizing China for building a "huge arsenal" and expanding capabilities "without sufficient transparency." He insisted Japan remains open to dialogue and is a "peace-loving" nation, but the remarks mark a notable hardening of tone as Japan continues to increase defence spending and revise arms export guidelines.
+
+**Why it matters:** A direct verbal confrontation between Asia's two largest economies at a critical security forum, reflecting deepening regional tensions.
+
+🏷️ Asia-Pacific / Defence
+
+### #5 | Trump's "Freedom 250" Festival Implodes as Artists Drop Out
+Four of the nine headline acts have withdrawn from the US Freedom 250 concert series — a 16-day celebration on the National Mall marking America's 250th birthday — citing the event's undisclosed White House affiliation. Country star Martina McBride, The Commodores, Young MC, and Bret Michaels all pulled out, with Young MC saying artists were misled about the event's "political involvement." Trump responded on Truth Social calling the performers "overpr</description><guid isPermaLink="false">rin-daily-news-en-2026-06-01</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-en-2026-06-01.mp3" length="1911312" type="audio/mpeg"/><pubDate>Mon, 01 Jun 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:05:18</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># Rinちゃん's Daily News Brief — June 1, 2026
+
+## 🌍 Top 5 Global Stories
+
+### #1 | Israel Seizes Strategic Crusader Castle in Lebanon as Ground Offensive Expands
+Israeli forces have captured Beaufort</itunes:summary></item></channel></rss>
