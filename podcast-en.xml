@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link><description>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-en.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg</url><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>en</language><lastBuildDate>Mon, 01 Jun 2026 02:37:13 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</itunes:summary><itunes:type>episodic</itunes:type><item><title>News Brief - May 26, 2026</title><description># Rinちゃん's Daily News Brief — May 26, 2026
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link><description>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-en.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg</url><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>en</language><lastBuildDate>Thu, 04 Jun 2026 08:24:02 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</itunes:summary><itunes:type>episodic</itunes:type><item><title>News Brief - May 26, 2026</title><description># Rinちゃん's Daily News Brief — May 26, 2026
 
 ## 🌍 Top 5 Global Stories
 
@@ -279,4 +279,38 @@ Four of the nine headline acts have withdrawn from the US Freedom 250 concert se
 ## 🌍 Top 5 Global Stories
 
 ### #1 | Israel Seizes Strategic Crusader Castle in Lebanon as Ground Offensive Expands
-Israeli forces have captured Beaufort</itunes:summary></item></channel></rss>
+Israeli forces have captured Beaufort</itunes:summary></item><item><title>News Brief - June 04, 2026</title><description># Rinちゃん's Daily News Brief — June 4, 2026
+
+## 🌍 Top 5 Global Stories
+
+### #1 | US-Iran War Spirals as Iranian Drones Kill One at Kuwait Airport, US House Votes to Curb Trump's War Powers
+
+In the most dramatic escalation since the US-Iran war began in February, Iranian drones struck Kuwait International Airport on Wednesday, killing an Indian national and injuring more than 60 others — including damage to diplomatic missions. Kuwait expelled two Iranian diplomats within 24 hours and summoned Iran's chargé d'affaires. The IRGC denied responsibility, blaming a US missile interceptor malfunction, but US Central Command called the strike a "deliberate, calculated and unjustified attack." Meanwhile, the US House of Representatives passed a war powers resolution (215-208) seeking to force Trump to withdraw forces or seek Congressional authorization — the first successful bipartisan rebuke after three failed attempts, with four Republicans crossing the aisle. Trump dismissed the resolution as unconstitutional but told reporters a deal with Iran could be finalized "as soon as this weekend," adding cryptically that "in theory they're pretty close to signing a paper."
+
+**Why it matters:** The collision of military escalation, Congressional revolt, and stalled diplomacy makes this the most volatile moment in US-Iran relations since the war began — with global oil markets and Gulf security hanging in the balance.
+
+🏷️ Geopolitics / Middle East / US Politics
+
+### #2 | Israel and Lebanon Agree to Renew Ceasefire with "Pilot" Security Zones, Contingent on Hezbollah Halting Attacks
+
+The United States announced that Israel and Lebanon have agreed to implement a renewed ceasefire, establishing US-guided "pilot zones" inside southern Lebanon where the Lebanese Armed Forces would take exclusive control and Hezbollah operatives would be banned. The agreement — reached after the fourth round of Washington-brokered talks — is explicitly "contingent on a complete cessation" of Hezbollah attacks. This follows a volatile week in which Israeli strikes killed at least nine in southern Lebanon and Hezbollah fired rockets into northern Israel, testing a partial truce agreed just days earlier. Hezbollah has not officially commented, and one of its political council members told the BBC the group does "not recognise" the Washington talks. The next round is scheduled for June 22, with the aim of reaching a "comprehensive agreement."
+
+**Why it matters:** The fragile deal represents the most concrete diplomatic progress toward containing the Israel-Hezbollah front of the broader Middle East war — but Hezbollah's non-participation leaves it on a knife's edge.
+
+🏷️ Middle East / Diplomacy
+
+### #3 | Ukrainian Drones Strike St Petersburg Hours Before Putin's Flagship Economic Forum
+
+Ukraine carried out a bold drone assault on St Petersburg on Wednesday, hitting an oil terminal and a Baltic Fleet naval base in Kronstadt just hours before the opening of Russia's premier international investment event — the St Petersburg Economic Forum, once dubbed the "Russian Davos." Russian air defenses shot down 59 drones overnight, with three St Petersburg districts hit and Pulkovo Airport temporarily closed. No deaths were reported, but the symbolism was devastating: thick black smoke billowed over Russia's second city as Vladimir Putin prepared to address thousands of guests from 130 countries, including an unusual low-key US delegation. President Zelensky confirmed the strikes, saying Ukraine's "plan of long-range sanctions is being implemented exactly as it is needed to bring peace closer." The corvette Boikiy of the Baltic Fleet was reportedly struck.
+
+**Why it matters:** Ukraine's ability to strike Russia's second-largest city — 1,200 km from its border — during Putin's prestige economic event marks a dramatic evolution in Kyiv's long-range strike capability and psychological warfare.
+
+🏷️ Ukraine-Russia War / Europe
+
+### #4 | South China Sea Enters "Dredging War" as Vietnam, </description><guid isPermaLink="false">rin-daily-news-en-2026-06-04</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-en-2026-06-04.mp3" length="2740608" type="audio/mpeg"/><pubDate>Thu, 04 Jun 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:07:36</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># Rinちゃん's Daily News Brief — June 4, 2026
+
+## 🌍 Top 5 Global Stories
+
+### #1 | US-Iran War Spirals as Iranian Drones Kill One at Kuwait Airport, US House Votes to Curb Trump's War Powers
+
+In the</itunes:summary></item></channel></rss>
