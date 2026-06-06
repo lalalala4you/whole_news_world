@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link><description>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-en.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg</url><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>en</language><lastBuildDate>Thu, 04 Jun 2026 08:24:02 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</itunes:summary><itunes:type>episodic</itunes:type><item><title>News Brief - May 26, 2026</title><description># Rinちゃん's Daily News Brief — May 26, 2026
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link><description>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-en.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg</url><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>en</language><lastBuildDate>Sat, 06 Jun 2026 15:29:52 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</itunes:summary><itunes:type>episodic</itunes:type><item><title>News Brief - May 26, 2026</title><description># Rinちゃん's Daily News Brief — May 26, 2026
 
 ## 🌍 Top 5 Global Stories
 
@@ -313,4 +313,56 @@ Ukraine carried out a bold drone assault on St Petersburg on Wednesday, hitting 
 
 ### #1 | US-Iran War Spirals as Iranian Drones Kill One at Kuwait Airport, US House Votes to Curb Trump's War Powers
 
-In the</itunes:summary></item></channel></rss>
+In the</itunes:summary></item><item><title>News Brief - June 06, 2026</title><description># Rinちゃん's Daily News Brief — June 6, 2026
+
+## 🌍 Top 5 Global Stories
+
+### #1 | US and Iran Exchange Strikes in Gulf as Ceasefire Teeters
+
+The shaky US-Iran ceasefire suffered its most serious test yet as American forces struck Iranian drones and radar sites, and Tehran retaliated with ballistic missiles at US bases in Kuwait and Bahrain. US Central Command said it shot down four Iranian "one-way attack drones" headed toward the Strait of Hormuz, after which Iran fired seven missiles — six of which were intercepted. The Iranian foreign ministry condemned the US strikes as a "flagrant" violation of the ceasefire, while ceasefire negotiations remain stalled with reports that President Trump has sought changes to the terms. The Strait of Hormuz, through which roughly 20% of the world's oil and LNG transits, remains a flashpoint.
+
+**Why it matters:** This escalation threatens both the fragile April ceasefire and global energy markets, with the Strait of Hormuz chokepoint hanging in the balance.
+
+🏷️ Geopolitics / Middle East Conflict
+
+---
+
+### #2 | Ukraine Launches "Unprecedented" Drone Attack on St. Petersburg
+
+More than 140 Ukrainian drones struck targets in and around St. Petersburg on the final day of Russia's annual economic forum, prompting the city's governor to urge residents to stay indoors for the first time since the war began in 2022. President Zelensky said the strikes hit Russian naval arsenals and a Kronstadt naval base, as well as an oil depot 500 km away. The assault came a day after President Putin rejected Zelensky's call for direct ceasefire talks and reiterated that the war would end only when Russia's territorial goals were met. Ukrainian drone commanders told the BBC they face "almost no resistance" flying into Russian territory.
+
+**Why it matters:** St. Petersburg is Russia's second city and a symbolic heartland — hitting it at this scale marks a major escalation in Ukraine's long-range strike campaign.
+
+🏷️ Russia-Ukraine War
+
+---
+
+### #3 | Iran Accuses US of Blocking World Cup Staff from Entering America
+
+Hours after the US confirmed it had issued visas to Iran's national football team players for the 2026 World Cup, Iran accused Washington of denying entry to "integral" backroom staff including the head of its football federation. Iranian officials called the move "politically biased interference in sport" and urged FIFA to intervene. The 2026 World Cup — hosted by the US, Canada, and Mexico — will make history as the first time a host nation receives a team from a country it is actively at war with. Iran's opening match against Belgium is scheduled for June 15 in Los Angeles.
+
+**Why it matters:** This unprecedented sports-geopolitics collision spotlights how the US-Iran conflict now touches every domain, including the world's biggest sporting event.
+
+🏷️ Sports / Geopolitics
+
+---
+
+### #4 | Singapore Blocks Anti-Indian Hate Posts Traced to China-Based Platform
+
+Singapore's government ordered social media platforms to disable 14 online posts targeting the Indian community with xenophobic content, with investigations revealing the posts most likely originated from a China-based platform. The Ministry of Home Affairs said the content — primarily in Chinese — used selective imagery of crowded streets in Little India and a Hindu festival to falsely claim Singapore was being "overrun" by Indians. Law Minister Edwin Tong said there is currently no evidence of a coordinated campaign by any government, but affirmed that Singapore "firmly opposes nativism and xenophobia." All 14 posts were ordered blocked under the Online Criminal Harms Act.
+
+**Why it matters:** This is a stark reminder that foreign-sourced disinformation targeting ethnic harmony is an increasingly active threat to multiracial societies across Asia.
+
+🏷️ Singapore / Disinformation
+
+---
+
+### #5 | UK Rebukes JD Vance Over "Righteous Anger" Post on Student's Murder
+
+Downing Street publicly hit back at US Vice-President JD Vance after he blamed the fatal </description><guid isPermaLink="false">rin-daily-news-en-2026-06-06</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-en-2026-06-06.mp3" length="2053584" type="audio/mpeg"/><pubDate>Sat, 06 Jun 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:05:42</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># Rinちゃん's Daily News Brief — June 6, 2026
+
+## 🌍 Top 5 Global Stories
+
+### #1 | US and Iran Exchange Strikes in Gulf as Ceasefire Teeters
+
+The shaky US-Iran ceasefire suffered its most serious test</itunes:summary></item></channel></rss>
