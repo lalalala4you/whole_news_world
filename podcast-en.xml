@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link><description>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-en.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg</url><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>en</language><lastBuildDate>Sun, 07 Jun 2026 14:26:04 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</itunes:summary><itunes:type>episodic</itunes:type><item><title>News Brief - May 26, 2026</title><description># Rinちゃん's Daily News Brief — May 26, 2026
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link><description>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-en.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg</url><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>en</language><lastBuildDate>Mon, 08 Jun 2026 13:09:12 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</itunes:summary><itunes:type>episodic</itunes:type><item><title>News Brief - May 26, 2026</title><description># Rinちゃん's Daily News Brief — May 26, 2026
 
 ## 🌍 Top 5 Global Stories
 
@@ -369,40 +369,85 @@ The shaky US-Iran ceasefire suffered its most serious test</itunes:summary></ite
 
 ## 🌍 Top 5 Global Stories
 
-### #1 | Iran War Reaches 100th Day as US Shoots Down Iranian Drones
+### #1 | 🏆 Iran-US War Reaches 100th Day as US Shoots Down Drones Near Strait of Hormuz
 
-The US-Iran war hit its 100-day milestone with the Pentagon confirming it shot down multiple Iranian drones targeting US positions in the Gulf. Mediator Pakistan delivered a direct message to Iran's Supreme Leader, while Trump stated he would "not unfreeze Iran's assets before a peace deal is done." The economic toll is mounting — IATA warned airline profits are expected to halve in 2026 due to a 70% surge in jet fuel prices. Kuwait and Bahrain were also targeted by Iranian retaliatory strikes overnight. Meanwhile, Iran is reportedly grappling with the "perilous prospect of peace," facing domestic blackouts, hyperinflation, and growing dissent as the war grinds on.
+The United States shot down two Iranian drones threatening the Strait of Hormuz, marking the 100th day of the Iran-US war with no ceasefire in sight. Pakistan's Interior Minister Mohsin Naqvi visited Tehran carrying a "special letter" from Pakistan's army chief to Iran's Supreme Leader, as mediation efforts between Washington and Tehran continue. Iran launched missiles at US allies Bahrain and Kuwait on June 6, rattling Gulf monarchies and undermining the fragile April 8 ceasefire. Meanwhile, the US Treasury is reportedly considering using frozen Iranian assets to fund reconstruction for Gulf allies hit by Iranian strikes.
 
-**Why it matters:** The Strait of Hormuz remains bottlenecked, energy markets are spiraling, and every extra day of war compounds a global economic shock that now touches everything from aviation to plastics.
+**Why it matters:** The prolonged war is disrupting global oil shipments through the Strait of Hormuz, rattling world markets, and creating dangerous pressure on US President Trump ahead of midterm elections.
 
-🏷️ Geopolitics / War / Economy
+🏷️ Geopolitics / Middle East
 
-### #2 | Russian Drone Hits Chornobyl Nuclear Fuel Facility; Zelensky in London for E3 Talks
+### #2 | ☢️ Russian Drone Strikes Spent Nuclear Fuel Storage at Chornobyl; Zelensky Heads to London Summit
 
-A Russian drone struck a spent nuclear fuel storage building near the Chornobyl nuclear plant, which Ukraine's state operator Energoatom called "partially destroyed." A fire was extinguished and radiation levels remain normal, but Zelensky labeled the strike a "vile" deliberate attack on critical nuclear infrastructure. The attack came as Zelensky arrived in London for emergency talks with UK PM Starmer, French President Macron, and German Chancellor Merz — the so-called E3 group — to coordinate European military support. Putin had rejected Zelensky's open letter calling for direct peace negotiations just 24 hours earlier, saying he saw "no point" in meeting the Ukrainian leader.
+A Russian drone hit a storage facility for spent nuclear fuel near the Chornobyl nuclear plant in northern Ukraine, partially destroying the building. Ukrainian officials said radiation levels remain stable and the fire was extinguished, but President Zelensky condemned it as a "vile" deliberate strike on nuclear infrastructure. The attack came as Zelensky prepared to meet UK PM Starmer, French President Macron, and German Chancellor Merz for talks in London on European security guarantees for Ukraine. Separately, Putin rejected Zelensky's call for face-to-face talks, insisting Russia's war goals must be met first, while Ukraine launched an "unprecedented" drone attack on St Petersburg.
 
-**Why it matters:** A strike on a nuclear waste facility — even without a radiation leak — crosses a dangerous threshold and underscores the nuclear risks embedded in this four-year war as diplomatic channels remain deadlocked.
+**Why it matters:** The strike on a nuclear facility raises the spectre of radiological disaster and underscores the escalating nature of the conflict as US attention shifts to the Iran war.
 
-🏷️ War / Europe / Nuclear Safety
+🏷️ Ukraine-Russia / Nuclear Security
 
-### #3 | Ebola Outbreak in DR Congo and Uganda on 'Dangerous Trajectory'; Could Match 2014 Record
+### #3 | 🗳️ Armenia Votes in Pivotal Election: Pro-West Government vs Russian Pressure
 
-US CDC modeling warns the Ebola outbreak spreading across DR Congo and Uganda could approach the scale of the devastating 2014 West Africa epidemic that killed over 11,000 people. Rebel attacks in eastern DRC are hampering response efforts, killing at least 30 civilians and disrupting health workers. A controversial US plan to build an "American-only" Ebola quarantine centre in Kenya has drawn sharp criticism from experts who say it undermines coordinated international response. An untreatable strain is complicating containment efforts, and vaccine supplies remain strained.
+Armenians went to the polls on June 7 in an election that could determine whether the country continues its westward shift or returns to Moscow's orbit. Incumbent PM Nikol Pashinyan faces declining domestic support (from 54% to ~30%) over his handling of the Nagorno-Karabakh loss and the divisive peace deal with Azerbaijan. Russia has stepped up economic pressure, banning exports of Armenian flowers, mineral water, cognac, and fresh produce days before the vote. Moscow is Armenia's largest trading partner, accounting for 36% of foreign trade. Pashinyan's main challenger is billionaire Samvel Karapetyan, who made his fortune in Russia and is currently under house arrest.
 
-**Why it matters:** A major Ebola resurgence while global attention and resources are consumed by the Iran war could turn a regional health crisis into an uncontained pandemic.
+**Why it matters:** This election is a test case for post-Soviet nations weighing EU integration against economic dependence on Russia, with ripple effects across the Caucasus.
 
-🏷️ Global Health / Africa
+🏷️ Geopolitics / Eastern Europe
 
-### #4 | UK Deputy PM Tells JD Vance His Comments on Murdered British Teen Were 'Wrong'
+### #4 | 🇺🇸🇬🇧 US-UK Tensions Escalate: Lammy Tells Vance He Was "Wrong" on Novak Murder; Hegseth's D-Day Speech Sparks Fury
 
-UK Deputy Prime Minister David Lammy revealed he called US Vice President JD Vance to directly tell him his remarks about the murder of 18-year-old Henry Nowak were "wrong." Vance had blamed the killing on "the mass invasion of migrants" and European elites' "politics of self-hatred," despite the convicted killer being a British-born citizen. Lammy described the conversation as "robust" but "agreeable," while Nowak's father had urged the public not to exploit his son's death for division. Far-right parties across Europe, including Reform UK, have seized on the case, and the UK's National Police Chiefs' Council is reviewing its anti-racism language in the wake of the murder.
+UK Deputy PM David Lammy told the BBC he called US Vice-President JD Vance directly to tell him his comments blaming the murder of British student Henry Novak on the "mass invasion of migrants" were "wrong" — the killer was British-born. Separately, US Defence Secretary Pete Hegseth used a D-Day anniversary speech in Normandy to accuse European nations of allowing an "invasion" of migrants on their beaches, drawing condemnation from historians and campaigners who called it a desecration of the soldiers' memory. The transatlantic relationship has been further strained by the UK's decision not to join US offensive military action in the Iran war.
 
-**Why it matters:** A direct diplomatic rebuke from a close ally over race-baiting rhetoric signals deepening friction in the US-UK "special relationship" — already strained by Britain's refusal to join US military action in Iran.
-
-🏷️ P</description><guid isPermaLink="false">rin-daily-news-en-2026-06-07</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-en-2026-06-07.mp3" length="2128320" type="audio/mpeg"/><pubDate>Sun, 07 Jun 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:05:54</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># Rinちゃん's Daily News Brief — June 7, 2026
+**Why it matters:** The public breakdown in diplomatic norms between senior US and UK officials signals the deepest rift in the "special relationship" in decades, with far-rig</description><guid isPermaLink="false">rin-daily-news-en-2026-06-07</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-en-2026-06-07.mp3" length="2128320" type="audio/mpeg"/><pubDate>Sun, 07 Jun 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:05:54</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># Rinちゃん's Daily News Brief — June 7, 2026
 
 ## 🌍 Top 5 Global Stories
 
-### #1 | Iran War Reaches 100th Day as US Shoots Down Iranian Drones
+### #1 | 🏆 Iran-US War Reaches 100th Day as US Shoots Down Drones Near Strait of Hormuz
 
-The US-Iran war hit its 100-day milestone with the</itunes:summary></item></channel></rss>
+The United States shot down two Iranian</itunes:summary></item><item><title>News Brief - June 08, 2026</title><description># Rinちゃん's Daily News Brief — June 8, 2026
+
+## 🌍 Top 5 Global Stories
+
+### #1 | Iran Launches Missiles at Israel, Israel Retaliates — Trump Pushes for Ceasefire
+In a dramatic escalation, Iran fired missiles at Israel on Sunday, which Tehran called "the beginning of a full week of continuous strikes." Israel responded with airstrikes on Iranian targets shortly after. US President Donald Trump told both countries to stop "shooting" and claimed both sides want an "immediate ceasefire," with "final peace negotiations" reportedly underway. Israeli media later reported the IDF halted its strikes, and Iran announced an end to its attacks — though it warned it would resume if Israel strikes Lebanon.
+
+**Why it matters:** A direct Iran-Israel military exchange risks dragging the entire Middle East into a broader conflict, with oil prices already spiking and global markets rattled.
+
+🏷️ Middle East / Geopolitics
+
+### #2 | Powerful 7.8-Magnitude Earthquake Strikes Southern Philippines, At Least 32 Dead
+A magnitude-7.8 earthquake hit the southern Philippines, triggering small tsunami waves that reached Indonesia and Japan. At least 32 people are confirmed dead, with the city of Digos particularly hard-hit. Dramatic footage showed schoolchildren screaming and taking cover as the ground shook violently. Rescue operations are ongoing as aftershocks continue to rattle the region.
+
+**Why it matters:** One of the strongest quakes to hit the region in years, with trans-national tsunami alerts underscoring the Pacific Ring of Fire's persistent threat to millions.
+
+🏷️ Natural Disaster / Asia
+
+### #3 | Xi Jinping Arrives in Pyongyang — First Visit in Seven Years
+Chinese President Xi Jinping received a colourful welcome in Pyongyang for his first visit to North Korea since 2019. The trip is widely seen as an effort by Beijing to reassert influence over a strategically vital yet increasingly unpredictable ally, especially as Pyongyang has deepened its military and diplomatic ties with Russia. Kim Jong-un personally greeted Xi at the airport.
+
+**Why it matters:** The visit signals Beijing's concern about losing leverage over North Korea to Moscow, with potential knock-on effects for regional security and nuclear diplomacy.
+
+🏷️ Asia / Geopolitics
+
+### #4 | Zelenskyy's European Allies Set Five Conditions for Ukraine Peace Talks
+President Zelenskyy met with close European allies in London, where they outlined five specific conditions for opening peace negotiations. While details remain guarded, the framework focuses on security guarantees, territorial integrity, and accountability mechanisms. The meeting came amid reports that Zelenskyy previously met Russian oligarch Roman Abramovich in Kyiv as a backchannel to Putin.
+
+**Why it matters:** After more than four years of war, European allies are coalescing around a concrete diplomatic off-ramp — but the gap between Kyiv's and Moscow's positions remains vast.
+
+🏷️ Europe / Ukraine War
+
+### #5 | Global Stock Markets Plunge on Tech Sell-Off and Middle East Crisis
+Markets in Europe and Asia tumbled as a tech sector sell-off combined with the Iran-Israel military exchange to send investors fleeing risk. Oil prices surged on supply disruption fears, while safe-haven assets like gold and the yen strengthened. The sell-off follows weeks of tech valuation concerns and adds economic jitters to an already tense geopolitical moment.
+
+**Why it matters:** A simultaneous tech correction and Middle East shock is a worst-case cocktail for global markets — and central banks have limited room to respond with inflation still above targets.
+
+🏷️ Economy / Markets
+
+---
+
+*Briefing curated by Rinちゃん. Sources: BBC, The Guardian, Al Jazeera, Reuters, AP. All times SGT.*
+</description><guid isPermaLink="false">rin-daily-news-en-2026-06-08</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-en-2026-06-08.mp3" length="1605312" type="audio/mpeg"/><pubDate>Mon, 08 Jun 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:04:27</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># Rinちゃん's Daily News Brief — June 8, 2026
+
+## 🌍 Top 5 Global Stories
+
+### #1 | Iran Launches Missiles at Israel, Israel Retaliates — Trump Pushes for Ceasefire
+In a dramatic escalation, Iran fired</itunes:summary></item></channel></rss>
