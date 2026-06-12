@@ -1,58 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃんの今日のニュース</title><link>https://lalalala4you.github.io/whole_news_world</link><description>毎朝お届けする世界の重要ニューストップ5。政治、テクノロジー、経済など、シンガポール・米国・中国・EU・日本から厳選。</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-ja.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-ja-1779799171.jpg</url><title>Rinちゃんの今日のニュース</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>ja</language><lastBuildDate>Thu, 11 Jun 2026 11:30:58 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-ja-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>毎朝お届けする世界の重要ニューストップ5。政治、テクノロジー、経済など、シンガポール・米国・中国・EU・日本から厳選。</itunes:summary><itunes:type>episodic</itunes:type><item><title>ニュース速報 - 2026年05月26日</title><description># Rinちゃんの今日のニュース — 2026年5月26日
-
-## 🌍 世界の重要ニュース トップ5
-
-### #1 | 米軍がイラン南部を新たに攻撃、和平交渉は難航
-
-米軍はイラン南部のバンダル・アッバース港周辺のミサイル発射基地および機雷敷設艇に対し新たな攻撃を実施した。米中央軍は「自衛」目的と説明しつつ「停戦中も自制を保ちながら部隊を防衛している」と述べた。一方、イラン外務省報道官は和平協議で「一部進展があった」としつつも「合意は差し迫っていない」と否定。トランプ大統領は週末に合意が近いと示唆し、60日間の停戦延長、ホルムズ海峡の再開、イランの核開発計画をめぐる交渉枠組みが協議されている。和平期待から原油価格は急落し、アジア市場は上昇した。
-
-**なぜ重要か：** 世界の原油の20%が通過するホルムズ海峡の再開がかかっており、2月に始まった米イラン戦争の行方と世界のエネルギー価格を左右する重大局面である。
-
-🏷️ 国際情勢 / エネルギー
-
-### #2 | ロシア、キーウへの組織的攻撃を予告　外国人に退避呼びかけ
-
-ロシアは、ウクライナの首都キーウに対し「意思決定中枢と司令部」を標的とした新たな組織的攻撃を予告した。これは開戦以来最大規模の空爆のわずか数日後の発表で、土曜夜の攻撃では弾道・巡航ミサイル数十発、無人機数百機、極超音速ミサイル「オレシュニク」が使用され、4名が死亡、約100名が負傷した。ラブロフ外相はルビオ米国務長官との電話会談でキーウ駐在の米国外交官の退避を要請。ウクライナ側は「恥知らずな脅迫」と非難し、同盟国にモスクワへの圧力強化を求めた。
-
-**なぜ重要か：** 4年以上続く戦争の中で首都キーウへの都市攻撃が激化しており、イラン紛争で西側の注意が分散する中、ロシアが攻勢を強める戦略的意図が鮮明になっている。
-
-🏷️ 戦争 / 欧州
-
-### #3 | 中国・山西省の炭鉱ガス爆発で82人死亡　安全対策に怒りの声
-
-中国山西省の柳樹峪炭鉱で発生したガス爆発により、少なくとも82名が死亡、120名以上が負傷した。2000年代以来最悪の炭鉱事故となる。運営会社の同州集団は「重大な違法行為」を犯していたことが判明。坑内の作業員数は公式記録の2倍で、提出された坑内図面は実態と異なり救助活動を困難にした。同社は2025年にすでに2度の行政処分を受けており、この炭鉱は全国の「重大危険」リストにも掲載されていた。厳しく管理された中国のネット上では異例の怒りの声が噴出し、「安全第一はいつになったら実現するのか」と責任追及の声が上がっている。
-
-**なぜ重要か：** 中国政府が長年かけて改善してきたと主張してきた炭鉱安全対策の深刻な欠陥が露呈し、経済的逆風と地政学的緊張に直面する政権への国民の信頼を揺るがす事態となっている。
-
-🏷️ 中国 / 災害
-
-### #4 | ネタニヤフ首相、ヒズボラへの攻撃強化を命令　ベカー渓谷にも拡大
-
-イスラエルのネタニヤフ首相は「攻撃の打撃を強め、強度を上げる」と宣言し、イスラエル軍はレバノン東部のベカー渓谷を含む地域への空爆を開始した。これは地理的に大きなエスカレーションである。ヒズボラは22回のドローン・ロケット攻撃で報復。4月16日の停戦合意以降もレバノン側で400名以上がイスラエルの攻撃で死亡し、100万人以上が避難を続けている。イランは米国との和平合意に全戦線の完全停戦を含めるよう要求しているが、イスラエル政府はレバノン戦線をイラン交渉と切り離す姿勢を崩していない。
-
-**なぜ重要か：** レバノン東部への攻撃拡大は、脆弱な停戦と米イラン和平協議の双方を頓挫させるリスクがあり、すでにレバノンだけで3,000人以上が死亡している地域戦争の長期化が懸念される。
-
-🏷️ 中東 / 紛争
-
-### #5 | ホワイトハウス発砲事件の容疑者、過去にシークレットサービスと複数回接触
-
-ホワイトハウス近くで土曜夕方に発砲したナシア・ベスト容疑者は、過去にもシークレットサービスと複数回接触していたことが裁判所文書で明らかになった。昨年6月にホワイトハウス入口を妨害し、自身を「イエス・キリスト」と名乗って精神鑑定を受けたが、その翌月にも同様の侵入未遂で逮捕された。さらに8月の公判に出廷せず逮捕状が出ていたにもかかわらず、土曜日にホワイトハウス近くの検問所に向けて発砲。通行人1名が負傷し、シークレットサービスが容疑者を射殺した。トランプ大統領は無事だった。4月の記者晩餐会での発砲事件に続き、1ヶ月で2件目のホワイトハウス警備事件となる。
-
-**なぜ重要か：** 既知の脅威人物を追跡・阻止するシークレットサービスの能力に深刻な疑問が生じており、米大統領の警備網の隙が露呈した形だ。
-
-🏷️ 米国 / 安全保障
-
----
-
-*Rinちゃんがお届けしました。情報源：BBC News、The Straits Times、AP通信。時刻はすべてシンガポール時間（UTC+8）。*
-</description><guid isPermaLink="false">rin-daily-news-ja-2026-05-26</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-ja-2026-05-26.mp3" length="1607248" type="audio/mpeg"/><pubDate>Tue, 26 May 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:05:00</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># Rinちゃんの今日のニュース — 2026年5月26日
-
-## 🌍 世界の重要ニュース トップ5
-
-### #1 | 米軍がイラン南部を新たに攻撃、和平交渉は難航
-
-米軍はイラン南部のバンダル・アッバース港周辺のミサイル発射基地および機雷敷設艇に対し新たな攻撃を実施した。米中央軍は「自衛」目的と説明しつつ「停戦中も自制を保ちながら部隊を防衛している」と述べた。一方、イラン外務省報道官は和平協議</itunes:summary></item><item><title>ニュース速報 - 2026年05月27日</title><description># リンちゃんのデイリーニュース — 2026年5月27日
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃんの今日のニュース</title><link>https://lalalala4you.github.io/whole_news_world</link><description>毎朝お届けする世界の重要ニューストップ5。政治、テクノロジー、経済など、シンガポール・米国・中国・EU・日本から厳選。</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-ja.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-ja-1779799171.jpg</url><title>Rinちゃんの今日のニュース</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>ja</language><lastBuildDate>Fri, 12 Jun 2026 11:12:12 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-ja-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>毎朝お届けする世界の重要ニューストップ5。政治、テクノロジー、経済など、シンガポール・米国・中国・EU・日本から厳選。</itunes:summary><itunes:type>episodic</itunes:type><item><title>ニュース速報 - 2026年05月27日</title><description># リンちゃんのデイリーニュース — 2026年5月27日
 
 ## 🌍 今日のトップ5
 
@@ -727,4 +674,59 @@ Applied Materials（アプライドマテリアルズ）はシンガポールに
 
 ### #1 | 米・イラン軍事衝突が激化——オマーン沖でタンカー被弾、3名のインド人船員死亡
 
-アメリカ軍はオマーン沖で2隻のタンカー（Settebello号とMarivex号）に対する攻撃を確認。この攻撃によりMarivex号に乗っていたインド人船員3名が死亡した。さらに3</itunes:summary></item></channel></rss>
+アメリカ軍はオマーン沖で2隻のタンカー（Settebello号とMarivex号）に対する攻撃を確認。この攻撃によりMarivex号に乗っていたインド人船員3名が死亡した。さらに3</itunes:summary></item><item><title>ニュース速報 - 2026年06月12日</title><description># 凛ちゃんのデイリーニュース — 2026年6月12日（金）
+
+## 🌍 世界のトップ5ニュース
+
+### #1 | トランプ大統領「戦争は終わった」──イラン核合意を発表、軍事攻撃を急転中止
+
+トランプ米大統領は11日、イランとの核合意が目前であると発表し、「対イラン戦争は終わった」と宣言した。ホワイトハウスとジョージア州の集会で語った内容によれば、イランは「核兵器を一切保有せず、いかなる方法でも開発・購入しない」ことを約束したという。合意文書は「ほぼ最終段階」であり、数日以内に欧州で署名式が行われ、JD・ヴァンス副大統領が出席する見通し。トランプ氏は、3日間にわたる米軍の継続的攻撃（中央軍発表で5万人以上が動員）がイランを交渉のテーブルに着かせたと主張している。
+
+しかしイラン外務省は即座に反論。「最終合意に至ったという報道は単なる憶測に過ぎない」とし、カタールとパキスタンが仲介に入っているものの、米側の立場が頻繁に変わったことで交渉が複雑化していると説明した。イラン国営メディアは、トランプ氏が過去2か月で合意目前と発言したのは今回で39回目だと指摘。発表を受け、S&amp;P500をはじめ米株式市場は急騰した。
+
+**世界的意義：** 米イラン核合意が実現すれば、中東情勢と世界の原油市場を一変させる数十年来の外交的転換点となる。
+
+🏷️ 国際政治／核不拡散
+
+### #2 | 米軍、ホルムズ海峡で商船3隻目を攻撃──インド人乗組員のタンカーも標的に
+
+米中央軍（CENTCOM）は、イラン産原油の海上封鎖を理由に、ペルシャ湾で3隻目の商船を「無力化」したと認めた。今回の標的はインド人乗組員が乗船するタンカーで、米側は同船が対イラン原油禁輸措置に違反したと主張している。世界の原油供給の約2割が通過するホルムズ海峡について、イラン外務省は「米国の行動により安全性が低下した」と警告。トランプ氏が和平合意を発表した一方で、海域では実力行使が続いており、外交的楽観と軍事的現実の乖離が浮き彫りとなっている。
+
+**世界的意義：** 商船への攻撃継続は世界のエネルギー供給網を直撃し、乗組員の出身国インドを含む第三国の海軍介入リスクを高める。
+
+🏷️ 海上安全保障／エネルギー
+
+### #3 | イスラエル軍、4月停戦合意にも関わらずレバノンで軍事行動を拡大
+
+4月中旬に合意された停戦にもかかわらず、イスラエル軍はレバノン南部での軍事作戦をエスカレートさせている。フランスとEUが主導する和平外交努力を骨抜きにする形で、新たな空爆と地上部隊の移動が今週に入って報告された。停戦崩壊の懸念が高まり、ヒズボラやイラン系武装勢力を巻き込んだ広域紛争への火種となっている。
+
+**世界的意義：** レバノン停戦の崩壊は、イスラエル北部、レバノンの脆弱な国家体制、そして中東全域での米国主導の外交枠組みを同時に脅かす。
+
+🏷️ 中東紛争
+
+### #4 | EU、対中貿易戦争の構え強める──同時に「主権クラウド」で技術自立へ
+
+欧州連合（EU）と中国の緊張が今週さらに高まった。EUの対中貿易戦争の脅威について、香港のサウスチャイナ・モーニング・ポスト紙は「戦略茶番劇」と評する論評を掲載。一方で欧州委員会は米中両国への技術依存脱却を目指し、「ソブリンクラウド」の技術基準を提案。また、EUイノベーション・プラットフォームを新設し、スタートアップへの資金供給ルートの一本化を開始した。ブリュッセルでは「欧州サステナブルエネルギー週間」も開催中で、グリーンエネルギーの自給化も並行して推進されている。貿易圧力と技術自給──この二正面作戦は、世界最大の貿易圏が統合から分断へ舵を切る構造的転換を示している。
+
+**世界的意義：** EUが対中貿易攻勢と技術主権の確立を同時に進める動きは、グローバルな貿易・技術アーキテクチャの根本的再編の前触れである。
+
+🏷️ 貿易／テクノロジー
+
+### #5 | 日本の自民党が戦後初の衆院3分の2超え──クアッド外相会合も開催
+
+2026年衆議院総選挙で、日本の自由民主党が465議席中316議席を獲得し、戦後初めて衆議院で3分の2超の議席を確保した。この圧倒的多数により、石破首相は憲法改正論議の加速や防衛費のさらなる増額に向けて、史上例のない政治的基盤を得たことになる。同時に、米・日・印・豪の4カ国（クアッド）外相がニューデリーで会合を開き、インド太平洋における中国の影響力拡大への対抗、半導体サプライチェーンの強靭化、南シナ海の航行の自由を主要議題に戦略的連携を再確認した。日本の政治的委任とクアッドの結束強化は、米中戦略競争が深まる太平洋のパワーバランスを根本から塗り替える力学である。
+
+**世界的意義：** 軍事的・政治的に強化された日本と、結束を強めるクアッドは、インド太平洋の戦略地図を描き直す決定的な変数となる。
+
+🏷️ インド太平洋／国際同盟
+
+---
+
+*本ブリーフィングは凛ちゃんがキュレーション。情報源：BBC、Reuters、AP、Straits Times。時刻表記はすべてシンガポール時間（SGT）。*
+</description><guid isPermaLink="false">rin-daily-news-ja-2026-06-12</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-ja-2026-06-12.mp3" length="2574144" type="audio/mpeg"/><pubDate>Fri, 12 Jun 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:07:09</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># 凛ちゃんのデイリーニュース — 2026年6月12日（金）
+
+## 🌍 世界のトップ5ニュース
+
+### #1 | トランプ大統領「戦争は終わった」──イラン核合意を発表、軍事攻撃を急転中止
+
+トランプ米大統領は11日、イランとの核合意が目前であると発表し、「対イラン戦争は終わった」と宣言した。ホワイトハウスとジョージア州の集会で語った内容によれば、イランは「核兵器を一切保有せず、いかなる方法</itunes:summary></item></channel></rss>

@@ -1,43 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link><description>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-en.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg</url><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>en</language><lastBuildDate>Thu, 11 Jun 2026 11:30:57 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</itunes:summary><itunes:type>episodic</itunes:type><item><title>News Brief - May 26, 2026</title><description># Rinちゃん's Daily News Brief — May 26, 2026
-
-## 🌍 Top 5 Global Stories
-
-### #1 | US Launches Fresh Strikes on Iran as Peace Deal Hangs in Balance
-
-The US military has launched new strikes on southern Iran, targeting missile launch sites and boats near Bandar Abbas on the Strait of Hormuz. US Central Command said the strikes were taken in "self-defence" and designed to protect American troops, while Iran's foreign ministry said "some progress" has been made in ongoing peace talks but a deal "is not imminent." President Trump had suggested the sides were close to a deal involving a 60-day ceasefire extension, reopening of the Strait of Hormuz, and a framework for negotiating Iran's nuclear programme. Oil prices fell sharply and Asian markets rose on Monday on hopes of an agreement, though Trump later said he had told negotiators "not to rush."
-
-**Why it matters:** The outcome of these negotiations will determine whether the Strait of Hormuz — through which 20% of the world's oil passes — reopens, directly affecting global energy prices and the trajectory of the US-Iran war that began in February.
-
-🏷️ Geopolitics / Energy
-
-### #2 | Russia Threatens Systematic Strikes on Kyiv, Tells Foreign Nationals to Leave
-
-Russia has threatened to launch a fresh wave of "systematic strikes" against Kyiv targeting "decision-making centres and command posts," days after carrying out one of the largest aerial assaults on the Ukrainian capital since the war began. Saturday night's barrage killed four people and injured about 100 across Ukraine, using dozens of ballistic and cruise missiles, hundreds of drones, and a hypersonic Oreshnik missile. Russian Foreign Minister Sergei Lavrov urged US Secretary of State Marco Rubio to evacuate American diplomats from Kyiv in a Monday phone call. Ukraine called the threats "shameless blackmail" and urged allies to increase pressure on Moscow.
-
-**Why it matters:** The escalation signals Moscow's intent to intensify urban warfare despite years of fortified Ukrainian air defences, threatening civilian life in the capital and testing Western resolve as attention is divided by the Iran conflict.
-
-🏷️ War / Europe
-
-### #3 | China's Deadliest Coal Mine Disaster in 15 Years Kills 82, Sparks Outrage
-
-At least 82 people were killed and more than 120 injured in a gas explosion at the Liushenyu coal mine in Shanxi province, China's deadliest mining disaster since the 2000s. Initial investigations revealed that Tongzhou Group, the private operator, had committed "serious illegal violations" — including unregistered workers (the number underground was double the official count) and falsified mine blueprints that complicated rescue efforts. The company had received two administrative penalties in 2025 and its mine was previously flagged on a national list of "severe hazards." On China's tightly-controlled internet, an unusual wave of public anger has erupted, with citizens demanding accountability.
-
-**Why it matters:** The disaster exposes deep failures in China's much-touted mine safety reforms, threatening public trust at a time when the government is already managing economic headwinds and geopolitical tensions.
-
-🏷️ China / Disaster
-
-### #4 | Netanyahu Orders Intensified Strikes Against Hezbollah, IDF Hits Bekaa Valley
-
-Israeli Prime Minister Benjamin Netanyahu announced that Israel will "increase the strikes, increase the intensity" against Hezbollah, calling for a "crushing blow" as the IDF launched attacks across Lebanon including the eastern Bekaa Valley — a significant geographic escalation. Hezbollah retaliated with 22 drone and rocket attacks on Israeli positions. Over 400 people have been killed in Lebanon since the 16 April ceasefire was agreed, and more than one million remain displaced. Iran is demanding that any peace deal with the US include a complete ceasefire on all fronts, but Israel's government has resisted linking the Lebanon front to Iran negotiations.
-
-**Why it matters:** The widening of Israel's cam</description><guid isPermaLink="false">rin-daily-news-en-2026-05-26</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-en-2026-05-26.mp3" length="1346328" type="audio/mpeg"/><pubDate>Tue, 26 May 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:05:00</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># Rinちゃん's Daily News Brief — May 26, 2026
-
-## 🌍 Top 5 Global Stories
-
-### #1 | US Launches Fresh Strikes on Iran as Peace Deal Hangs in Balance
-
-The US military has launched new strikes on southern</itunes:summary></item><item><title>News Brief - May 27, 2026</title><description># Rinちゃん's Daily News Brief — May 27, 2026
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link><description>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-en.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg</url><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>en</language><lastBuildDate>Fri, 12 Jun 2026 11:12:12 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</itunes:summary><itunes:type>episodic</itunes:type><item><title>News Brief - May 27, 2026</title><description># Rinちゃん's Daily News Brief — May 27, 2026
 
 ## 🌍 Top 5 Global Stories
 
@@ -584,4 +546,40 @@ Applied Materials officially opened a US$500 million manufacturing campus in Sin
 
 ### #1 | US-Iran Military Escalation: Oil Tankers Struck Near Oman as Tensions Boil Over
 
-The United States confirmed strikes</itunes:summary></item></channel></rss>
+The United States confirmed strikes</itunes:summary></item><item><title>News Brief - June 12, 2026</title><description># Rinちゃん's Daily News Brief — June 12, 2026
+
+## 🌍 Top 5 Global Stories
+
+### #1 | Trump Declares "War Ended," Announces Nuclear Deal with Iran as Strikes Called Off
+
+US President Donald Trump declared on Thursday that the United States had "ended the war with Iran," announcing a landmark nuclear agreement and cancelling planned military strikes that had been scheduled for the same evening. Speaking from the Oval Office and at a Georgia rally, Trump said Iran had "agreed never to have a nuclear weapon" and committed not to "purchase, develop in any way, any shape, or form a nuclear weapon." He described the accord as "a very strong memorandum of understanding" but acknowledged it remained "a little conceptual," adding that documents were in "pretty final shape" and a formal signing ceremony in Europe could take place within days, with Vice President JD Vance representing him. Iran's foreign ministry, however, pushed back, calling reports of a finalized deal "merely speculation," confirming that Qatar and Pakistan were mediating but that Washington's shifting positions had complicated the diplomatic process. The announcement came after three days of what Trump called sustained military action involving over 50,000 US troops under CENTCOM command, which Trump credited with forcing Tehran to the negotiating table.
+
+**Why it matters:** A US-Iran nuclear agreement would be the most consequential Middle East diplomatic breakthrough in decades, with immediate ripple effects on global oil markets, energy security, and great-power competition in the Gulf.
+
+🏷️ Geopolitics / Nuclear Non-Proliferation
+
+### #2 | US Admits Attacking Third Commercial Vessel in the Gulf; Blockade on Iranian Oil Tightens
+
+US Central Command admitted to disabling a third commercial vessel — this time with an Indian crew — in the Gulf, saying the tanker violated an American-imposed blockade on Iranian oil exports. The incident marks a significant escalation in the ongoing naval enforcement campaign around the Strait of Hormuz, through which roughly one-fifth of global oil supplies transit. Iran's foreign ministry warned that the Strait had become "less secure because of US actions." The attacks on commercial shipping, even as Trump announced a prospective deal, underscore the continued volatility of the maritime corridor and the disconnect between diplomatic rhetoric and military realities on the water.
+
+**Why it matters:** Attacks on commercial vessels in the Strait of Hormuz threaten global energy supply chains and risk drawing additional naval powers — including India, whose crew was directly affected — into an already explosive regional confrontation.
+
+🏷️ Maritime Security / Energy
+
+### #3 | Israeli Military Escalates in Lebanon Despite April Ceasefire Agreement
+
+Despite a ceasefire agreement reached in mid-April, the Israeli military continues to escalate operations in southern Lebanon, with new strikes and ground movements reported this week. The escalation undermines international diplomatic efforts led by France and the EU, and raises fears that the fragile truce could collapse entirely. The EU and France have been pressing for renewed peace talks in Paris, but the deteriorating situation on the ground threatens to spiral into a broader regional conflict involving Hezbollah and, potentially, Iran-aligned proxies across the Levant.
+
+**Why it matters:** A collapse of the Lebanon ceasefire would re-ignite a front that directly threatens Israel's northern border, Lebanon's already fragile state, and the broader US-led diplomatic framework across the Middle East.
+
+🏷️ Middle East Conflict
+
+### #4 | EU Sharpens Trade Sword Against China While Pushing Tech Sovereignty
+
+Tensions between Brussels and Beijing continued to escalate this week, with the European Union threatening a trade war that commentators in the South China Morning Post described as a "strategic farce." Simultaneously, the EU Commission proposed specific criteria for a "sovereign cloud" to reduce de</description><guid isPermaLink="false">rin-daily-news-en-2026-06-12</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-en-2026-06-12.mp3" length="2378880" type="audio/mpeg"/><pubDate>Fri, 12 Jun 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:06:36</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># Rinちゃん's Daily News Brief — June 12, 2026
+
+## 🌍 Top 5 Global Stories
+
+### #1 | Trump Declares "War Ended," Announces Nuclear Deal with Iran as Strikes Called Off
+
+US President Donald Trump declared</itunes:summary></item></channel></rss>
