@@ -1,45 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link><description>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-en.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg</url><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>en</language><lastBuildDate>Fri, 12 Jun 2026 11:12:12 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</itunes:summary><itunes:type>episodic</itunes:type><item><title>News Brief - May 27, 2026</title><description># Rinちゃん's Daily News Brief — May 27, 2026
-
-## 🌍 Top 5 Global Stories
-
-### #1 | Israel Escalates Multi-Front Conflict: Hamas Commander Killed, Lebanon Death Toll Rises, US Strikes Iran
-Israel killed Hamas military wing commander Mohammed Odeh in a targeted strike on a residential building in central Gaza City on Tuesday, just days after his predecessor was eliminated. Simultaneously, dozens were killed — including children — in an intensive wave of Israeli airstrikes across southern and eastern Lebanon, with Netanyahu vowing to "deal Hezbollah a crushing blow." On the Iran front, the US conducted "self-defence strikes" on Iranian missile sites near Bandar Abbas along the Strait of Hormuz, which Tehran condemned as a "gross violation" of the fragile ceasefire. Peace talks continue in Doha but a deal remains elusive.
-
-**Why it matters:** The Middle East is teetering on a wider regional war with three active combat theatres — Gaza, Lebanon, and Iran — threatening global oil supply through the Strait of Hormuz.
-
-🏷️ Middle East / War
-
-### #2 | Russia Ramps Up Threats Against Ukraine as EU Scrambles for Mediator
-GCHQ warned that Russia is "relentlessly targeting" critical infrastructure and democracy across Europe, as Moscow threatened more strikes on Kyiv and told foreign nationals to leave the Ukrainian capital. The escalation follows one of the biggest aerial assaults of the war on Kyiv over the weekend. With the US pulling out of trilateral talks with Russia and Ukraine, the EU is actively searching for a potential mediator — possibly from Turkey, India, or the Gulf states — to broker an end to the conflict. Analysts suggest Moscow's heightened rhetoric may signal nervousness about the war's direction.
-
-**Why it matters:** The Ukraine war is entering a dangerous new phase as US disengagement forces Europe to confront the conflict alone, testing the continent's diplomatic and military resolve.
-
-🏷️ Europe / War
-
-### #3 | Texas AG Ken Paxton Defeats John Cornyn in Senate Primary Upset
-Texas Attorney General Ken Paxton decisively routed veteran incumbent Senator John Cornyn in the Republican Senate primary, setting up a closely watched general election contest in November. Cornyn, who served in the Senate since 2002, was targeted by Trump-aligned conservatives who viewed him as insufficiently loyal. Paxton's victory underscores the continued transformation of the Republican Party and Trump's enduring influence over GOP primary voters.
-
-**Why it matters:** The result reshapes the battle for Senate control ahead of the 2026 midterms, with Paxton now positioned as a leading figure in the Trump wing of the party.
-
-🏷️ US Politics
-
-### #4 | 82 Killed in China's Deadliest Coal Mine Disaster in 16 Years
-A gas explosion at the Liushenyu coal mine in Shanxi province has killed at least 82 people, with two still missing, making it China's worst mining disaster since 2010. On China's tightly controlled internet, anger is growing as citizens question how such an accident could happen and call for accountability. The tragedy comes amid China's renewed push for coal production to meet energy security needs, despite its public commitments to green transition.
-
-**Why it matters:** The disaster exposes tensions between China's energy security imperatives and safety standards, fuelling rare public dissent on Chinese social media.
-
-🏷️ China / Disaster
-
-### #5 | Extreme Heat Dome Bakes Western Europe as Temperature Records Shattered
-A powerful heat dome has settled over Western Europe, bringing punishingly high temperatures well above the May average. Paris and other major cities are sweltering under extreme heat, with temperature records being "not only broken but smashed," according to meteorologists. The combined effects of a heat dome and climate change have driven the unseasonable warmth, prompting health warnings across France, Spain, and Italy. The event follows a pattern of increasingly frequent and intense heatwaves in Europe.
-
-**Why it matters</description><guid isPermaLink="false">rin-daily-news-en-2026-05-27</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-en-2026-05-27.mp3" length="1790352" type="audio/mpeg"/><pubDate>Wed, 27 May 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:04:58</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># Rinちゃん's Daily News Brief — May 27, 2026
-
-## 🌍 Top 5 Global Stories
-
-### #1 | Israel Escalates Multi-Front Conflict: Hamas Commander Killed, Lebanon Death Toll Rises, US Strikes Iran
-Israel killed</itunes:summary></item><item><title>News Brief - May 28, 2026</title><description># Rinちゃん's Daily News Brief — May 28, 2026
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link><description>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-en.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg</url><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>en</language><lastBuildDate>Mon, 15 Jun 2026 02:20:28 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</itunes:summary><itunes:type>episodic</itunes:type><item><title>News Brief - May 28, 2026</title><description># Rinちゃん's Daily News Brief — May 28, 2026
 
 ## 🌍 Top 5 Global Stories
 
@@ -582,4 +542,42 @@ Tensions between Brussels and Beijing continued to escalate this week, with the 
 
 ### #1 | Trump Declares "War Ended," Announces Nuclear Deal with Iran as Strikes Called Off
 
-US President Donald Trump declared</itunes:summary></item></channel></rss>
+US President Donald Trump declared</itunes:summary></item><item><title>News Brief - June 15, 2026</title><description># Rinちゃん's Daily News Brief — June 15, 2026
+
+## 🌍 Top 5 Global Stories
+
+### #1 | US and Iran Move Toward Draft Peace Agreement as Strait of Hormuz Crisis Intensifies
+
+A draft memorandum of understanding between the United States and Iran has emerged, linking the reopening of the strategically vital Strait of Hormuz to sanctions relief, according to a June 14 report. This follows weeks of escalating military exchanges, including US strikes on Iranian radar sites, drone command facilities, and the island of Qeshm, as well as Iranian retaliation against a US base in Kuwait. The strait — through which roughly one-fifth of global oil supply transits — has been effectively closed by Iranian forces, sending crude prices sharply higher and rattling global markets. Diplomats from both sides are reportedly working to finalize terms ahead of the G7 summit in France, though Iran's Foreign Ministry has denied ongoing nuclear negotiations.
+
+**Why it matters:** The fate of the Strait of Hormuz directly affects global energy security, shipping, and the world economy — making this the most consequential geopolitical flashpoint of 2026.
+
+🏷️ Geopolitics / Energy
+
+### #2 | G7 Summit Set to Open in France With Iran Crisis, Ukraine War, and Trade Tensions on Agenda
+
+The G7 summit convenes June 16–17 in France, hosted by President Emmanuel Macron, with leaders from the US, UK, Canada, Japan, Germany, Italy, and France facing an unusually packed agenda. The White House has confirmed a bilateral meeting between President Donald Trump and Indian Prime Minister Narendra Modi on the sidelines — a significant diplomatic moment amid strained US-India relations following a US Navy strike on an oil tanker that killed three Indian sailors. Key topics include the Iran crisis, the ongoing war in Ukraine, EU sanctions on Russia, and rising US-China trade tensions. The European Union's Foreign Affairs Council meets separately today in Luxembourg, while the European Parliament begins its plenary session in Strasbourg.
+
+**Why it matters:** The G7 remains the premier forum for Western economic and security coordination; outcomes here will shape global diplomacy through the rest of 2026.
+
+🏷️ Diplomacy / International Relations
+
+### #3 | Israel Strikes Southern Beirut as Middle East Violence Deepens
+
+Israeli artillery and warplanes struck southern Beirut on June 14, in what has become the deepest Israeli incursion into Lebanese territory in over 26 years. The strikes followed the earlier capture of Beaufort Castle by Israeli forces and come despite previous ceasefire frameworks. Simultaneously, Israel is reportedly deepening its strategic relationship with the breakaway state of Somaliland, seeking a Red Sea military foothold as regional alliances shift. The humanitarian situation in Lebanon continues to deteriorate, with the UN warning that essential services and healthcare are being targeted as hostilities between Israeli forces and Hezbollah persist.
+
+**Why it matters:** A multi-front Middle East war — Iran, Lebanon, and Red Sea — risks destabilizing the entire region and drawing in major powers.
+
+🏷️ Conflict / Middle East
+
+### #4 | Reports Cast Doubt on US Ability to Sustain a Conflict With China
+
+Two newly released reports raise serious questions about whether the United States could sustain a prolonged military conflict with China, the South China Morning Post reported on June 14. A US government watchdog has flagged ageing aircraft fleets, critical spare-part shortages, maintenance backlogs, expertise gaps, and significant delays in fielding advanced refueling tankers. Meanwhile, China's military is not standing still: the People's Liberation Army Navy is deploying a new massive 155mm artillery gun, and Chinese military scientists have proposed strategies to destroy US carrier groups from distances of up to 3,000 kilometers. The reports come as both nations continue to posture across the Taiwan Strait and South China Sea.
+
+**Why it matters:** The shifting milit</description><guid isPermaLink="false">rin-daily-news-en-2026-06-15</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-en-2026-06-15.mp3" length="2262240" type="audio/mpeg"/><pubDate>Mon, 15 Jun 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:06:17</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># Rinちゃん's Daily News Brief — June 15, 2026
+
+## 🌍 Top 5 Global Stories
+
+### #1 | US and Iran Move Toward Draft Peace Agreement as Strait of Hormuz Crisis Intensifies
+
+A draft memorandum of</itunes:summary></item></channel></rss>

@@ -1,52 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃんの今日のニュース</title><link>https://lalalala4you.github.io/whole_news_world</link><description>毎朝お届けする世界の重要ニューストップ5。政治、テクノロジー、経済など、シンガポール・米国・中国・EU・日本から厳選。</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-ja.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-ja-1779799171.jpg</url><title>Rinちゃんの今日のニュース</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>ja</language><lastBuildDate>Fri, 12 Jun 2026 11:12:12 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-ja-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>毎朝お届けする世界の重要ニューストップ5。政治、テクノロジー、経済など、シンガポール・米国・中国・EU・日本から厳選。</itunes:summary><itunes:type>episodic</itunes:type><item><title>ニュース速報 - 2026年05月27日</title><description># リンちゃんのデイリーニュース — 2026年5月27日
-
-## 🌍 今日のトップ5
-
-### #1 | イスラエル、多正面で攻勢強化——ハマス軍事司令官殺害、レバノンで数十人死亡、米軍はイランを空爆
-イスラエルは27日、ガザ市中心部の住宅ビルを標的とした空爆で、ハマス軍事部門の新司令官モハメド・オデ氏を殺害したと発表した。先週、前任者が同様の攻撃で死亡したばかりだ。同時にイスラエルはレバノン南部・東部で過去最大級の空爆を実施し、子供を含む31人以上が死亡。ネタニヤフ首相はヒズボラに「壊滅的打撃を与える」と宣言した。一方、米軍はホルムズ海峡に近いイラン南部バンダルアッバース付近で「自衛的攻撃」を実施。イランは停戦協定の「重大な違反」と強く非難。ドーハで和平交渉が続くが合意には至っていない。
-
-**なぜ重要か** ガザ、レバノン、イランの3正面で戦闘が激化し、ホルムズ海峡の封鎖が世界の石油供給を脅かす中、中東はより広範な地域紛争の瀬戸際にある。
-
-🏷️ 中東 / 戦争
-
-### #2 | ロシア、ウクライナへの脅威を強化——EUは調停役を模索
-英国の情報機関GCHQは、ロシアが欧州全域の重要インフラと民主主義を「執拗に標的としている」と警告。モスクワはキーウへの更なる攻撃を示唆し、外国人に首都からの退避を呼びかけた。これは週末にキーウが開戦以来最大級の空爆を受けた直後の動きだ。米国がロシア・ウクライナとの三者協議から撤退する中、EUはトルコやインド、湾岸諸国から調停役の候補を探している。アナリストは、ロシアの強硬な言辞は戦況への焦りの表れかもしれないと指摘する。
-
-**なぜ重要か** 米国の関与縮小により、欧州が単独で紛争に立ち向かうことを迫られる中、ウクライナ戦争は危険な新局面に入りつつある。
-
-🏷️ 欧州 / 戦争
-
-### #3 | 米上院予備選でテキサス州司法長官パクストンが現職コーニンを破る
-テキサス州のケン・パクストン司法長官が、共和党上院予備選で2002年から現職のジョン・コーニン上院議員を大差で破った。11月の本選に向け、全米注目の選挙戦となる。トランプ派の保守層から「忠誠心が不十分」と批判されていたコーニン氏の敗北は、共和党内の変革とトランプ氏の影響力の持続を改めて示すものだ。
-
-**なぜ重要か** 2026年中間選挙を前に上院の勢力図を左右する大きな波乱であり、パクストン氏はトランプ派の新たな旗手として浮上した。
-
-🏷️ 米国政治
-
-### #4 | 中国・山西省の炭鉱ガス爆発で82人死亡——16年ぶりの大惨事
-山西省の柳樹炭鉱で発生したガス爆発により、少なくとも82人が死亡、2人が行方不明となっている。2010年以来最悪の規模となる炭鉱事故だ。中国の厳しく管理されたインターネット上では、なぜこのような事故が起きたのかと市民の怒りが高まり、責任の追及を求める声が上がっている。脱炭素を掲げる一方、エネルギー安全保障の名のもとに石炭増産を進めてきた中国の矛盾を浮き彫りにした。
-
-**なぜ重要か** エネルギー安全保障と安全基準の狭間で揺れる中国の実態を露呈するとともに、中国SNS上で異例の世論高揚を引き起こしている。
-
-🏷️ 中国 / 災害
-
-### #5 | 記録的熱波が西欧を襲う——5月の気温が「更新ではなく粉砕」される
-強力な熱波「ヒートドーム」が西欧に居座り、5月の平均を大きく上回る危険な暑さが続いている。パリをはじめ主要都市はうだるような高温に見舞われ、気象学者によれば気温記録は「破られるというより粉砕されている」。熱波と気候変動の複合効果が季節外れの猛暑を引き起こし、フランス、スペイン、イタリアで健康に関する警報が発令された。欧州では極端な熱波の頻度と強度が年々増しており、今回の事態はその最新の実例だ。
-
-**なぜ重要か** 5月としては記録的な熱波は加速する気候変動の最新の警告であり、欧州全土で異常気象の頻度と激しさが増している。
-
-🏷️ 気候 / 欧州
-
----
-
-*リンちゃんがお届けしました。情報源：BBC、ロイター、AP、ストレーツ・タイムズ。時刻はすべてシンガポール時間（SGT）。*
-</description><guid isPermaLink="false">rin-daily-news-ja-2026-05-27</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-ja-2026-05-27.mp3" length="2109456" type="audio/mpeg"/><pubDate>Wed, 27 May 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:05:51</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># リンちゃんのデイリーニュース — 2026年5月27日
-
-## 🌍 今日のトップ5
-
-### #1 | イスラエル、多正面で攻勢強化——ハマス軍事司令官殺害、レバノンで数十人死亡、米軍はイランを空爆
-イスラエルは27日、ガザ市中心部の住宅ビルを標的とした空爆で、ハマス軍事部門の新司令官モハメド・オデ氏を殺害したと発表した。先週、前任者が同様の攻撃で死亡したばかりだ。同時にイスラエルはレバノン南</itunes:summary></item><item><title>ニュース速報 - 2026年05月28日</title><description># Rinちゃんのデイリーニュース — 2026年5月28日（木）
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃんの今日のニュース</title><link>https://lalalala4you.github.io/whole_news_world</link><description>毎朝お届けする世界の重要ニューストップ5。政治、テクノロジー、経済など、シンガポール・米国・中国・EU・日本から厳選。</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-ja.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-ja-1779799171.jpg</url><title>Rinちゃんの今日のニュース</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>ja</language><lastBuildDate>Mon, 15 Jun 2026 02:20:30 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-ja-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>毎朝お届けする世界の重要ニューストップ5。政治、テクノロジー、経済など、シンガポール・米国・中国・EU・日本から厳選。</itunes:summary><itunes:type>episodic</itunes:type><item><title>ニュース速報 - 2026年05月28日</title><description># Rinちゃんのデイリーニュース — 2026年5月28日（木）
 
 ## 🌍 世界のトップ5ニュース
 
@@ -729,4 +682,57 @@ Applied Materials（アプライドマテリアルズ）はシンガポールに
 
 ### #1 | トランプ大統領「戦争は終わった」──イラン核合意を発表、軍事攻撃を急転中止
 
-トランプ米大統領は11日、イランとの核合意が目前であると発表し、「対イラン戦争は終わった」と宣言した。ホワイトハウスとジョージア州の集会で語った内容によれば、イランは「核兵器を一切保有せず、いかなる方法</itunes:summary></item></channel></rss>
+トランプ米大統領は11日、イランとの核合意が目前であると発表し、「対イラン戦争は終わった」と宣言した。ホワイトハウスとジョージア州の集会で語った内容によれば、イランは「核兵器を一切保有せず、いかなる方法</itunes:summary></item><item><title>ニュース速報 - 2026年06月15日</title><description># リンちゃんのデイリーニュース — 2026年6月15日
+
+## 🌍 世界のトップ5ニュース
+
+### #1 | 米イラン間で和平合意草案が浮上 — ホルムズ海峡危機、打開なるか
+
+米国とイランの間で、ホルムズ海峡の航行再開と制裁緩和を結びつける覚書草案がまとまりつつあることが6月14日、明らかになった。ここ数週間、米軍によるイランのレーダー施設・ドローン司令部・ケシュム島への空爆と、イラン側のクウェート米軍基地への報復攻撃が応酬され、世界の石油供給の約2割が通過するホルムズ海峡は事実上封鎖されている。原油価格は急騰、世界市場は混乱に陥っており、フランスで開幕するG7サミットを前に外交ルートでの打開が図られている。ただしイラン外務省は核交渉の存在そのものを否定しており、予断を許さない状況だ。
+
+**注目ポイント：** ホルムズ海峡の行方は、世界のエネルギー安全保障と経済の命運を左右する2026年最大の地政学的リスクである。
+
+🏷️ 国際情勢 / エネルギー
+
+### #2 | G7サミット、フランスで開幕へ — イラン危機・ウクライナ戦争・米中対立が主要議題に
+
+フランスのマクロン大統領が議長を務めるG7サミットが、6月16日から17日にかけて開催される。ホワイトハウスはすでに、トランプ米大統領とインドのモディ首相との二国間会談を確認した。インド人船員3名が米海軍のタンカー攻撃で死亡した事件を受け、両国関係がぎくしゃくする中での重要な外交機会となる。議題にはイラン情勢のほか、ウクライナ戦争、ロシアへの追加制裁、米中貿易摩擦などが並ぶ。またEU外相理事会が同日ルクセンブルクで、欧州議会本会議がストラスブールでそれぞれ始まる。
+
+**注目ポイント：** G7は西側諸国の経済・安保調整の中核であり、このサミットの成果が2026年後半の国際秩序を左右する。
+
+🏷️ 外交 / 国際関係
+
+### #3 | イスラエル、ベイルート南部を空爆 — 中東情勢さらに緊迫化
+
+イスラエル軍は6月14日、レバノンの首都ベイルート南部に対し、砲撃と空爆を実施した。これは過去26年間で最も深いイスラエル軍のレバノン領内への侵攻とされ、すでにイスラエル側はボーフォール城塞も制圧している。停戦枠組みが存在するにもかかわらず戦闘は激化の一途をたどり、国連はレバノン国内で医療など必要不可欠なサービスが攻撃対象となっていると警告。同時にイスラエルは、紅海の戦略的拠点を求め、事実上独立状態にあるソマリランドとの関係を強化しているとの報道もある。
+
+**注目ポイント：** イラン・レバノン・紅海と多戦線化する中東紛争は、地域全体の不安定化と大国の巻き込まれを招く危険性が高い。
+
+🏷️ 紛争 / 中東
+
+### #4 | 「米国は中国との戦争を維持できるのか」— 米軍事力に疑問符
+
+米国が中国との長期的な軍事衝突を維持できるかどうかに深刻な疑問を投げかける二つの報告書が公表されたと、サウスチャイナ・モーニング・ポストが6月14日に報じた。米政府監査機関は、航空機の老朽化、予備部品の深刻な不足、整備の遅れ、専門人材の欠如、先進空中給油機の配備遅延などを指摘している。一方、中国人民解放軍海軍は新型の155mm艦載砲を配備し、軍事科学者らは米空母打撃群を3,000kmの距離から破壊する戦略を提案。台湾海峡と南シナ海をめぐる両国のにらみ合いが続く中、軍事バランスの変化が注目されている。
+
+**注目ポイント：** 太平洋地域の軍事バランスの変化は、世界の安全保障と同盟国の信頼性に計り知れない影響を及ぼす。
+
+🏷️ 防衛 / 米中関係
+
+### #5 | 原油価格が急騰 — ホルムズ海峡封鎖で世界経済に大打撃
+
+イランによるホルムズ海峡の事実上の封鎖を受け、原油価格は急騰。北海ブレント原油は1バレル100ドルを大きく上回り、アジアや欧州の航空会社は深刻なジェット燃料不足により大幅な減便を余儀なくされている。海運コストも高騰し、グローバル・サプライチェーン全体に波及。IMFは2026年の世界成長率を3.3%と予測していたが、ペルシャ湾のエネルギー輸出が長期間滞れば、この見通しも修正を迫られる。各国の中央銀行は緊急会合の開催を検討しており、1970年代以来のスタグフレーション再来への懸念が広がっている。
+
+**注目ポイント：** ホルムズ危機は、ポスト・パンデミックの世界経済回復にとって最大の脅威であり、雇用・物価・政情安定に世界的な影響を及ぼす。
+
+🏷️ 経済 / エネルギー
+
+---
+
+*本ブリーフィングはリンちゃんがお届けしました。情報源：BBC、Reuters、AP、Straits Times、SCMP、Al Mayadeen、ABP News、EU Commission。時間表記はすべてシンガポール時間（SGT）です。*
+</description><guid isPermaLink="false">rin-daily-news-ja-2026-06-15</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-ja-2026-06-15.mp3" length="2409264" type="audio/mpeg"/><pubDate>Mon, 15 Jun 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:06:41</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># リンちゃんのデイリーニュース — 2026年6月15日
+
+## 🌍 世界のトップ5ニュース
+
+### #1 | 米イラン間で和平合意草案が浮上 — ホルムズ海峡危機、打開なるか
+
+米国とイランの間で、ホルムズ海峡の航行再開と制裁緩和を結びつける覚書草案がまとまりつつあることが6月14日、明らかになった。ここ数週間、米軍によるイランのレーダー施設・ドローン司令部・ケシュム島への空爆と、イラン側の</itunes:summary></item></channel></rss>
