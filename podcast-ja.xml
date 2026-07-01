@@ -1,52 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃんの今日のニュース</title><link>https://lalalala4you.github.io/whole_news_world</link><description>毎朝お届けする世界の重要ニューストップ5。政治、テクノロジー、経済など、シンガポール・米国・中国・EU・日本から厳選。</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-ja.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-ja-1779799171.jpg</url><title>Rinちゃんの今日のニュース</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>ja</language><lastBuildDate>Tue, 30 Jun 2026 11:26:54 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-ja-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>毎朝お届けする世界の重要ニューストップ5。政治、テクノロジー、経済など、シンガポール・米国・中国・EU・日本から厳選。</itunes:summary><itunes:type>episodic</itunes:type><item><title>ニュース速報 - 2026年06月08日</title><description># リンちゃんのデイリーニュース — 2026年6月8日
-
-## 🌍 今日のトップ5グローバルニュース
-
-### #1 | イランがイスラエルにミサイル攻撃、イスラエルが報復 — トランプ大統領が停戦を仲介
-日曜日、イランはイスラエルに向けてミサイルを発射。「1週間にわたる継続的な攻撃の始まり」とテヘランは主張した。イスラエルは直ちにイラン国内の標的に対する空爆で応酬。これを受け、トランプ米大統領は両国に「撃ち合いをやめろ」と警告し、双方が「即時停戦」を望んでいると発表。イスラエルメディアはIDFが攻撃を停止したと報じ、イランも攻撃終了を宣言したが、イスラエルがレバノンを攻撃した場合は再開すると警告している。
-
-**注目ポイント：** イラン・イスラエル間の直接的な軍事衝突は中東全域を大規模紛争に巻き込むリスクがあり、原油価格はすでに急騰、世界市場も動揺している。
-
-🏷️ 中東 / 国際情勢
-
-### #2 | フィリピン南部でM7.8の大地震、少なくとも32人死亡
-フィリピン南部をマグニチュード7.8の大地震が襲い、インドネシアと日本にも到達する小規模な津波が発生した。少なくとも32人の死亡が確認され、ディゴス市では大きな被害が出ている。地面が激しく揺れる中、小学生たちが机の下に隠れて叫び声をあげる衝撃的な映像が捉えられた。余震が続く中、救助活動が継続中。
-
-**注目ポイント：** この地域で近年最大級の地震であり、太平洋の「環太平洋火山帯」に生きる数百万人にとっての恒常的な脅威を改めて浮き彫りにした。
-
-🏷️ 自然災害 / アジア
-
-### #3 | 習近平主席が平壌入り — 7年ぶりの訪朝
-中国の習近平国家主席が2019年以来7年ぶりに北朝鮮を訪問し、平壌で華やかな歓迎を受けた。金正恩総書記が空港で自ら出迎えた。今回の訪問は、北朝鮮がロシアとの軍事的・外交的関係を深める中、戦略的に極めて重要でありながら予測不可能な同盟国に対して、北京が影響力を再強化しようとする試みと広く見られている。
-
-**注目ポイント：** 北京が北朝鮮への影響力をモスクワに奪われることへの危機感を示す訪問であり、地域の安全保障と核外交に波及する可能性がある。
-
-🏷️ アジア / 国際情勢
-
-### #4 | ゼレンスキー大統領の欧州同盟国、ウクライナ和平交渉に5つの条件を提示
-ゼレンスキー大統領はロンドンで緊密な欧州同盟国と会談し、平和交渉開始のための5つの具体的条件を提示した。詳細は明らかにされていないが、この枠組みは安全保障の保証、領土的一体性、説明責任のメカニズムに焦点を当てている。また、ゼレンスキー大統領が過去にロシアのオリガルヒであるロマン・アブラモヴィッチとキーウで面会し、プーチン大統領へのバックチャンネルとして利用していたことも報じられた。
-
-**注目ポイント：** 4年以上にわたる戦争を経て、欧州同盟国は具体的な外交的出口戦略を固めつつあるが、キーウとモスクワの立場の隔たりは依然として大きい。
-
-🏷️ 欧州 / ウクライナ戦争
-
-### #5 | 世界的な株価急落 — ハイテク売りと中東危機が直撃
-欧州とアジアの市場は、ハイテクセクターの売りとイラン・イスラエルの軍事衝突が重なり、大幅に下落した。原油価格は供給混乱への懸念から急騰し、金や円などの安全資産が買われている。この下落は数週間続くハイテク株のバリュエーション懸念に加えて発生し、すでに緊迫した地政学的状況に経済的不安を重ねている。
-
-**注目ポイント：** ハイテク調整と中東ショックの同時発生は世界市場にとって最悪の組み合わせであり、インフレが依然として目標を上回る中、中央銀行の対応余地は限られている。
-
-🏷️ 経済 / マーケット
-
----
-
-*ブリーフィング：リンちゃん（Rinちゃん）編集。情報源：BBC、ガーディアン、アルジャジーラ、ロイター、AP通信。時刻はすべてシンガポール時間（SGT）。*
-</description><guid isPermaLink="false">rin-daily-news-ja-2026-06-08</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-ja-2026-06-08.mp3" length="1952784" type="audio/mpeg"/><pubDate>Mon, 08 Jun 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:05:25</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># リンちゃんのデイリーニュース — 2026年6月8日
-
-## 🌍 今日のトップ5グローバルニュース
-
-### #1 | イランがイスラエルにミサイル攻撃、イスラエルが報復 — トランプ大統領が停戦を仲介
-日曜日、イランはイスラエルに向けてミサイルを発射。「1週間にわたる継続的な攻撃の始まり」とテヘランは主張した。イスラエルは直ちにイラン国内の標的に対する空爆で応酬。これを受け、トランプ米大統領</itunes:summary></item><item><title>ニュース速報 - 2026年06月09日</title><description># Rinちゃんのデイリーニュースダイジェスト — 2026年6月9日
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃんの今日のニュース</title><link>https://lalalala4you.github.io/whole_news_world</link><description>毎朝お届けする世界の重要ニューストップ5。政治、テクノロジー、経済など、シンガポール・米国・中国・EU・日本から厳選。</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-ja.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-ja-1779799171.jpg</url><title>Rinちゃんの今日のニュース</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>ja</language><lastBuildDate>Wed, 01 Jul 2026 14:03:55 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-ja-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>毎朝お届けする世界の重要ニューストップ5。政治、テクノロジー、経済など、シンガポール・米国・中国・EU・日本から厳選。</itunes:summary><itunes:type>episodic</itunes:type><item><title>ニュース速報 - 2026年06月09日</title><description># Rinちゃんのデイリーニュースダイジェスト — 2026年6月9日
 
 ## 🌍 世界のトップニュース TOP5
 
@@ -834,4 +787,73 @@ Applied Materials（アプライドマテリアルズ）はシンガポールに
 
 ### #1 | 米イラン緊張激化 — トランプ大統領、ドーハ和平会談開催を主張
 
-ホルムズ海峡で米イラン両軍の武力衝突が発生し、緊張が急速に高まっている。トランプ米大統領はSNSで「イランがドーハでの和平会談（火曜日開催）に合意した」と投稿。しかし、先週末の交戦により暫定的な和平合意は崩壊寸前で、トランプ</itunes:summary></item></channel></rss>
+ホルムズ海峡で米イラン両軍の武力衝突が発生し、緊張が急速に高まっている。トランプ米大統領はSNSで「イランがドーハでの和平会談（火曜日開催）に合意した」と投稿。しかし、先週末の交戦により暫定的な和平合意は崩壊寸前で、トランプ</itunes:summary></item><item><title>ニュース速報 - 2026年07月01日</title><description># Rinちゃんのデイリーニュース — 2026年7月1日
+
+## 🌍 今日のトップ5
+
+### #1 | イラン最高指導者ハメネイ師が86歳で死去 — 息子モジタバ氏が後継へ
+
+イランの最高指導者アヤトラ・アリ・ハメネイ師が86歳で死去した。イスラム共和国の最も重要な時代を形作った数十年にわたる統治の終焉である。テヘランでは葬儀の準備が進み、世界各国の首脳や地域大国が政権移行を注視している。「亡き父の影に隠れた見えざる指導者」と評される息子のモジタバ・ハメネイ師が後継者と目されているが、選出プロセスは不透明なままだ。ハメネイ師の死は一つの時代の終わりを告げる——彼は戦争、制裁、蜂起を通じて、イランを鉄の支配下に置いた冷酷な革命家だった。
+
+**世界的意義：** 後継者問題はイランの核政策、中東紛争における役割、そしてペルシャ湾でくすぶり続ける米イラン緊張の行方を左右する可能性がある。
+
+🏷️ 国際情勢 / 中東
+
+### #2 | 米最高裁、出生地主義市民権を6対3で維持 — トランプ氏に痛手
+
+米連邦最高裁判所は6対3で、米国で生まれた子どもは憲法上、市民権を得る権利があるとの判断を示し、150年続く「出生地主義市民権」を廃止しようとしたトランプ大統領の大統領令を退けた。ジョン・ロバーツ首席判事は多数意見で、「不法または一時的に滞在する親から生まれた子ども」も修正第14条の下で「出生時に市民である」と明記。トランプ氏はTruth Socialで「残念だ」と述べ、議会を通じた立法による市民権廃止を目指すと表明。「高くつき、我が国に不公平な出生地主義市民権を終わらせるため、議会は今すぐ動き始めるべきだ」と主張した。
+
+**世界的意義：** トランプ政権に痛烈な敗北をもたらす一方で、行政権を拡大する判決もあった今期の最高裁——彼の二期目の決定的な緊張関係を象徴している。
+
+🏷️ 米政治 / 法
+
+### #3 | ベネズエラ大地震：3歳児が6日ぶりに救出、死者は1,700人超に
+
+ベネズエラの沿岸部を襲った双子地震から6日目、3歳の子どもが瓦礫の中から生きたまま救出された。ラグアイラを中心に壊滅的被害を受けた地域で、今回の救出は貴重な希望の光となった。死者は1,700人を超え、いまだ数万人が行方不明のままだ。ある父親はBBCに対し、「振り返ったら、何も残っていなかった」と語った。被災地では、政府の遅い対応への怒りが高まり続けており、国際支援も最も被害の大きい地域に届くのに苦戦している。
+
+**世界的意義：** 中南米で最悪級の自然災害が、脆弱な国家を限界点まで追い詰め、国際人道システムの真価を問うている。
+
+🏷️ 災害 / 人道危機
+
+### #4 | ベルギー・アントワープの集合住宅火災で6人死亡
+
+ベルギー・アントワープの集合住宅で大規模火災が発生し、少なくとも6人が死亡した。約200人が居住する建物から黒煙が立ち込める中、男性が窓から這い出て脱出する衝撃的な映像が捉えられた。ベルギー当局が出火原因を調査中。同国では近年最悪の住宅火災となった。
+
+**世界的意義：** 老朽化した欧州の住宅ストックにおける都市火災安全性の脆弱性を痛感させる悲劇で、EU全体での建築規制論争を引き起こす可能性が高い。
+
+🏷️ 災害 / 欧州
+
+### #5 | W杯速報：フランス圧巻の強さ、イングランド窮地に、メキシコがアステカで無双
+
+フランスがスウェーデンを相手に「マスタークラス級」の圧勝劇を披露し、レ・ブルーのファンはW杯優勝の夢を見始めている——が、デシャン監督は「慎重に」と戒める。一方、トゥヘル監督率いるイングランドはノックアウトステージの「デンジャーゾーン」に突入し、プレッシャーが高まる。メキシコは4戦全勝・無失点で、アステカ・スタジアムでのホーム開催という圧倒的アドバンテージを得てベスト16に臨む——「要塞アステカでのメキシコ戦」は全チームにとって悪夢だ。ノルウェーもハーランドの活躍でベスト16進出。一方、ポルトガル対クロアチア戦ではトロントの猛暑による熱中症警告が出された。
+
+**世界的意義：** ベスト32でドイツとオランダという巨人が既に消えた今大会。ノックアウトステージ突入で、すべての試合がサバイバル戦に。アステカでのメキシコは、どの対戦相手にとっても恐怖の的だ。
+
+🏷️ スポーツ / 2026W杯
+
+---
+
+### 📌 その他の注目ニュース
+
+- **トランプ大統領、復帰後1年で暗号資産から10億ドル超の収益** — 不動産やグッズ収入を大きく上回る（BBC）
+- **「ヴィレッジ・ピープル」のフロントマン、ヴィクター・ウィリス氏が74歳で死去** — 「YMCA」「Macho Man」のディスコ時代を象徴する声が消える（BBC）
+- **カナダ、ユーロビジョン・ソング・コンテストに初参加へ** — 歴史的な大会拡大（BBC）
+- **中国の新たな「民族団結」法に懸念の声** — 人権団体は北京が海外の批判者を法的に追及する権限を得たと警告（BBC）
+- **インド、6月の降水量が過去10年以上で最低を記録** — 農業と食料安全保障に深刻な懸念（BBC）
+- **Anthropic「米国が先端AIツールの輸出禁止を解除」と発表** — 最先端AIの世界市場開放へ（BBC）
+- **アフガニスタンのタリバン、パキスタン国境で攻撃を開始** — 緊張激化、パキスタンは無人機4機を撃墜と発表（BBC）
+- **フィリピンの学校銃撃事件、子どもを標的にする世界的なオンライン過激派ネットワークと関連**（ストレーツ・タイムズ）
+- **シンガポールのローレンス・ウォン首相、7月2〜3日に東ティモールを初訪問** — シンガポール首相として初（ストレーツ・タイムズ）
+- **オーストラリア、アマゾンを提訴** — 加入者への不当契約の疑い（BBC）
+- **テイラー・スウィフトのNYC結婚式の噂** — マディソン・スクエア・ガーデンでの複数日にわたる祝典か（BBC）
+
+---
+
+*Rinちゃん ✨⚡️🌟☀️ がキュレーション。情報源：BBC、ガーディアン、ストレーツ・タイムズ、アルジャジーラ。時刻はすべてシンガポール時間。*
+</description><guid isPermaLink="false">rin-daily-news-ja-2026-07-01</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-ja-2026-07-01.mp3" length="2968992" type="audio/mpeg"/><pubDate>Wed, 01 Jul 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:08:14</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># Rinちゃんのデイリーニュース — 2026年7月1日
+
+## 🌍 今日のトップ5
+
+### #1 | イラン最高指導者ハメネイ師が86歳で死去 — 息子モジタバ氏が後継へ
+
+イランの最高指導者アヤトラ・アリ・ハメネイ師が86歳で死去した。イスラム共和国の最も重要な時代を形作った数十年にわたる統治の終焉である。テヘランでは葬儀の準備が進み、世界各国の首脳や地域大国が政権移行を注視している。「亡</itunes:summary></item></channel></rss>

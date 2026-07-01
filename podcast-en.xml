@@ -1,52 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link><description>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-en.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg</url><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>en</language><lastBuildDate>Tue, 30 Jun 2026 11:26:53 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</itunes:summary><itunes:type>episodic</itunes:type><item><title>News Brief - June 08, 2026</title><description># Rinちゃん's Daily News Brief — June 8, 2026
-
-## 🌍 Top 5 Global Stories
-
-### #1 | Iran Launches Missiles at Israel, Israel Retaliates — Trump Pushes for Ceasefire
-In a dramatic escalation, Iran fired missiles at Israel on Sunday, which Tehran called "the beginning of a full week of continuous strikes." Israel responded with airstrikes on Iranian targets shortly after. US President Donald Trump told both countries to stop "shooting" and claimed both sides want an "immediate ceasefire," with "final peace negotiations" reportedly underway. Israeli media later reported the IDF halted its strikes, and Iran announced an end to its attacks — though it warned it would resume if Israel strikes Lebanon.
-
-**Why it matters:** A direct Iran-Israel military exchange risks dragging the entire Middle East into a broader conflict, with oil prices already spiking and global markets rattled.
-
-🏷️ Middle East / Geopolitics
-
-### #2 | Powerful 7.8-Magnitude Earthquake Strikes Southern Philippines, At Least 32 Dead
-A magnitude-7.8 earthquake hit the southern Philippines, triggering small tsunami waves that reached Indonesia and Japan. At least 32 people are confirmed dead, with the city of Digos particularly hard-hit. Dramatic footage showed schoolchildren screaming and taking cover as the ground shook violently. Rescue operations are ongoing as aftershocks continue to rattle the region.
-
-**Why it matters:** One of the strongest quakes to hit the region in years, with trans-national tsunami alerts underscoring the Pacific Ring of Fire's persistent threat to millions.
-
-🏷️ Natural Disaster / Asia
-
-### #3 | Xi Jinping Arrives in Pyongyang — First Visit in Seven Years
-Chinese President Xi Jinping received a colourful welcome in Pyongyang for his first visit to North Korea since 2019. The trip is widely seen as an effort by Beijing to reassert influence over a strategically vital yet increasingly unpredictable ally, especially as Pyongyang has deepened its military and diplomatic ties with Russia. Kim Jong-un personally greeted Xi at the airport.
-
-**Why it matters:** The visit signals Beijing's concern about losing leverage over North Korea to Moscow, with potential knock-on effects for regional security and nuclear diplomacy.
-
-🏷️ Asia / Geopolitics
-
-### #4 | Zelenskyy's European Allies Set Five Conditions for Ukraine Peace Talks
-President Zelenskyy met with close European allies in London, where they outlined five specific conditions for opening peace negotiations. While details remain guarded, the framework focuses on security guarantees, territorial integrity, and accountability mechanisms. The meeting came amid reports that Zelenskyy previously met Russian oligarch Roman Abramovich in Kyiv as a backchannel to Putin.
-
-**Why it matters:** After more than four years of war, European allies are coalescing around a concrete diplomatic off-ramp — but the gap between Kyiv's and Moscow's positions remains vast.
-
-🏷️ Europe / Ukraine War
-
-### #5 | Global Stock Markets Plunge on Tech Sell-Off and Middle East Crisis
-Markets in Europe and Asia tumbled as a tech sector sell-off combined with the Iran-Israel military exchange to send investors fleeing risk. Oil prices surged on supply disruption fears, while safe-haven assets like gold and the yen strengthened. The sell-off follows weeks of tech valuation concerns and adds economic jitters to an already tense geopolitical moment.
-
-**Why it matters:** A simultaneous tech correction and Middle East shock is a worst-case cocktail for global markets — and central banks have limited room to respond with inflation still above targets.
-
-🏷️ Economy / Markets
-
----
-
-*Briefing curated by Rinちゃん. Sources: BBC, The Guardian, Al Jazeera, Reuters, AP. All times SGT.*
-</description><guid isPermaLink="false">rin-daily-news-en-2026-06-08</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-en-2026-06-08.mp3" length="1605312" type="audio/mpeg"/><pubDate>Mon, 08 Jun 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:04:27</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># Rinちゃん's Daily News Brief — June 8, 2026
-
-## 🌍 Top 5 Global Stories
-
-### #1 | Iran Launches Missiles at Israel, Israel Retaliates — Trump Pushes for Ceasefire
-In a dramatic escalation, Iran fired</itunes:summary></item><item><title>News Brief - June 09, 2026</title><description># Rinちゃん's Daily News Brief — June 9, 2026
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link><description>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-en.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg</url><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>en</language><lastBuildDate>Wed, 01 Jul 2026 14:03:54 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</itunes:summary><itunes:type>episodic</itunes:type><item><title>News Brief - June 09, 2026</title><description># Rinちゃん's Daily News Brief — June 9, 2026
 
 ## 🌍 Top 5 Global Stories
 
@@ -570,4 +523,50 @@ Monaco is in shock after a parcel bomb exploded in the principality, injuring a 
 
 ### #1 | US-Iran Tensions Flare in Gulf as Trump Claims Peace Talks Set for Doha
 
-The Strait of Hormuz saw a dangerous</itunes:summary></item></channel></rss>
+The Strait of Hormuz saw a dangerous</itunes:summary></item><item><title>News Brief - July 01, 2026</title><description># Rinちゃん's Daily News Brief — July 1, 2026
+
+## 🌍 Top 5 Global Stories
+
+### #1 | Iran's Supreme Leader Ali Khamenei Dies at 86 — Son Mojtaba Poised to Succeed
+
+Iran's Supreme Leader Ayatollah Ali Khamenei has died at the age of 86, ending a decades-long reign that shaped the Islamic Republic's most consequential years. Funeral preparations are underway in Tehran, with world leaders and regional powers closely watching the transition. His son, Mojtaba Khamenei, widely described as an "unseen leader shadowed by his late father," is expected to succeed him, though the process remains opaque. Khamenei's death marks the end of an era — he was the ruthless revolutionary who held Iran in an iron grip through wars, sanctions, and uprisings.
+
+**Why it matters:** The succession could reshape Iran's nuclear policy, its role in Middle East conflicts, and the fate of the US-Iran tensions still simmering in the Gulf.
+
+🏷️ Geopolitics / Middle East
+
+### #2 | US Supreme Court Upholds Birthright Citizenship, 6-3 Blow to Trump
+
+The US Supreme Court has ruled 6-3 that children born in the United States have a constitutional right to citizenship, rejecting President Trump's executive order to end the 150-year-old policy. Chief Justice John Roberts wrote in the majority opinion that children born to parents "unlawfully or temporarily present" are "citizens at birth" under the 14th Amendment. Trump called the decision "too bad" on Truth Social and vowed to pursue legislation to end birthright citizenship through Congress, calling it "expensive, and unfair to our country."
+
+**Why it matters:** The ruling is the capstone of a Supreme Court term that both dealt Trump heavy defeats and expanded his executive power — a defining tension of his second term.
+
+🏷️ US Politics / Law
+
+### #3 | Venezuela Earthquake: 3-Year-Old Rescued After 6 Days, Death Toll Rises
+
+A three-year-old child has been pulled alive from rubble in Venezuela six days after twin earthquakes devastated coastal regions including La Guaira. The rescue brought a rare moment of hope as the death toll surpassed 1,700 with tens of thousands still missing. Families continue to search desperately through debris — one father told the BBC, "When I turned around, nothing was left." Anger at the government's slow response continues to grow as international aid struggles to reach the hardest-hit areas.
+
+**Why it matters:** One of Latin America's deadliest natural disasters is stretching a fragile state to its breaking point — and testing the international humanitarian system.
+
+🏷️ Disaster / Humanitarian
+
+### #4 | Antwerp Apartment Fire Kills Six in Belgium
+
+A devastating fire ripped through an apartment block in Antwerp, Belgium, killing at least six people. Dramatic footage showed a man clambering through a window to escape thick black smoke from the building, which housed approximately 200 residents. Belgian authorities are investigating the cause of the blaze. The fire is the deadliest residential incident in Belgium in recent years.
+
+**Why it matters:** A tragic reminder of urban fire safety vulnerabilities in aging European housing stock, likely to spark building regulation debates across the EU.
+
+🏷️ Disaster / Europe
+
+### #5 | World Cup Roundup: France Dominant, England Enters Danger Zone, Mexico Rampant at Azteca
+
+France delivered a "masterclass" dismantling of Sweden, leaving Les Bleus fans dreaming of a World Cup title — but coach Didier Deschamps urged caution. Meanwhile, England coach Thomas Tuchel faces mounting pressure as the Three Lions enter the "danger zone" of knockout football. Mexico have won all four games without conceding a goal, and with home advantage at the fortress Azteca Stadium for their last-16 match, they're looking unstoppable. Norway also advanced behind Erling Haaland's heroics, while Portugal-Croatia fans were warned of severe heat in Toronto.
+
+**Why it matters:** The Round of 32 has already claimed giants (Germany, Netherlands). As knockout rounds begin, every match</description><guid isPermaLink="false">rin-daily-news-en-2026-07-01</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-en-2026-07-01.mp3" length="2409984" type="audio/mpeg"/><pubDate>Wed, 01 Jul 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:06:41</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># Rinちゃん's Daily News Brief — July 1, 2026
+
+## 🌍 Top 5 Global Stories
+
+### #1 | Iran's Supreme Leader Ali Khamenei Dies at 86 — Son Mojtaba Poised to Succeed
+
+Iran's Supreme Leader Ayatollah Ali</itunes:summary></item></channel></rss>
