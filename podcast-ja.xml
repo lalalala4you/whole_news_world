@@ -1,58 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃんの今日のニュース</title><link>https://lalalala4you.github.io/whole_news_world</link><description>毎朝お届けする世界の重要ニューストップ5。政治、テクノロジー、経済など、シンガポール・米国・中国・EU・日本から厳選。</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-ja.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-ja-1779799171.jpg</url><title>Rinちゃんの今日のニュース</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>ja</language><lastBuildDate>Wed, 01 Jul 2026 14:03:55 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-ja-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>毎朝お届けする世界の重要ニューストップ5。政治、テクノロジー、経済など、シンガポール・米国・中国・EU・日本から厳選。</itunes:summary><itunes:type>episodic</itunes:type><item><title>ニュース速報 - 2026年06月09日</title><description># Rinちゃんのデイリーニュースダイジェスト — 2026年6月9日
-
-## 🌍 世界のトップニュース TOP5
-
-### #1 | フィリピン・ミンダナオ島でM7.8の大地震、37人死亡・500人近く負傷
-
-6月8日（月）、コタバト海溝を震源とするマグニチュード7.8の巨大地震がフィリピン南部を襲い、少なくとも37人が死亡、約500人が負傷した。停電と通信障害がミンダナオ島の広範囲で発生し、約2,000棟の住宅と6,000校の学校が損壊。余震は数百回に及び、土砂崩れで孤立した集落への救援活動が続いている。月曜恒例の朝礼で校舎外にいた児童・生徒たちが無事だったケースが多く報告され、奇跡的に救われた命があったことも明らかになっている。
-
-**なぜ重要か:** フィリピン数十年来の強震であり、被災地へのアクセスが断たれたまま、人道危機の拡大が懸念される。
-
-🏷️ 自然災害
-
-### #2 | イスラエルとイランが応酬、中東停戦合意が揺らぐ
-
-週末にかけて、イスラエルが4月の停戦以降初めてイラン国内を空爆。これに対しイランは報復としてミサイルを発射した。トランプ大統領はBBCに対し、イスラエル機が「すでに離陸していた」と認めつつも、ネタニヤフ首相が自身に従わなかったとの見方は否定。「最終局面」にある和平合意について「2、3日以内」にも成立する可能性を示唆し、ホルムズ海峡の再開にも言及した。一方、レバノンのティルスへのイスラエル空爆では少なくとも8人が死亡している。
-
-**なぜ重要か:** 米国が同盟国をどこまで抑制できるのかという根本的な疑問が浮き彫りになり、テヘランは交渉力を高める好機と捉えている。
-
-🏷️ 地政学 / 中東
-
-### #3 | 習近平氏が北朝鮮訪問、7年ぶりに影響力の再強化図る
-
-習近平中国国家主席が2019年以来となる北朝鮮公式訪問を実施。ロシアに接近しつつある金正恩氏の体制に対して、北京が再び影響力を強める狙いがあると見られる。平壌では歓迎セレモニーが行われたが、BBCの中国担当記者は「友情というよりはレバレッジ（梃子）が目的」と指摘。訪問を終えた習氏は「中国の影響力の再確認」という成果を残したと報じられている。
-
-**なぜ重要か:** 北朝鮮がウクライナ戦争を背景にロシアとの軍事協力を深める中、伝統的な唯一の同盟国である北朝鮮への影響力を北京が手放さないという決意を示した。
-
-🏷️ 地政学 / 東アジア
-
-### #4 | OpenAIがIPO申請、AI3社の公開競争が激化
-
-ChatGPTを運営するOpenAIが米SECにIPO（新規株式公開）の極秘申請を行った。競合のAnthropicは先週に続き、SpaceXも評価額1.75兆ドルを目標とする株式公開を準備中。3社はいずれもAIインフラ、半導体、モデル学習に巨額の資金を必要としており、OpenAIだけでも年間約1,000億ドルを計算リソースに費やしているとされる。公開時期は未定だが、非公開評価額がそれぞれ1兆ドル近くに達する中、市場デビューの順番を巡る争いが本格化している。
-
-**なぜ重要か:** 依然として巨額の赤字を抱える生成AI企業の評価が公開市場でどう受け入れられるか、業界全体の行方を左右する分水嶺となる。
-
-🏷️ テクノロジー / ビジネス
-
-### #5 | トランプ大統領がNBAファイナル会場で大ブーイング、ニックスは敗戦
-
-現職大統領として初めてNBAファイナルの試合を観戦したドナルド・トランプ氏は、マディソン・スクエア・ガーデンで大ブーイングを浴びた。ニューヨーク・ニックス対サンアントニオ・スパーズの第3戦が行われ、厳重な警備措置によりマンハッタン中心部は大規模な交通規制が敷かれ、ファンから不満が噴出。試合はニックスが111-115で敗れ、シリーズ成績は2勝1敗となった。トランプ氏は「ほとんどが歓声だった」と語っている。
-
-**なぜ重要か:** 故郷であるニューヨークでのトランプ氏に対する根強い反感と、大統領のスポーツ観戦に伴う前例のない警備規模を如実に示した。
-
-🏷️ 米国政治 / スポーツ
-
----
-
-*Rinちゃんがお届けしました。情報源：BBC、The Guardian、Straits Times、Al Jazeera。時刻はすべてシンガポール時間。*
-</description><guid isPermaLink="false">rin-daily-news-ja-2026-06-09</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-ja-2026-06-09.mp3" length="2108736" type="audio/mpeg"/><pubDate>Tue, 09 Jun 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:05:51</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># Rinちゃんのデイリーニュースダイジェスト — 2026年6月9日
-
-## 🌍 世界のトップニュース TOP5
-
-### #1 | フィリピン・ミンダナオ島でM7.8の大地震、37人死亡・500人近く負傷
-
-6月8日（月）、コタバト海溝を震源とするマグニチュード7.8の巨大地震がフィリピン南部を襲い、少なくとも37人が死亡、約500人が負傷した。停電と通信障害がミンダナオ島の広範囲で発生し、約</itunes:summary></item><item><title>ニュース速報 - 2026年06月10日</title><description># Rinちゃんのデイリーニュース — 2026年6月10日
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃんの今日のニュース</title><link>https://lalalala4you.github.io/whole_news_world</link><description>毎朝お届けする世界の重要ニューストップ5。政治、テクノロジー、経済など、シンガポール・米国・中国・EU・日本から厳選。</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-ja.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-ja-1779799171.jpg</url><title>Rinちゃんの今日のニュース</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>ja</language><lastBuildDate>Sat, 04 Jul 2026 11:16:37 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-ja-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>毎朝お届けする世界の重要ニューストップ5。政治、テクノロジー、経済など、シンガポール・米国・中国・EU・日本から厳選。</itunes:summary><itunes:type>episodic</itunes:type><item><title>ニュース速報 - 2026年06月10日</title><description># Rinちゃんのデイリーニュース — 2026年6月10日
 
 ## 🌍 世界のトップ5ニュース
 
@@ -856,4 +803,65 @@ Applied Materials（アプライドマテリアルズ）はシンガポールに
 
 ### #1 | イラン最高指導者ハメネイ師が86歳で死去 — 息子モジタバ氏が後継へ
 
-イランの最高指導者アヤトラ・アリ・ハメネイ師が86歳で死去した。イスラム共和国の最も重要な時代を形作った数十年にわたる統治の終焉である。テヘランでは葬儀の準備が進み、世界各国の首脳や地域大国が政権移行を注視している。「亡</itunes:summary></item></channel></rss>
+イランの最高指導者アヤトラ・アリ・ハメネイ師が86歳で死去した。イスラム共和国の最も重要な時代を形作った数十年にわたる統治の終焉である。テヘランでは葬儀の準備が進み、世界各国の首脳や地域大国が政権移行を注視している。「亡</itunes:summary></item><item><title>ニュース速報 - 2026年07月04日</title><description># 凛ちゃんのデイリーニュース — 2026年7月4日
+
+## 🌍 世界のトップ5ニュース
+
+### #1 | イラン：ハメネイ師の6日間の葬儀が開始、数百万人がテヘランに集結
+
+アヤトラ・アリ・ハメネイ師が米国とイスラエルの共同攻撃で死亡してから4ヶ月以上が経過し、土曜日、テヘランのグランド・モサラには数千人の黒衣の追悼者が集まり、6日間にわたる葬儀が始まった。当局はイランとイラクで1500万〜2000万人が参列すると予想。遺体は3日間安置された後、聖地ゴム、イラクのナジャフとカルバラを経て、来週木曜日に故郷マシュハドのイマーム・レザー廟に埋葬される。参列者は反米スローガンを叫び、「最高指導者の血の復讐に来た」と語った。トランプ大統領は「我々は親切だから葬儀のために1週間の猶予を与えた」と述べ、和平交渉の可能性に言及。後継者のモジタバ師は就任以来公の場に姿を見せておらず、葬儀への登場が注目される。
+
+**なぜ重要か：** 米国・イスラエルとの未解決の紛争の中での指導者交代劇は、中東の安定と世界の原油市場に直接的な影響を及ぼす。
+
+🏷️ 国際政治 / 中東
+
+---
+
+### #2 | 米国建国250周年：トランプ氏、党派色強い演説と記録的花火で祝典を演出
+
+米国は土曜日、建国250周年を迎え、ワシントンDCでは85万発の花火、新エアフォースワンを含む1時間ごとの戦闘機編隊飛行、そしてトランプ大統領の「非常に長い演説」が計画された——すべて38℃の猛暑の中で。前夜にはラシュモア山で演説を行い、米国のアイデンティティが「過激派」や「共産主義の脅威」によって攻撃されていると主張、中間選挙を前にした党派的行動として批判を浴びている。ホワイトハウス主導のFreedom250は議会の超党派委員会America250を事実上乗っ取ったと非難されている。記録的な花火による大気汚染、雷雨の可能性、警備チェックによる人出への懸念も影を落とす。フィラデルフィアでは独立宣言署名の地として記念コンサートが開催され、クリスティーナ・アギレラらが出演する。
+
+**なぜ重要か：** 国家的節目における深い政治的分断の露呈は、11月の中間選挙と米国の国際的リーダーシップに影響を及ぼす。
+
+🏷️ 米国政治
+
+---
+
+### #3 | ドイツ、ロシア兵の中国訓練報道で中国大使を召喚——「極めて憂慮すべき事態」
+
+ドイツ外務省は金曜日、中国人民解放軍がロシア兵数百人を自国領内で秘密裏に訓練し、一部がウクライナに派遣されたとの報道を受け、中国大使をベルリンに召喚した。独紙ディー・ヴェルトが5月に欧州情報機関の機密文書を基に報じたもので、ドイツ側は「ロシアの対ウクライナ侵略戦争の継続を可能にするものは、我々の安全保障への脅威でもある」と表明。またロシアは東部コスチャンティニウカ（戦前人口7万8000人）の完全制圧を主張し、北部スームィへの滑空爆弾攻撃で子供を含む4人が死亡した。リトアニア大統領は核抑止力への統合を求め、憲法改正を発議。世界陸連はロシアとベラルーシの選手除外を再確認した。
+
+**なぜ重要か：** 中国によるロシアへの直接的な軍事支援の確認は、北京とモスクワの連携における重大なエスカレーションであり、NATOの対中戦略姿勢を根本から変える可能性がある。
+
+🏷️ 国際政治 / ウクライナ戦争
+
+---
+
+### #4 | 記録的熱波が米欧を直撃——気候危機が加速
+
+独立記念日の米国では1億6500万人以上が危険な猛暑警報下にあり、ワシントンDCからフィラデルフィアにかけて気温38℃に達し、各地で祝賀イベントが中止された。6月の欧州では、国連気象機関が「異常」と評した熱波が大陸を襲い、英国ノーフォークで37.7℃を記録——1957年以来の6月最高気温35.6℃を2℃以上更新。12カ国以上で6月の最高気温記録が最大3℃の差で破られた。科学者らは人為的気候変動の直接的な兆候と指摘。レディング大学のエド・ホーキンス教授は「世界が実質排出ゼロに達するまで、熱波はますます暑くなり続ける」と警告。欧州の海水温も記録的水準に達し、沿岸の冷却効果を弱めている。
+
+**なぜ重要か：** 二大陸同時の極端な熱波は気候変動の加速を如実に示し、対策の遅れが人間と経済にもたらす代償の大きさを警告している。
+
+🏷️ 気候 / 環境
+
+---
+
+### #5 | ワールドカップ2026：決勝トーナメント開幕——アルゼンチン苦戦、イングランド対メキシコ戦は混乱
+
+FIFAワールドカップ2026の決勝トーナメントが開幕。ディフェンディングチャンピオンのアルゼンチンはカーボベルデに2度追いつかれる大苦戦の末、延長戦で辛勝。コロンビアはガーナを1-0で下し、エジプトはモハメド・サラーのパネンカを含むPK戦でオーストラリアを撃破。イングランド対共催国メキシコの一戦は、FIFAがキックオフ時間の変更を発表した後に撤回する混乱が数時間続き、結局メキシコシティでの深夜1時（英国時間）開始に決定。イングランドチームは到着時にブーイングで迎えられた。一方、ドイツサッカー連盟は早期敗退を受けて辞任したナーゲルスマン監督の後任として、ユルゲン・クロップ氏との交渉を模索している。
+
+**なぜ重要か：** 北米開催のワールドカップは地球上で最も視聴されるイベントであり、決勝トーナメントのドラマは全大陸のファンを熱狂と分断の渦に巻き込んでいる。
+
+🏷️ スポーツ / ワールドカップ2026
+
+---
+
+*凛ちゃんがキュレーション。情報源：BBC、ロイター、AP、ガーディアン、ストレーツ・タイムズ、アルジャジーラ。表記時間は全てシンガポール時間（SGT）。*
+</description><guid isPermaLink="false">rin-daily-news-ja-2026-07-04</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-ja-2026-07-04.mp3" length="2809152" type="audio/mpeg"/><pubDate>Sat, 04 Jul 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:07:48</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># 凛ちゃんのデイリーニュース — 2026年7月4日
+
+## 🌍 世界のトップ5ニュース
+
+### #1 | イラン：ハメネイ師の6日間の葬儀が開始、数百万人がテヘランに集結
+
+アヤトラ・アリ・ハメネイ師が米国とイスラエルの共同攻撃で死亡してから4ヶ月以上が経過し、土曜日、テヘランのグランド・モサラには数千人の黒衣の追悼者が集まり、6日間にわたる葬儀が始まった。当局はイランとイラクで1500万〜</itunes:summary></item></channel></rss>

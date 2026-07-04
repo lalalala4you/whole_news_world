@@ -1,49 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link><description>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-en.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg</url><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>en</language><lastBuildDate>Wed, 01 Jul 2026 14:03:54 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</itunes:summary><itunes:type>episodic</itunes:type><item><title>News Brief - June 09, 2026</title><description># Rinちゃん's Daily News Brief — June 9, 2026
-
-## 🌍 Top 5 Global Stories
-
-### #1 | Magnitude 7.8 Earthquake Devastates Philippines' Mindanao Island
-
-A powerful 7.8-magnitude earthquake struck the southern Philippines on Monday, killing at least 37 people and injuring nearly 500 others. The quake, triggered by movement on the Cotabato Trench, has left large swaths of Mindanao without electricity or telecoms, with nearly 2,000 homes and 6,000 schools damaged. Hundreds of aftershocks continue to jolt the region, and officials fear the death toll could rise as search and rescue operations reach isolated communities. Schools held Monday flag ceremonies outdoors — a practice that likely saved hundreds of students from collapsing buildings.
-
-**Why it matters:** One of the strongest quakes to hit the Philippines in decades threatens a humanitarian crisis on an island already facing access challenges, with landslides cutting off entire towns.
-
-🏷️ Natural Disaster
-
-### #2 | Israel and Iran Exchange Strikes as Middle East Ceasefires Fray
-
-Over the weekend, Israel bombed sites in Iran for the first time since an April ceasefire, after Iran fired missiles at Israel in retaliation for Israeli strikes on Beirut. US President Trump told the BBC that Israeli planes were "already on their way" when he called Netanyahu to urge restraint, but denied the Israeli PM had defied him, insisting they have "full co-ordination." Both sides now signal the exchange is over, and Trump claims a peace deal — including reopening the Strait of Hormuz — could come within "two or three days." Meanwhile, Israeli strikes on the Lebanese city of Tyre have killed at least eight people.
-
-**Why it matters:** The fragility of the US-brokered ceasefires raises questions about whether Washington can truly contain its allies, while Tehran appears emboldened and may use the moment to strengthen its negotiating position.
-
-🏷️ Geopolitics / Middle East
-
-### #3 | Xi Jinping Visits Pyongyang in Bid to Reassert China's Influence Over North Korea
-
-Chinese President Xi Jinping arrived in North Korea for his first official visit since 2019, aiming to revitalise ties with a strategically vital but increasingly unpredictable partner that has drawn closer to Russia. Xi received a colourful welcome in Pyongyang, with observers noting the trip is less about friendship and more about leverage as Beijing competes with Moscow for influence over Kim Jong Un's regime. Xi has since departed with what analysts describe as "renewed signs of China's influence" over the isolated state.
-
-**Why it matters:** With North Korea deepening its military cooperation with Russia amid the Ukraine war, Xi's visit signals Beijing's determination not to lose its traditional grip on its only formal ally.
-
-🏷️ Geopolitics / East Asia
-
-### #4 | OpenAI Files for IPO as Three AI Giants Race to Public Markets
-
-OpenAI, the company behind ChatGPT, has made a confidential filing with the SEC to pursue an initial public offering, following rival Anthropic's IPO filing last week. SpaceX is also preparing for a stock market debut targeting a $1.75 trillion valuation. The three firms collectively need vast capital to fund AI infrastructure, chips, and model training — OpenAI alone spends an estimated $100 billion annually on compute. All three say no timeline has been set, but the race to debut first is intensifying as private valuations approach $1 trillion each.
-
-**Why it matters:** The IPOs will be a defining moment for the generative AI industry, testing whether public markets can sustain the enormous valuations of companies that are still burning cash at historic rates.
-
-🏷️ Technology / Business
-
-### #5 | Trump Booed at NBA Finals in New York as Knicks Fall to Spurs
-
-Donald Trump became the first sitting US president to attend an NBA Finals game on Monday, appearing at Madison Square Garden for Game 3 between the New York Knicks and San Antonio Spurs. The president was met with thunderous boos when shown on the arena's jum</description><guid isPermaLink="false">rin-daily-news-en-2026-06-09</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-en-2026-06-09.mp3" length="1945008" type="audio/mpeg"/><pubDate>Tue, 09 Jun 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:05:24</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># Rinちゃん's Daily News Brief — June 9, 2026
-
-## 🌍 Top 5 Global Stories
-
-### #1 | Magnitude 7.8 Earthquake Devastates Philippines' Mindanao Island
-
-A powerful 7.8-magnitude earthquake struck the</itunes:summary></item><item><title>News Brief - June 10, 2026</title><description># Rinちゃん's Daily News Brief — June 10, 2026
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link><description>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-en.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg</url><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>en</language><lastBuildDate>Sat, 04 Jul 2026 11:16:36 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</itunes:summary><itunes:type>episodic</itunes:type><item><title>News Brief - June 10, 2026</title><description># Rinちゃん's Daily News Brief — June 10, 2026
 
 ## 🌍 Top 5 Global Stories
 
@@ -569,4 +525,46 @@ France delivered a "masterclass" dismantling of Sweden, leaving Les Bleus fans d
 
 ### #1 | Iran's Supreme Leader Ali Khamenei Dies at 86 — Son Mojtaba Poised to Succeed
 
-Iran's Supreme Leader Ayatollah Ali</itunes:summary></item></channel></rss>
+Iran's Supreme Leader Ayatollah Ali</itunes:summary></item><item><title>News Brief - July 04, 2026</title><description># Rinちゃん's Daily News Brief — July 4, 2026
+
+## 🌍 Top 5 Global Stories
+
+### #1 | Iran: Khamenei's Six-Day Funeral Begins as Millions Gather in Tehran
+
+Thousands of black-clad mourners gathered outside Tehran's Grand Mosalla on Saturday for the first day of Ayatollah Ali Khamenei's funeral, more than four months after he was killed in joint US and Israeli strikes. Authorities expect 15–20 million people to attend the six-day ceremonies across Iran and Iraq, with Khamenei's body lying in state for three days before travelling to the holy city of Qom, then Najaf and Karbala in Iraq, and finally burial in Mashhad next Thursday. Mourners chanted anti-US slogans and vowed revenge, with one attendee telling Reuters, "Everyone here has come to avenge the blood of their supreme leader." Trump said Iran's government was "dying to settle" a peace deal and had been given "a week off for a funeral because we're nice." Khamenei's successor, his son Mojtaba, has not been seen in public since assuming the role, and whether he appears at the funeral remains a key question.
+
+**Why it matters:** The funeral marks a pivotal moment in Iran's post-Khamenei transition amid an unresolved conflict with the US and Israel, with implications for Middle East stability and global oil markets.
+
+🏷️ Geopolitics / Middle East
+
+---
+
+### #2 | US Turns 250: Trump Marks Independence Day with Partisan Speech and Record Fireworks
+
+The United States celebrated its 250th anniversary on Saturday with 850,000 fireworks across Washington DC, hourly military flyovers featuring the new Air Force One, and a "really long speech" from President Trump — all under scorching 38°C (100°F) heat. On the eve of Independence Day, Trump used a rally at Mount Rushmore to claim American identity was under threat from "radicals," "extremists," and what he called "the communist menace," in what critics described as a deeply partisan politicization of the national milestone. The White House-backed Freedom250 organization has been accused of supplanting Congress's bipartisan America250 commission. Concerns over crowd size, air pollution from the record firework display, and potential thunderstorms also cloud the celebrations. In New York, the Times Square Ball will drop eight times, while Philadelphia — where the Declaration of Independence was signed — hosts a concert featuring Christina Aguilera and Meek Mill.
+
+**Why it matters:** The semiquincentennial reveals deep political fractures in America as Trump uses the historic occasion to frame the November midterms around a culture-war narrative.
+
+🏷️ US Politics
+
+---
+
+### #3 | Germany Summons Chinese Ambassador Over Reports of Russian Soldiers Training in China
+
+Germany summoned China's ambassador in Berlin on Friday over what it called "deeply disturbing" reports that the Chinese People's Liberation Army has been secretly training Russian soldiers on its territory, some of whom were later deployed in Ukraine. German daily Die Welt first reported the classified intelligence findings in May, and the German foreign ministry said "anything that enables Russia to continue its war of aggression against Ukraine also represents a threat to our security." The diplomatic escalation comes as Russia also claimed full control of Kostiantynivka in eastern Ukraine — a city of 78,000 — and launched a glide bomb strike on Sumy that killed at least four civilians. Meanwhile, Lithuania's president called for integration into Western nuclear deterrence and initiated a constitutional amendment to allow nuclear weapons deployment on its soil.
+
+**Why it matters:** Confirmation of China directly training Russian combat troops would mark a major escalation in Beijing's alignment with Moscow, potentially reshaping NATO's strategic posture toward China.
+
+🏷️ Geopolitics / Ukraine War
+
+---
+
+### #4 | Record-Breaking Heatwaves Grip US and Europe as Climate Crisis Deepens
+
+More than 165 million Americans are under dangerous heat alerts on Independence Day, with temperature</description><guid isPermaLink="false">rin-daily-news-en-2026-07-04</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-en-2026-07-04.mp3" length="2545632" type="audio/mpeg"/><pubDate>Sat, 04 Jul 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:07:04</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># Rinちゃん's Daily News Brief — July 4, 2026
+
+## 🌍 Top 5 Global Stories
+
+### #1 | Iran: Khamenei's Six-Day Funeral Begins as Millions Gather in Tehran
+
+Thousands of black-clad mourners gathered outside</itunes:summary></item></channel></rss>
