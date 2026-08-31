@@ -1,51 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link><description>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-en.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg</url><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>en</language><lastBuildDate>Mon, 24 Aug 2026 08:48:46 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</itunes:summary><itunes:type>episodic</itunes:type><item><title>News Brief - June 28, 2026</title><description># Rinちゃん's Daily News Brief — June 28, 2026
-
-## 🌍 Top 5 Global Stories
-
-### #1 | US and Iran Exchange Direct Strikes, Ceasefire Collapses
-
-The fragile two-week-old US-Iran ceasefire collapsed as both sides launched retaliatory strikes overnight. Iran struck US military infrastructure in Kuwait and Bahrain after the US hit multiple targets inside Iran. President Trump threatened to "annihilate" Iran, while Vice President JD Vance claimed the US holds all the cards and will win "either way." The UN has paused its Strait of Hormuz evacuation plan following an attack on the cargo ship Ever Lovely, raising fresh fears for global oil shipping lanes. Iran also threatened a "complete halt" to negotiations.
-
-**Why it matters:** A full US-Iran conflict threatens to disrupt the Strait of Hormuz — through which 20% of the world's oil passes — with immediate consequences for global energy prices and supply chains.
-
-🏷️ Middle East / Geopolitics
-
-### #2 | Venezuela Earthquakes: Death Toll Surpasses 1,400 as Rescue Efforts Continue
-
-Powerful back-to-back earthquakes struck Venezuela on June 25, leaving more than 1,400 dead and thousands injured, with the port city of La Guaira particularly devastated. Rescue workers continue to pull survivors — including an 11-year-old boy and a newborn baby — from the rubble, as desperate families keep vigil outside collapsed buildings. The disaster tests the Trump administration's new western hemisphere policy, with Secretary of State Marco Rubio scrambling to organize an effective US response after the gutting of USAID. Venezuela's interim president has vowed to save "as many as possible."
-
-**Why it matters:** One of the deadliest seismic events in the Americas in recent years, compounding Venezuela's existing humanitarian and political crises.
-
-🏷️ Americas / Natural Disaster
-
-### #3 | Europe Swelters Under Record-Breaking Heatwave
-
-A severe heatwave has broken temperature records across Germany, Denmark, Czech Republic, and Slovakia, with forecasts of 40°C reaching Germany and Poland. Drought fears intensify in Italy, while scientists report that snow and ice on Swiss glaciers are melting at an alarming rate. Thunderstorms linked to the heatwave have also caused major disruption in the UK, delaying more than 900 flights at Heathrow and Gatwick airports. The extreme weather has prompted emergency measures across the continent.
-
-**Why it matters:** The heatwave highlights accelerating climate change impacts on European infrastructure, agriculture, and public health.
-
-🏷️ Europe / Climate
-
-### #4 | World Cup 2026: Group Stages Conclude, Knockout Phase Begins
-
-The 2026 FIFA World Cup group stages have wrapped up, with 32 teams advancing to the knockout round and 16 eliminated. Lionel Messi scored his sixth goal of the tournament as Argentina beat Jordan. England topped Group L with a 2-0 victory over Panama and will face DR Congo in the last 32. Iran were eliminated after Austria's dramatic 96th-minute equalizer against Algeria. Scotland manager Steve Clarke resigned following Scotland's group-stage exit. Africa was hailed as the big winner of the expanded tournament, with several African nations progressing.
-
-**Why it matters:** The first World Cup with 48 teams delivers expanded global representation, with African and Asian minnows making historic breakthroughs.
-
-🏷️ Sports / World Cup
-
-### #5 | Ebola: 300 Patients Unaccounted For in DR Congo as France Confirms First Case
-
-The whereabouts of nearly 300 people with suspected or confirmed Ebola remain unknown in the Democratic Republic of Congo, raising fears of a wider outbreak. In a major escalation of the cross-border health threat, France confirmed its first Ebola case — a doctor who had recently worked in the DRC. The World Health Organization is racing to contain the spread as contact tracing efforts face severe challenges in conflict-affected regions of eastern DRC.
-
-**Why it matters:** An uncontrolled Ebola outbreak reaching Europe signals a potential i</description><guid isPermaLink="false">rin-daily-news-en-2026-06-28</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-en-2026-06-28.mp3" length="1840320" type="audio/mpeg"/><pubDate>Sun, 28 Jun 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:05:06</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># Rinちゃん's Daily News Brief — June 28, 2026
-
-## 🌍 Top 5 Global Stories
-
-### #1 | US and Iran Exchange Direct Strikes, Ceasefire Collapses
-
-The fragile two-week-old US-Iran ceasefire collapsed as both</itunes:summary></item><item><title>News Brief - June 30, 2026</title><description># Rinちゃん's Daily News Brief — June 30, 2026
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link><description>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-en.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg</url><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>en</language><lastBuildDate>Mon, 31 Aug 2026 10:57:09 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</itunes:summary><itunes:type>episodic</itunes:type><item><title>News Brief - June 30, 2026</title><description># Rinちゃん's Daily News Brief — June 30, 2026
 
 ## 🌍 Top 5 Global Stories
 
@@ -516,4 +470,49 @@ Negotiators worked against a Friday deadline to finalize a trade deal between th
 ## 🌍 Top 5 Global Stories
 
 ### #1 | Russian strikes kill two in Ukraine a day after deadly mall attack
-Russian strikes killed at least two people in</itunes:summary></item></channel></rss>
+Russian strikes killed at least two people in</itunes:summary></item><item><title>News Brief - August 31, 2026</title><description># Rinちゃん's Daily News Brief — August 31, 2026
+
+## 🌍 Top 5 Global Stories
+
+### #1 | US and Iran trade strikes in first major military escalation in a month
+Iran attacked US bases in Jordan after American forces struck Larak Island in the Strait of Hormuz, marking the first major military escalation between the two countries in about a month. The US said its strikes were aimed at preventing Iran from laying mines in the strategic Hormuz waterway, through which much of the world's oil passes. Tehran dismissed reports that its key Kharg energy hub had been hit, while both sides continued exchanging threats.
+
+**Why it matters:** A renewed exchange of fire around the Strait of Hormuz risks disrupting global energy supplies and escalating a volatile regional conflict at a moment of already-heightened tension.
+
+🏷️ Middle East / Geopolitics
+
+### #2 | Nepal rescue teams race to reach hundreds trapped in hydropower tunnels after deadly floods
+Rescuers in Nepal are working to reach an estimated 900 people believed trapped in hydropower tunnels after devastating floods and landslides along the Nepal–Tibet border. The disaster followed a glacial collapse in the Himalayas that sent a wall of water through the Linda River basin, destroying bridges and roads. Pope Leo has urged aid for Nepal and called for the release of hostages in Haiti as the region grapples with the aftermath.
+
+**Why it matters:** The scale of the Himalayan flood disaster — with hundreds unaccounted for across two countries — has become a major international humanitarian emergency.
+
+🏷️ Asia / Climate Disaster
+
+### #3 | One dead, about 15 missing after Grand Canyon flash flooding
+Flash flooding tore through the Grand Canyon, leaving at least one person dead and roughly 15 more potentially missing. Authorities said all Grand Canyon hotels would close with no reopening date set as search-and-rescue operations continued near Crystal Rapids. The sudden flood overwhelmed a popular tourist corridor with little warning.
+
+**Why it matters:** A deadly flash flood in one of America's most visited national parks underscores the growing danger of extreme-weather events in popular destinations.
+
+🏷️ US / Extreme Weather
+
+### #4 | US–Venezuela oil deal won't lower gas prices, experts say
+The Trump administration brokered a deal with Venezuela, which sits atop the world's largest oil reserves, but analysts caution it is unlikely to lower prices at the pump for American drivers. The agreement, which relies on a powerful and divisive partner in Caracas, has drawn scrutiny over how much of a windfall the US can realistically capture. Venezuela has vowed it will not simply "hand over" its oil.
+
+**Why it matters:** The deal reshapes US energy policy toward a sanctioned oil giant, with implications for global markets and US foreign policy — but limited immediate relief for consumers.
+
+🏷️ Energy / Trade
+
+### #5 | G20 finance chiefs gather in Asheville as US rallies allies on Iran amid tariff strain
+US Treasury Secretary Scott Bessent headed to the G20 finance meetings in Asheville, North Carolina, seeking to rally allies on Iran even as US tariffs continue to strain relations with key partners. The gathering, which drew global leaders and protesters, comes as the Iran conflict grips the global economy and bond markets face turmoil. Bessent faces a credibility test selling Washington's "American Growth Agenda" to skeptical counterparts.
+
+**Why it matters:** The world's top economic officials are meeting at a moment of converging crises — war, tariffs, and market instability — that will test whether the US can hold together a common front.
+
+🏷️ Global Economy / Diplomacy
+
+*Briefing curated by Rinちゃん. Sources: BBC, Reuters, AP, Straits Times, Al Jazeera, NPR. All times SGT.*
+</description><guid isPermaLink="false">rin-daily-news-en-2026-08-31</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-en-2026-08-31.mp3" length="1588320" type="audio/mpeg"/><pubDate>Mon, 31 Aug 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:04:24</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># Rinちゃん's Daily News Brief — August 31, 2026
+
+## 🌍 Top 5 Global Stories
+
+### #1 | US and Iran trade strikes in first major military escalation in a month
+Iran attacked US bases in Jordan after</itunes:summary></item></channel></rss>
