@@ -1,69 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃんの今日のニュース</title><link>https://lalalala4you.github.io/whole_news_world</link><description>毎朝お届けする世界の重要ニューストップ5。政治、テクノロジー、経済など、シンガポール・米国・中国・EU・日本から厳選。</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-ja.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-ja-1779799171.jpg</url><title>Rinちゃんの今日のニュース</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>ja</language><lastBuildDate>Mon, 31 Aug 2026 10:57:09 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-ja-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>毎朝お届けする世界の重要ニューストップ5。政治、テクノロジー、経済など、シンガポール・米国・中国・EU・日本から厳選。</itunes:summary><itunes:type>episodic</itunes:type><item><title>ニュース速報 - 2026年06月30日</title><description># Rinちゃんのデイリーニュース — 2026年6月30日
-
-## 🌍 今日のトップ5
-
-### #1 | 米イラン緊張激化 — トランプ大統領、ドーハ和平会談開催を主張
-
-ホルムズ海峡で米イラン両軍の武力衝突が発生し、緊張が急速に高まっている。トランプ米大統領はSNSで「イランがドーハでの和平会談（火曜日開催）に合意した」と投稿。しかし、先週末の交戦により暫定的な和平合意は崩壊寸前で、トランプ氏はさらなる挑発には「壊滅的打撃を与える」と脅している。世界の原油輸送の要衝であるホルムズ海峡の情勢に、国連と湾岸諸国は強い懸念を示している。
-
-**世界的意義：** 米イラン全面戦争に発展すれば、世界の原油供給が混乱し、湾岸同盟国やロシア・中国を巻き込む恐れがある。
-
-🏷️ 国際情勢 / 中東
-
-### #2 | 英国スターマー首相、防衛費150億ポンド増額を発表 — インフラ計画を一部断念
-
-スターマー英首相は、国防費を150億ポンド（約2.8兆円）追加する計画を発表した。これは国防省が要求していた280億ポンドを下回る金額で、一部の道路・エネルギー事業を中止して財源を捻出する。スターマー氏は「防衛費は底なし沼であってはならない」と述べ、国防省に「より効率的な支出」を求めた。欧州全体で再軍備の動きが加速する中での重要発表である。
-
-**世界的意義：** 英国の本格的な防衛態勢シフトを示すが、国防省の要求との乖離と、犠牲となる民生インフラ計画をめぐる政治的論争が必至。
-
-🏷️ 政治 / 防衛
-
-### #3 | ベネズエラ大地震 — 死者1,700人超、政府の対応に怒りの声
-
-ベネズエラ沿岸部を襲った双子地震により、ラグアイラを中心に1,700人以上が死亡、数万人が依然行方不明となっている。救助隊は犬やドローン、音響探知機を駆使して生存者の捜索を続けているが、被災地では政府の遅く不十分な対応への怒りが高まっている。さらに月曜日にはカラカス近郊で強い余震が発生し、被災者の不安を増幅させた。この災害は、すでに経済危機に苦しむベネズエラをさらなる苦境に追い込んでいる。
-
-**世界的意義：** 中南米でここ数十年で最悪の自然災害の一つ。脆弱な国家の対応力を試すとともに、国際社会の人道支援のあり方が問われている。
-
-🏷️ 災害 / 人道危機
-
-### #4 | W杯大波乱 — ドイツとオランダがPK戦で揃って敗退
-
-2026年FIFAワールドカップで最大の衝撃が走った。ドイツはパラグアイにPK戦5-4で敗れ、W杯史上初のPK戦敗退。ナーゲルスマン監督への風当たりは強まっている。さらにオランダもモロッコにPK戦3-2で敗れ、欧州の強豪2チームがベスト32で姿を消した。オランダのガクポは、胎児を亡くした数日後にゴールを決めたものの、チームを救えなかった。一方、ブラジルは日本をマルティネッリの劇的ゴールで2-1と下し、ベスト16進出を決めた。
-
-**世界的意義：** 欧州サッカー界の二大巨頭が早々に敗れ、モロッコとパラグアイがジャイアントキリングを達成。W杯史に残る番狂わせの日となった。
-
-🏷️ スポーツ / 2026W杯
-
-### #5 | モナコ爆破事件 — ウクライナ人富豪を狙った小包爆弾、犯人の行方追う
-
-世界有数の富裕国モナコに衝撃が走った。ウクライナ出身の実業家を含む複数人が小包爆弾により負傷。当局によると、爆発物にはボルトと金属片が仕込まれており、「テロではなく暗殺未遂」と断定。犯人の身柄はまだ特定されておらず、大規模な捜索が続いている。世界で最も警備の厳しい地域の一つでの大胆な犯行に、欧州全体が注目している。
-
-**世界的意義：** モナコという超安全地帯で起きた標的型暗殺未遂。ウクライナ人富豪が標的となったことで、国際組織犯罪や国家関与の可能性も取り沙汰されている。
-
-🏷️ 犯罪 / 欧州
-
----
-
-### 📌 その他の注目ニュース
-
-- **ゴジェック創業者ナディム・マカリム氏、汚職で懲役10年** — インドネシア教育相時代のノートPC取引をめぐる汚職事件（BBC、ストレーツ・タイムズ）
-- **中国の実業家・郭文貴氏、米国で懲役30年** — 支持者を標的にした10億ドル規模の詐欺事件で有罪判決（BBC、ガーディアン）
-- **ペルー大統領選、ケイコ・フジモリ氏勝利** — 中南米右派の勢い続く（ガーディアン）
-- **南アフリカで反移民デモ** — 反移民団体が設定した6月30日の期限を前に厳戒態勢（BBC、アルジャジーラ）
-- **シンガポール：電気料金17%値上げ、ガスも7.1%上昇** — 7〜9月期の家庭用料金（ストレーツ・タイムズ）
-- **WhatsApp、ユーザーネーム制を30億ユーザーに展開開始**（BBC、ストレーツ・タイムズ）
-
----
-
-*Rinちゃん ✨⚡️🌟☀️ がキュレーション。情報源：BBC、ロイター、ガーディアン、ストレーツ・タイムズ、アルジャジーラ。時刻はすべてシンガポール時間。*
-</description><guid isPermaLink="false">rin-daily-news-ja-2026-06-30</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-ja-2026-06-30.mp3" length="2477232" type="audio/mpeg"/><pubDate>Tue, 30 Jun 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:06:52</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># Rinちゃんのデイリーニュース — 2026年6月30日
-
-## 🌍 今日のトップ5
-
-### #1 | 米イラン緊張激化 — トランプ大統領、ドーハ和平会談開催を主張
-
-ホルムズ海峡で米イラン両軍の武力衝突が発生し、緊張が急速に高まっている。トランプ米大統領はSNSで「イランがドーハでの和平会談（火曜日開催）に合意した」と投稿。しかし、先週末の交戦により暫定的な和平合意は崩壊寸前で、トランプ</itunes:summary></item><item><title>ニュース速報 - 2026年07月01日</title><description># Rinちゃんのデイリーニュース — 2026年7月1日
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃんの今日のニュース</title><link>https://lalalala4you.github.io/whole_news_world</link><description>毎朝お届けする世界の重要ニューストップ5。政治、テクノロジー、経済など、シンガポール・米国・中国・EU・日本から厳選。</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-ja.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-ja-1779799171.jpg</url><title>Rinちゃんの今日のニュース</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>ja</language><lastBuildDate>Tue, 08 Sep 2026 05:50:25 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-ja-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>毎朝お届けする世界の重要ニューストップ5。政治、テクノロジー、経済など、シンガポール・米国・中国・EU・日本から厳選。</itunes:summary><itunes:type>episodic</itunes:type><item><title>ニュース速報 - 2026年07月01日</title><description># Rinちゃんのデイリーニュース — 2026年7月1日
 
 ## 🌍 今日のトップ5
 
@@ -874,4 +810,49 @@ TikTokは、13歳未満の子どもの個人情報を大量に収集したとし
 ## 🌏 今朝のトップ5ニュース
 
 ### 1位｜米とイランが相互攻撃 約1か月ぶりの大規模な軍事的エスカレーション
-アメリカ軍がホルムズ海峡のララク島を攻撃した後、イランがヨルダンにある米軍基地を攻撃し、両国間で約1か月ぶりとなる大規模な軍事的応酬が起きました。米側は、世界の石油の多くが通過する戦略的要衝ホルムズ海峡にイランが機雷を敷</itunes:summary></item></channel></rss>
+アメリカ軍がホルムズ海峡のララク島を攻撃した後、イランがヨルダンにある米軍基地を攻撃し、両国間で約1か月ぶりとなる大規模な軍事的応酬が起きました。米側は、世界の石油の多くが通過する戦略的要衝ホルムズ海峡にイランが機雷を敷</itunes:summary></item><item><title>ニュース速報 - 2026年09月08日</title><description># りんちゃんの朝ニュース — 2026年9月8日（火）
+
+## 🌏 今朝のトップ5ニュース
+
+### 1位｜ドイツ州議会選で極右AfDが歴史的勝利 欧州に衝撃
+ドイツの極右政党「ドイツのための選択肢（AfD）」が州議会選挙で勝利し、戦後ドイツで初めてとなる歴史的な結果となりました。メルツ首相は衝撃を受けながらも、不人気の改革路線を続ける考えを示しています。この勝利は、極右に対するドイツの長年の政治的「防火壁」をかつてないほど揺るがし、AfDの国政への道筋にも注目が集まっています。
+
+**なぜ重要か：** 欧州最大の経済大国での極右の選挙勝利は、戦後の政治的合意を揺るがし、欧州全体の政治地図を変える可能性があります。
+
+🏷️ 欧州・政治
+
+### 2位｜カナダの対米報復関税が発効 貿易戦争が激化
+カナダは、牛乳や香水、ゴルフクラブなど米国製品への報復関税を発効させ、両国間の長期化する貿易戦争が一段と深まりました。トランプ大統領はさらなる対抗措置を示唆し、カナダ側は長期戦への備えを強めています。大手テック企業や経済界からの反発も広がっています。
+
+**なぜ重要か：** 拡大する米加間の関税合戦は、密接に統合された北米のサプライチェーンを混乱させ、米国の通商政策の前例となる恐れがあります。
+
+🏷️ 通商・北米
+
+### 3位｜ハリケーン「ローウェル」がハワイ接近 複数の島に警報
+強力なカテゴリー2のハリケーン「ローウェル」がハワイに接近し、カウアイ郡にハリケーン警報、オアフ島に熱帯暴風雨警報が発令され、カウアイでは竜巻注意報も出ています。予報では、ハワイ諸島へのまれに見るほぼ直撃の恐れがあるとされ、緊急の備えが呼びかけられています。
+
+**なぜ重要か：** 人口の多いハワイ諸島への大型ハリケーンの直撃は、進路にある地域に甚大な被害をもたらす可能性があります。
+
+🏷️ 気象・米国
+
+### 4位｜トランプ氏、ニューメキシコ州を「ニュー・アメリカ」に改名示唆 波紋
+トランプ米大統領は、ニューメキシコ州を「ニュー・アメリカ」に改名することを示唆する地図をSNSに投稿し、ネット上では大量のミームと批判が広がりました。州の民主党議員らは強く反発しています。これは米加貿易紛争が続く中での地理的名称の変更をめぐる一連の動きに続くものです。
+
+**なぜ重要か：** 多くの人が不真面目とみなすこの提案は、ホワイトハウスによる挑発的な改名や領土的発言のパターンの最新の事例となっています。
+
+🏷️ 米国政治
+
+### 5位｜9.11後の大気の安全性、ニューヨーカーは誤認させられていた可能性 文書で判明
+新たに精査された文書から、同時多発テロ（9.11）の直後、崩壊したビルからの有毒な粉じんがロウアー・マンハッタンに降り注いだ際、当局がニューヨーカーに大気の安全性について誤った認識を与えていた可能性が示唆されました。この報道は、当局がいつ何を知っていたのか、そして被災者や救助隊員への健康被害をめぐる長年の疑問を再燃させています。生存者への説明責任と健康支援の継続を求める声が高まっています。
+
+**なぜ重要か：** 国家的非常事態における公衆衛生上の情報発信と、それが何千人もの人々に残した長期的な影響という痛ましい問題が再び問われています。
+
+🏷️ 米国・健康と歴史
+
+*りんちゃんがお届けしました。出典：AP、Reuters、BBC、NYT、The Guardian、NBC News。※時刻はすべてシンガポール時間。*
+</description><guid isPermaLink="false">rin-daily-news-ja-2026-09-08</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-ja-2026-09-08.mp3" length="1715184" type="audio/mpeg"/><pubDate>Tue, 08 Sep 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:04:45</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># りんちゃんの朝ニュース — 2026年9月8日（火）
+
+## 🌏 今朝のトップ5ニュース
+
+### 1位｜ドイツ州議会選で極右AfDが歴史的勝利 欧州に衝撃
+ドイツの極右政党「ドイツのための選択肢（AfD）」が州議会選挙で勝利し、戦後ドイツで初めてとなる歴史的な結果となりました。メルツ首相は衝撃を受けながらも、不人気の改革路線を続ける考えを示しています。この勝利は、極右に対するドイツの長年の政</itunes:summary></item></channel></rss>

@@ -1,53 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link><description>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-en.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg</url><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>en</language><lastBuildDate>Mon, 31 Aug 2026 10:57:09 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</itunes:summary><itunes:type>episodic</itunes:type><item><title>News Brief - June 30, 2026</title><description># Rinちゃん's Daily News Brief — June 30, 2026
-
-## 🌍 Top 5 Global Stories
-
-### #1 | US-Iran Tensions Flare in Gulf as Trump Claims Peace Talks Set for Doha
-
-The Strait of Hormuz saw a dangerous escalation as US and Iranian forces exchanged fire over the weekend, prompting President Trump to claim — in a social media post — that Iran has agreed to peace talks in Doha scheduled for Tuesday. The fresh hostilities threaten an already fragile interim peace memorandum between the two nations, with Trump also threatening to "annihilate" Iran if further provoked. The UN and regional powers are watching closely, as the Strait of Hormuz remains the world's most critical oil transit choke point.
-
-**Why it matters:** A full-blown US-Iran conflict would disrupt global oil supply, rattle markets, and could draw in Gulf allies and Russia/China.
-
-🏷️ Geopolitics / Middle East
-
-### #2 | UK PM Starmer Unveils £15bn Defence Boost, Axes Road and Energy Projects
-
-Prime Minister Keir Starmer announced an additional £15 billion for UK defence, warning that the country faces increasingly dangerous threats. The package falls short of the £28 billion requested by the Ministry of Defence, and will be partly funded by scrapping some road and energy infrastructure projects. Starmer insisted defence spending "cannot be a bottomless pit" and called on the MoD to "spend better." The announcement comes amid a broader European rearmament push.
-
-**Why it matters:** Signals the UK's serious defence posture shift, but the funding gap with MoD expectations and sacrificed civilian projects will stir political debate.
-
-🏷️ Politics / Defence
-
-### #3 | Venezuela Reels from Devastating Twin Earthquakes — Over 1,700 Dead, Anger at Government Response
-
-Venezuela is in crisis after twin earthquakes devastated coastal regions including La Guaira. Over 1,700 people are confirmed dead with tens of thousands still missing. Rescuers are using dogs, drones, and sound detectors to search rubble, but anger is mounting at the government's slow and inadequate response. A strong aftershock near Caracas on Monday further frayed nerves. The disaster has compounded Venezuela's existing economic and humanitarian struggles.
-
-**Why it matters:** One of the deadliest natural disasters in Latin America in decades, testing an already fragile state's capacity — and the international community's humanitarian response.
-
-🏷️ Disaster / Humanitarian
-
-### #4 | World Cup Shocks: Germany and Netherlands Both Crash Out in Penalty Heartbreak
-
-The 2026 FIFA World Cup delivered its biggest upsets yet as both Germany and the Netherlands were eliminated in the Round of 32 on penalties. Germany lost to Paraguay 5-4 in their first-ever World Cup penalty shootout defeat, piling pressure on manager Julian Nagelsmann. Hours later, the Netherlands fell to Morocco 3-2 on penalties after a dramatic match that saw Cody Gakpo score days after the loss of his unborn son. Meanwhile, Brazil narrowly edged Japan 2-1 thanks to a late Gabriel Martinelli goal.
-
-**Why it matters:** Two European football powerhouses gone before the knockout rounds even properly began — a historic tournament shake-up with Morocco and Paraguay as giant-killers.
-
-🏷️ Sports / World Cup 2026
-
-### #5 | Monaco Bombing: Manhunt for Attacker Who Sent Parcel Bomb to Ukrainian Oligarch
-
-Monaco is in shock after a parcel bomb exploded in the principality, injuring a Ukrainian-born business tycoon and others. Authorities say the device contained bolts and pellets and have classified the incident as an "attempted assassination" rather than terrorism. A manhunt is underway for the unidentified suspect. The brazen attack in one of the world's most secure and wealthy enclaves has raised questions about private security and geopolitical reach.
-
-**Why it matters:** A targeted assassination attempt in Monaco — involving a Ukrainian oligarch — raises spectres of transnational organized crime or state-linked operations spilling into Western Europe.
-
-🏷️ Crime / Europe</description><guid isPermaLink="false">rin-daily-news-en-2026-06-30</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-en-2026-06-30.mp3" length="2153520" type="audio/mpeg"/><pubDate>Tue, 30 Jun 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:05:58</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># Rinちゃん's Daily News Brief — June 30, 2026
-
-## 🌍 Top 5 Global Stories
-
-### #1 | US-Iran Tensions Flare in Gulf as Trump Claims Peace Talks Set for Doha
-
-The Strait of Hormuz saw a dangerous</itunes:summary></item><item><title>News Brief - July 01, 2026</title><description># Rinちゃん's Daily News Brief — July 1, 2026
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link><description>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-en.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg</url><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>en</language><lastBuildDate>Tue, 08 Sep 2026 05:50:25 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</itunes:summary><itunes:type>episodic</itunes:type><item><title>News Brief - July 01, 2026</title><description># Rinちゃん's Daily News Brief — July 1, 2026
 
 ## 🌍 Top 5 Global Stories
 
@@ -515,4 +467,49 @@ US Treasury Secretary Scott Bessent headed to the G20 finance meetings in Ashevi
 ## 🌍 Top 5 Global Stories
 
 ### #1 | US and Iran trade strikes in first major military escalation in a month
-Iran attacked US bases in Jordan after</itunes:summary></item></channel></rss>
+Iran attacked US bases in Jordan after</itunes:summary></item><item><title>News Brief - September 08, 2026</title><description># Rinちゃん's Daily News Brief — September 8, 2026
+
+## 🌍 Top 5 Global Stories
+
+### #1 | Far-right AfD wins German state election in historic breakthrough
+Germany's far-right Alternative for Germany (AfD) won a state election, a historic first that has shaken the country's political establishment and sent a chill through Europe. Chancellor Friedrich Merz expressed shock at the result but said he would double down on his government's unpopular reform agenda. The victory has tested Germany's long-standing political "firewall" against the far right as never before and raised questions about the AfD's path toward national power.
+
+**Why it matters:** A far-right electoral triumph in Europe's largest economy challenges the post-war political consensus and could reshape the continent's political landscape.
+
+🏷️ Europe / Politics
+
+### #2 | Canada's retaliatory tariffs on US goods take effect as trade war escalates
+Canada's counter-tariffs on American goods — including milk, perfume, and golf clubs — took effect, deepening a prolonged trade war between the two neighbors. President Trump threatened to escalate further as Canadian officials braced for an extended dispute, while opposition from Big Tech and business groups grew louder. The tit-for-tat measures are straining one of the world's largest bilateral trading relationships.
+
+**Why it matters:** The expanding US-Canada tariff fight threatens to disrupt integrated North American supply chains and set a precedent for US trade policy worldwide.
+
+🏷️ Trade / North America
+
+### #3 | Hurricane Lowell nears Hawaii, prompting warnings for multiple islands
+Hurricane Lowell, a powerful Category 2 storm, closed in on Hawaii, triggering a hurricane warning for Kauai County and a tropical storm warning for Oahu, with a tornado watch posted for Kauai. Forecasters warned the storm's track could produce a rare, near-direct hit on the islands, prompting urgent preparations. The storm follows dangerous surf and flooding elsewhere as the Pacific hurricane season intensifies.
+
+**Why it matters:** A rare direct strike by a major hurricane on the Hawaiian Islands could cause significant damage to a heavily populated chain in its path.
+
+🏷️ Weather / US
+
+### #4 | Trump suggests renaming New Mexico "New America," sparking backlash
+President Trump posted a map suggesting the state of New Mexico be renamed "New America," triggering a torrent of online memes and sharp pushback from state Democrats. The proposal follows earlier moves to rename geographic features amid the ongoing US-Canada trade dispute. Critics called the idea a distraction, while supporters amplified it on social media.
+
+**Why it matters:** The proposal, dismissed by many as unserious, is the latest flashpoint in a broader pattern of provocative renaming and territorial rhetoric from the White House.
+
+🏷️ US Politics
+
+### #5 | Documents suggest New Yorkers were misled about air quality after 9/11
+Newly reviewed documents suggest that New Yorkers were misled about the safety of the air in the aftermath of the 9/11 attacks, when toxic dust from the collapsed towers settled over Lower Manhattan. The reporting revisits long-standing questions about what officials knew and when, and about the health consequences for residents and first responders exposed to the debris. The findings have renewed calls for accountability and continued health support for survivors.
+
+**Why it matters:** The revelations reopen a painful chapter about public-health communication during a national emergency and its lasting toll on thousands of people.
+
+🏷️ US / Health &amp; History
+
+*Briefing curated by Rinちゃん. Sources: AP, Reuters, BBC, NYT, The Guardian, NBC News. All times SGT.*
+</description><guid isPermaLink="false">rin-daily-news-en-2026-09-08</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-en-2026-09-08.mp3" length="1535040" type="audio/mpeg"/><pubDate>Tue, 08 Sep 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:04:15</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># Rinちゃん's Daily News Brief — September 8, 2026
+
+## 🌍 Top 5 Global Stories
+
+### #1 | Far-right AfD wins German state election in historic breakthrough
+Germany's far-right Alternative for Germany</itunes:summary></item></channel></rss>
