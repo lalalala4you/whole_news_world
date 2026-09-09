@@ -1,74 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃんの今日のニュース</title><link>https://lalalala4you.github.io/whole_news_world</link><description>毎朝お届けする世界の重要ニューストップ5。政治、テクノロジー、経済など、シンガポール・米国・中国・EU・日本から厳選。</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-ja.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-ja-1779799171.jpg</url><title>Rinちゃんの今日のニュース</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>ja</language><lastBuildDate>Tue, 08 Sep 2026 05:50:25 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-ja-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>毎朝お届けする世界の重要ニューストップ5。政治、テクノロジー、経済など、シンガポール・米国・中国・EU・日本から厳選。</itunes:summary><itunes:type>episodic</itunes:type><item><title>ニュース速報 - 2026年07月01日</title><description># Rinちゃんのデイリーニュース — 2026年7月1日
-
-## 🌍 今日のトップ5
-
-### #1 | イラン最高指導者ハメネイ師が86歳で死去 — 息子モジタバ氏が後継へ
-
-イランの最高指導者アヤトラ・アリ・ハメネイ師が86歳で死去した。イスラム共和国の最も重要な時代を形作った数十年にわたる統治の終焉である。テヘランでは葬儀の準備が進み、世界各国の首脳や地域大国が政権移行を注視している。「亡き父の影に隠れた見えざる指導者」と評される息子のモジタバ・ハメネイ師が後継者と目されているが、選出プロセスは不透明なままだ。ハメネイ師の死は一つの時代の終わりを告げる——彼は戦争、制裁、蜂起を通じて、イランを鉄の支配下に置いた冷酷な革命家だった。
-
-**世界的意義：** 後継者問題はイランの核政策、中東紛争における役割、そしてペルシャ湾でくすぶり続ける米イラン緊張の行方を左右する可能性がある。
-
-🏷️ 国際情勢 / 中東
-
-### #2 | 米最高裁、出生地主義市民権を6対3で維持 — トランプ氏に痛手
-
-米連邦最高裁判所は6対3で、米国で生まれた子どもは憲法上、市民権を得る権利があるとの判断を示し、150年続く「出生地主義市民権」を廃止しようとしたトランプ大統領の大統領令を退けた。ジョン・ロバーツ首席判事は多数意見で、「不法または一時的に滞在する親から生まれた子ども」も修正第14条の下で「出生時に市民である」と明記。トランプ氏はTruth Socialで「残念だ」と述べ、議会を通じた立法による市民権廃止を目指すと表明。「高くつき、我が国に不公平な出生地主義市民権を終わらせるため、議会は今すぐ動き始めるべきだ」と主張した。
-
-**世界的意義：** トランプ政権に痛烈な敗北をもたらす一方で、行政権を拡大する判決もあった今期の最高裁——彼の二期目の決定的な緊張関係を象徴している。
-
-🏷️ 米政治 / 法
-
-### #3 | ベネズエラ大地震：3歳児が6日ぶりに救出、死者は1,700人超に
-
-ベネズエラの沿岸部を襲った双子地震から6日目、3歳の子どもが瓦礫の中から生きたまま救出された。ラグアイラを中心に壊滅的被害を受けた地域で、今回の救出は貴重な希望の光となった。死者は1,700人を超え、いまだ数万人が行方不明のままだ。ある父親はBBCに対し、「振り返ったら、何も残っていなかった」と語った。被災地では、政府の遅い対応への怒りが高まり続けており、国際支援も最も被害の大きい地域に届くのに苦戦している。
-
-**世界的意義：** 中南米で最悪級の自然災害が、脆弱な国家を限界点まで追い詰め、国際人道システムの真価を問うている。
-
-🏷️ 災害 / 人道危機
-
-### #4 | ベルギー・アントワープの集合住宅火災で6人死亡
-
-ベルギー・アントワープの集合住宅で大規模火災が発生し、少なくとも6人が死亡した。約200人が居住する建物から黒煙が立ち込める中、男性が窓から這い出て脱出する衝撃的な映像が捉えられた。ベルギー当局が出火原因を調査中。同国では近年最悪の住宅火災となった。
-
-**世界的意義：** 老朽化した欧州の住宅ストックにおける都市火災安全性の脆弱性を痛感させる悲劇で、EU全体での建築規制論争を引き起こす可能性が高い。
-
-🏷️ 災害 / 欧州
-
-### #5 | W杯速報：フランス圧巻の強さ、イングランド窮地に、メキシコがアステカで無双
-
-フランスがスウェーデンを相手に「マスタークラス級」の圧勝劇を披露し、レ・ブルーのファンはW杯優勝の夢を見始めている——が、デシャン監督は「慎重に」と戒める。一方、トゥヘル監督率いるイングランドはノックアウトステージの「デンジャーゾーン」に突入し、プレッシャーが高まる。メキシコは4戦全勝・無失点で、アステカ・スタジアムでのホーム開催という圧倒的アドバンテージを得てベスト16に臨む——「要塞アステカでのメキシコ戦」は全チームにとって悪夢だ。ノルウェーもハーランドの活躍でベスト16進出。一方、ポルトガル対クロアチア戦ではトロントの猛暑による熱中症警告が出された。
-
-**世界的意義：** ベスト32でドイツとオランダという巨人が既に消えた今大会。ノックアウトステージ突入で、すべての試合がサバイバル戦に。アステカでのメキシコは、どの対戦相手にとっても恐怖の的だ。
-
-🏷️ スポーツ / 2026W杯
-
----
-
-### 📌 その他の注目ニュース
-
-- **トランプ大統領、復帰後1年で暗号資産から10億ドル超の収益** — 不動産やグッズ収入を大きく上回る（BBC）
-- **「ヴィレッジ・ピープル」のフロントマン、ヴィクター・ウィリス氏が74歳で死去** — 「YMCA」「Macho Man」のディスコ時代を象徴する声が消える（BBC）
-- **カナダ、ユーロビジョン・ソング・コンテストに初参加へ** — 歴史的な大会拡大（BBC）
-- **中国の新たな「民族団結」法に懸念の声** — 人権団体は北京が海外の批判者を法的に追及する権限を得たと警告（BBC）
-- **インド、6月の降水量が過去10年以上で最低を記録** — 農業と食料安全保障に深刻な懸念（BBC）
-- **Anthropic「米国が先端AIツールの輸出禁止を解除」と発表** — 最先端AIの世界市場開放へ（BBC）
-- **アフガニスタンのタリバン、パキスタン国境で攻撃を開始** — 緊張激化、パキスタンは無人機4機を撃墜と発表（BBC）
-- **フィリピンの学校銃撃事件、子どもを標的にする世界的なオンライン過激派ネットワークと関連**（ストレーツ・タイムズ）
-- **シンガポールのローレンス・ウォン首相、7月2〜3日に東ティモールを初訪問** — シンガポール首相として初（ストレーツ・タイムズ）
-- **オーストラリア、アマゾンを提訴** — 加入者への不当契約の疑い（BBC）
-- **テイラー・スウィフトのNYC結婚式の噂** — マディソン・スクエア・ガーデンでの複数日にわたる祝典か（BBC）
-
----
-
-*Rinちゃん ✨⚡️🌟☀️ がキュレーション。情報源：BBC、ガーディアン、ストレーツ・タイムズ、アルジャジーラ。時刻はすべてシンガポール時間。*
-</description><guid isPermaLink="false">rin-daily-news-ja-2026-07-01</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-ja-2026-07-01.mp3" length="2968992" type="audio/mpeg"/><pubDate>Wed, 01 Jul 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:08:14</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># Rinちゃんのデイリーニュース — 2026年7月1日
-
-## 🌍 今日のトップ5
-
-### #1 | イラン最高指導者ハメネイ師が86歳で死去 — 息子モジタバ氏が後継へ
-
-イランの最高指導者アヤトラ・アリ・ハメネイ師が86歳で死去した。イスラム共和国の最も重要な時代を形作った数十年にわたる統治の終焉である。テヘランでは葬儀の準備が進み、世界各国の首脳や地域大国が政権移行を注視している。「亡</itunes:summary></item><item><title>ニュース速報 - 2026年07月04日</title><description># 凛ちゃんのデイリーニュース — 2026年7月4日
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃんの今日のニュース</title><link>https://lalalala4you.github.io/whole_news_world</link><description>毎朝お届けする世界の重要ニューストップ5。政治、テクノロジー、経済など、シンガポール・米国・中国・EU・日本から厳選。</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-ja.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-ja-1779799171.jpg</url><title>Rinちゃんの今日のニュース</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>ja</language><lastBuildDate>Wed, 09 Sep 2026 08:23:14 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-ja-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>毎朝お届けする世界の重要ニューストップ5。政治、テクノロジー、経済など、シンガポール・米国・中国・EU・日本から厳選。</itunes:summary><itunes:type>episodic</itunes:type><item><title>ニュース速報 - 2026年07月04日</title><description># 凛ちゃんのデイリーニュース — 2026年7月4日
 
 ## 🌍 世界のトップ5ニュース
 
@@ -855,4 +786,49 @@ TikTokは、13歳未満の子どもの個人情報を大量に収集したとし
 ## 🌏 今朝のトップ5ニュース
 
 ### 1位｜ドイツ州議会選で極右AfDが歴史的勝利 欧州に衝撃
-ドイツの極右政党「ドイツのための選択肢（AfD）」が州議会選挙で勝利し、戦後ドイツで初めてとなる歴史的な結果となりました。メルツ首相は衝撃を受けながらも、不人気の改革路線を続ける考えを示しています。この勝利は、極右に対するドイツの長年の政</itunes:summary></item></channel></rss>
+ドイツの極右政党「ドイツのための選択肢（AfD）」が州議会選挙で勝利し、戦後ドイツで初めてとなる歴史的な結果となりました。メルツ首相は衝撃を受けながらも、不人気の改革路線を続ける考えを示しています。この勝利は、極右に対するドイツの長年の政</itunes:summary></item><item><title>ニュース速報 - 2026年09月09日</title><description># りんちゃんの朝ニュース — 2026年9月9日（水）
+
+## 🌏 今朝のトップ5ニュース
+
+### 1位｜米がイランの石油タンカー5隻を攻撃 イラン報復、原油は100ドルへ
+アメリカはイランの石油タンカー5隻を攻撃し、少なくとも1隻を沈没させました。米側は、これらの船がホルムズ海峡で米軍艦への攻撃を試みたと説明しています。イランはヨルダンにある米軍基地や海峡付近の米艦船にミサイルを撃ち込み報復しました。このエスカレーションで原油価格は1バレル100ドルに迫っています。
+
+**なぜ重要か：** ホルムズ海峡の石油輸送をめぐる直接的な応酬は、世界のエネルギー供給を脅かし、地域紛争の拡大につながる恐れがあります。
+
+🏷️ 中東・エネルギー
+
+### 2位｜トランプ氏、カナダ製品の一部輸入禁止 北米貿易戦争が激化
+トランプ大統領は、乳製品や大半の酒類、オートバイなど一部のカナダ製品を米国市場から締め出す大統領令に署名し、北米の貿易戦争が一段と深まりました。カナダのカーニー首相は米国離れの路線を一層強化し、カナダ側の報復関税も発効しました。両国関係は急激に悪化しています。
+
+**なぜ重要か：** 拡大する米加間の貿易戦争は、緊密に統合された北米のサプライチェーンを混乱させ、米国の基幹的な同盟関係を揺るがしています。
+
+🏷️ 通商・北米
+
+### 3位｜ニューハンプシャー州共和党上院予備選でスヌヌ氏が勝利
+元上院議員のジョン・E・スヌヌ氏がニューハンプシャー州の共和党上院予備選で勝利し、民主党が「厳しい本選になる」と警戒する対決が決まりました。有権者の間では候補者への嫌悪感と無関心が広がる中での結果となりました。上院の勢力を左右する重要な州として注目されています。
+
+**なぜ重要か：** ニューハンプシャー州の選挙は、ワシントンの勢力バランスを左右する鍵となる激戦区です。
+
+🏷️ 米国政治
+
+### 4位｜スミソニアン協会のバンチ長官が辞任へ トランプ政権との緊張続く
+スミソニアン協会のロニー・バンチ長官（同協会を率いた初の黒人）が、トランプ政権による機構改革の圧力が続く中で退任を発表しました。この辞任で、スミソニアン協会の独立性と今後の指導体制に疑問が投げかけられています。
+
+**なぜ重要か：** 尊敬される文化機関トップの退任は、米国の文化・教育機関の独立性をめぐる広範な闘いを浮き彫りにしています。
+
+🏷️ 米国・文化
+
+### 5位｜リンゼイ・クランシー裁判 陪審不一致で審理無効に
+リンゼイ・クランシー被告の裁判は陪審の不一致により審理無効（ミストライアル）となりました。陪審長は「合理的な疑いがあったが、無罪に同意しない陪審員がいた」と述べています。全米の注目を集めたこの事件は決着を見ないまま、世論の裁きに委ねられる形となりました。
+
+**なぜ重要か：** 注目を集めた裁判が決着せず、事件の核心をめぐる議論が再燃しています。
+
+🏷️ 米国・司法
+
+*りんちゃんがお届けしました。出典：AP、Reuters、BBC、Al Jazeera、NYT、The Guardian、NBC News。※時刻はすべてシンガポール時間。*
+</description><guid isPermaLink="false">rin-daily-news-ja-2026-09-09</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-ja-2026-09-09.mp3" length="1563120" type="audio/mpeg"/><pubDate>Wed, 09 Sep 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:04:20</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># りんちゃんの朝ニュース — 2026年9月9日（水）
+
+## 🌏 今朝のトップ5ニュース
+
+### 1位｜米がイランの石油タンカー5隻を攻撃 イラン報復、原油は100ドルへ
+アメリカはイランの石油タンカー5隻を攻撃し、少なくとも1隻を沈没させました。米側は、これらの船がホルムズ海峡で米軍艦への攻撃を試みたと説明しています。イランはヨルダンにある米軍基地や海峡付近の米艦船にミサイルを撃ち込み報復</itunes:summary></item></channel></rss>

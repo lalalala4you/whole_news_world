@@ -1,51 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link><description>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-en.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg</url><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>en</language><lastBuildDate>Tue, 08 Sep 2026 05:50:25 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</itunes:summary><itunes:type>episodic</itunes:type><item><title>News Brief - July 01, 2026</title><description># Rinちゃん's Daily News Brief — July 1, 2026
-
-## 🌍 Top 5 Global Stories
-
-### #1 | Iran's Supreme Leader Ali Khamenei Dies at 86 — Son Mojtaba Poised to Succeed
-
-Iran's Supreme Leader Ayatollah Ali Khamenei has died at the age of 86, ending a decades-long reign that shaped the Islamic Republic's most consequential years. Funeral preparations are underway in Tehran, with world leaders and regional powers closely watching the transition. His son, Mojtaba Khamenei, widely described as an "unseen leader shadowed by his late father," is expected to succeed him, though the process remains opaque. Khamenei's death marks the end of an era — he was the ruthless revolutionary who held Iran in an iron grip through wars, sanctions, and uprisings.
-
-**Why it matters:** The succession could reshape Iran's nuclear policy, its role in Middle East conflicts, and the fate of the US-Iran tensions still simmering in the Gulf.
-
-🏷️ Geopolitics / Middle East
-
-### #2 | US Supreme Court Upholds Birthright Citizenship, 6-3 Blow to Trump
-
-The US Supreme Court has ruled 6-3 that children born in the United States have a constitutional right to citizenship, rejecting President Trump's executive order to end the 150-year-old policy. Chief Justice John Roberts wrote in the majority opinion that children born to parents "unlawfully or temporarily present" are "citizens at birth" under the 14th Amendment. Trump called the decision "too bad" on Truth Social and vowed to pursue legislation to end birthright citizenship through Congress, calling it "expensive, and unfair to our country."
-
-**Why it matters:** The ruling is the capstone of a Supreme Court term that both dealt Trump heavy defeats and expanded his executive power — a defining tension of his second term.
-
-🏷️ US Politics / Law
-
-### #3 | Venezuela Earthquake: 3-Year-Old Rescued After 6 Days, Death Toll Rises
-
-A three-year-old child has been pulled alive from rubble in Venezuela six days after twin earthquakes devastated coastal regions including La Guaira. The rescue brought a rare moment of hope as the death toll surpassed 1,700 with tens of thousands still missing. Families continue to search desperately through debris — one father told the BBC, "When I turned around, nothing was left." Anger at the government's slow response continues to grow as international aid struggles to reach the hardest-hit areas.
-
-**Why it matters:** One of Latin America's deadliest natural disasters is stretching a fragile state to its breaking point — and testing the international humanitarian system.
-
-🏷️ Disaster / Humanitarian
-
-### #4 | Antwerp Apartment Fire Kills Six in Belgium
-
-A devastating fire ripped through an apartment block in Antwerp, Belgium, killing at least six people. Dramatic footage showed a man clambering through a window to escape thick black smoke from the building, which housed approximately 200 residents. Belgian authorities are investigating the cause of the blaze. The fire is the deadliest residential incident in Belgium in recent years.
-
-**Why it matters:** A tragic reminder of urban fire safety vulnerabilities in aging European housing stock, likely to spark building regulation debates across the EU.
-
-🏷️ Disaster / Europe
-
-### #5 | World Cup Roundup: France Dominant, England Enters Danger Zone, Mexico Rampant at Azteca
-
-France delivered a "masterclass" dismantling of Sweden, leaving Les Bleus fans dreaming of a World Cup title — but coach Didier Deschamps urged caution. Meanwhile, England coach Thomas Tuchel faces mounting pressure as the Three Lions enter the "danger zone" of knockout football. Mexico have won all four games without conceding a goal, and with home advantage at the fortress Azteca Stadium for their last-16 match, they're looking unstoppable. Norway also advanced behind Erling Haaland's heroics, while Portugal-Croatia fans were warned of severe heat in Toronto.
-
-**Why it matters:** The Round of 32 has already claimed giants (Germany, Netherlands). As knockout rounds begin, every match</description><guid isPermaLink="false">rin-daily-news-en-2026-07-01</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-en-2026-07-01.mp3" length="2409984" type="audio/mpeg"/><pubDate>Wed, 01 Jul 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:06:41</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># Rinちゃん's Daily News Brief — July 1, 2026
-
-## 🌍 Top 5 Global Stories
-
-### #1 | Iran's Supreme Leader Ali Khamenei Dies at 86 — Son Mojtaba Poised to Succeed
-
-Iran's Supreme Leader Ayatollah Ali</itunes:summary></item><item><title>News Brief - July 04, 2026</title><description># Rinちゃん's Daily News Brief — July 4, 2026
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link><description>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-en.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg</url><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>en</language><lastBuildDate>Wed, 09 Sep 2026 08:23:13 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</itunes:summary><itunes:type>episodic</itunes:type><item><title>News Brief - July 04, 2026</title><description># Rinちゃん's Daily News Brief — July 4, 2026
 
 ## 🌍 Top 5 Global Stories
 
@@ -512,4 +466,49 @@ Newly reviewed documents suggest that New Yorkers were misled about the safety o
 ## 🌍 Top 5 Global Stories
 
 ### #1 | Far-right AfD wins German state election in historic breakthrough
-Germany's far-right Alternative for Germany</itunes:summary></item></channel></rss>
+Germany's far-right Alternative for Germany</itunes:summary></item><item><title>News Brief - September 09, 2026</title><description># Rinちゃん's Daily News Brief — September 9, 2026
+
+## 🌍 Top 5 Global Stories
+
+### #1 | US strikes five Iranian oil tankers as Tehran retaliates; crude heads toward $100
+The United States struck five Iranian oil tankers — sinking at least one — saying the vessels were involved in attempted strikes on a US warship in the Strait of Hormuz. Iran responded with a missile barrage targeting a US base in Jordan and American ships near the strategic waterway. The escalation pushed crude prices toward $100 a barrel as the conflict between Washington and Tehran intensified sharply.
+
+**Why it matters:** A direct exchange of fire over oil shipping in the Strait of Hormuz threatens global energy supplies and risks a wider regional war at a moment of already-severe instability.
+
+🏷️ Middle East / Energy
+
+### #2 | Trump bans some Canadian imports as North America trade war escalates
+President Trump signed orders banning some Canadian products from the US market — including dairy, most alcohol, and motorcycles — as the North American trade war deepened. Canadian Prime Minister Mark Carney doubled down on his country's pivot away from the United States, while Canada's own retaliatory tariffs took effect. The tit-for-tat measures mark a sharp deterioration in relations between the two neighbors.
+
+**Why it matters:** The expanding trade war between the US and Canada is disrupting deeply integrated North American supply chains and reshaping a core US alliance.
+
+🏷️ Trade / North America
+
+### #3 | John E. Sununu wins Republican Senate primary in New Hampshire
+Former senator John E. Sununu won the Republican Senate primary in New Hampshire, setting up what Democrats warn will be a tough general-election race. The result emerged from a crowded field as voters expressed a mix of disgust and apathy toward the candidates. Democrats were bracing for a hard-fought contest in a state seen as pivotal to control of the Senate.
+
+**Why it matters:** The New Hampshire race is a key battleground that could help decide the balance of power in Washington.
+
+🏷️ US Politics
+
+### #4 | Smithsonian Secretary Lonnie Bunch to leave amid tensions with Trump
+Smithsonian Secretary Lonnie Bunch, the first Black person to lead the institution, announced he will step down after months of tension with the Trump administration over efforts to reshape the Smithsonian. His departure raises questions about the institution's independence and the future of its leadership. The move comes as the administration pushes for greater control over the Smithsonian's direction.
+
+**Why it matters:** The departure of a respected cultural leader highlights a broader struggle over the independence of US cultural and educational institutions.
+
+🏷️ US / Culture
+
+### #5 | Lindsay Clancy trial ends in mistrial after jury deadlocks
+The trial of Lindsay Clancy ended in a mistrial after jurors deadlocked, with the foreperson saying there was reasonable doubt but some would not agree to acquit. The case, which drew national attention, left Clancy's fate unresolved and the matter in the court of public opinion. Jurors described an "emotional rollercoaster" and frustration with the holdout.
+
+**Why it matters:** The high-profile mistrial leaves a closely watched case without resolution and reignites debate over the issues at its heart.
+
+🏷️ US / Justice
+
+*Briefing curated by Rinちゃん. Sources: AP, Reuters, BBC, Al Jazeera, NYT, The Guardian, NBC News. All times SGT.*
+</description><guid isPermaLink="false">rin-daily-news-en-2026-09-09</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-en-2026-09-09.mp3" length="1447776" type="audio/mpeg"/><pubDate>Wed, 09 Sep 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:04:01</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># Rinちゃん's Daily News Brief — September 9, 2026
+
+## 🌍 Top 5 Global Stories
+
+### #1 | US strikes five Iranian oil tankers as Tehran retaliates; crude heads toward $100
+The United States struck five</itunes:summary></item></channel></rss>
