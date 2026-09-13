@@ -1,66 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃんの今日のニュース</title><link>https://lalalala4you.github.io/whole_news_world</link><description>毎朝お届けする世界の重要ニューストップ5。政治、テクノロジー、経済など、シンガポール・米国・中国・EU・日本から厳選。</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-ja.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-ja-1779799171.jpg</url><title>Rinちゃんの今日のニュース</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>ja</language><lastBuildDate>Thu, 10 Sep 2026 10:18:06 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-ja-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>毎朝お届けする世界の重要ニューストップ5。政治、テクノロジー、経済など、シンガポール・米国・中国・EU・日本から厳選。</itunes:summary><itunes:type>episodic</itunes:type><item><title>ニュース速報 - 2026年07月12日</title><description># 凛ちゃんのデイリーニュース — 2026年7月12日
-
-## 🌍 世界のトップ5ニュース
-
-### #1 | イランがホルムズ海峡を封鎖、米国が週3回目の攻撃——140の軍事目標を破壊
-
-イラン革命防衛隊（IRGC）は日曜日、ホルムズ海峡を「追って通知があるまで」封鎖すると発表。これに対し米国は今週3回目となる大規模攻撃を実施し、ミサイル・ドローン施設、通信網、沿岸監視拠点を含む140のイラン軍事目標を攻撃した。IRGCはキプロス船籍のMV GFS Galaxyを巡航ミサイルで攻撃し、乗組員は船を放棄、1人が行方不明に。イランは報復としてヨルダンのプリンス・ハッサン空軍基地を攻撃、UAE、カタール、クウェート、バーレーンにもミサイルとドローンが飛来した。ピート・ヘグセス米国防長官は「イランは悪しき選択をした。今こそ代償を払う時だ」と表明。イランのガリバフ国会議長はXで「一方的取引の時代は終わった」と警告。新最高指導者モジタバ・ハメネイ師は父の葬儀後初の声明で「復讐は国家の意思である」と述べた。トランプ大統領は協議は継続中とし、停戦プロセス復活への仲介努力が行われていると述べた。
-
-**なぜ重要か：** ホルムズ海峡は世界の石油輸送の約20%が通過する。封鎖の継続はエネルギー価格の急騰を招き、2月のハメネイ師殺害以来最も危険な米イラン対立の様相を呈している。
-
-🏷️ 国際政治 / 中東
-
----
-
-### #2 | リンジー・グラハム米上院議員が71歳で急逝——「短く突然の病」で
-
-共和党のリンジー・グラハム上院議員（サウスカロライナ州選出）が土曜夜、「短く突然の病気」により71歳で死去した。グラハム氏は米外交政策で最も影響力のある声の一人であり、トランプ大統領の側近でもあった。死去前日にはキーウでゼレンスキー大統領と会談し、ロシア制裁法案に取り組んでいたばかり。ゼレンスキー氏は「深く悲しんでいる」と述べ、グラハム氏がロシアの全面侵攻以来10回もウクライナを訪問したことに言及。トランプ氏は「真のアメリカの愛国者」と称え、ネタニヤフ・イスラエル首相は「イスラエルと米国の安全保障は不可分であることを理解していた」と追悼した。グラハム氏の死去により上院の強力な議席が空席となり、イラクからイランに至るまで一貫して軍事介入を主張してきたタカ派の声が失われることになる。
-
-**なぜ重要か：** グラハム氏の死は上院の外交政策バランスを揺るがし、国際危機の最中にホワイトハウスと共和党主流派をつなぐ重要な架け橋を失うことを意味する。
-
-🏷️ 米国政治
-
----
-
-### #3 | 台風バビが中国上陸——170万人避難、フィリピンで17人死亡
-
-台風バビが日曜日、中国浙江省に上陸し、170万人以上が避難——1週間で2つ目の台風襲来となった。暴風雨は杭州に達し、先に日本の琉球諸島を直撃して少なくとも5人が負傷、数千世帯が停電。台湾北部でも豪雨により地滑り警報が発令された。浙江省では学校・企業・屋外活動が停止され、400便のフライトと数十の鉄道が運休。人口1000万人の温州市も暴風圏内に入った。「屋根瓦や木の枝が落ちる音が聞こえた。怖かった」と住民のLi Liangxing氏は語った。バビは先にフィリピンで地滑りを引き起こし17人が死亡。気象予報では月曜に安徽省東部、火曜に山東半島から黄海へ向かう見込み。中国は今週初めの台風メイサックでも39人が死亡し、湖北省では2つの珍しい竜巻も発生した。
-
-**なぜ重要か：** 連続する台風は中国の災害対応システムを逼迫させ、農業に壊滅的打撃を与え、気候変動による東アジアの異常気象の激化を如実に示している。
-
-🏷️ 気候 / アジア
-
----
-
-### #4 | スペイン山火事で12人死亡——英国カップル、全身40%火傷で渓谷から救助
-
-スペイン・アルメリア県を襲った大規模山火事で12人が死亡（うち4人は英国籍とみられる）、6,600ヘクタールが焼失した。ベダル村近くの渓谷では、英国人カップルが全身の40%に火傷を負い半意識状態で発見された——治安警備隊が金曜未明、遠くから聞こえる助けを求める声を追跡して発見した。「あの状態で声を出せたこと自体が奇跡的な努力だった」と救助隊員ラファエル・ゼア氏。日曜日、アンダルシア州首相は火災が封じ込められ「境界が確保された」と発表、避難者約1,500人のうち600人が帰宅を許可された。しかし緊急対応への怒りも高まっている——住民らは携帯警報が送信されなかったことを非難し、「ここに3年住んでいるが、火災時にどの道を使えという情報は一度もなかった」とエマ・ミッチェルさんは語った。
-
-**なぜ重要か：** 欧州の記録的6月熱波に続くこの火災は、地中海沿岸で夏季の気温が上昇し続ける中、異常気象の致命的な結果を浮き彫りにしている。
-
-🏷️ 気候 / 欧州
-
----
-
-### #5 | ワールドカップ2026：ベリンガムの2ゴールでイングランドがノルウェーを破り準決勝進出
-
-ジュード・ベリンガムが2得点を挙げ、イングランドはノルウェーを延長戦の末2-1で下し、水曜日のアルゼンチンとの準決勝に駒を進めた——両者のワールドカップ対戦は1998年以来となる。アンドレアス・シェルデルプが先制しノルウェーが衝撃のリードを奪ったが、ベリンガムが前半終了間際に同点弾。後半にはアーリング・ハーランドのプッシュがVAR判定で取り消されノルウェーの2点目は無効に。延長戦でベリンガムがGKのミスを突き、今大会6点目となる決勝点を決めた。イングランドは1966年以来の決勝進出をかけてアルゼンチンと対戦する。しかしトーマス・トゥヘル監督は「結果は素晴らしいが、パフォーマンスには満足していない」と厳しい表情。他のW杯ニュースでは、南アフリカのMFジェイデン・アダムス（25歳）がラウンド32出場後に悲劇の死を遂げた。また、UFC 329ではコナー・マクレガーがマックス・ホロウェイとの再戦で開始1分に膝を負傷し、3度マットに倒れてレフェリーストップとなった。
-
-**なぜ重要か：** イングランド対アルゼンチンのW杯準決勝——これは世界が止まる一戦であり、23歳のベリンガムは最大の舞台でその才能を証明し続けている。
-
-🏷️ スポーツ / ワールドカップ2026
-
----
-
-*凛ちゃんがキュレーション。情報源：BBC、アルジャジーラ、ロイター、AP通信。表記時間は全てシンガポール時間（SGT）。*
-</description><guid isPermaLink="false">rin-daily-news-ja-2026-07-12</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-ja-2026-07-12.mp3" length="3238272" type="audio/mpeg"/><pubDate>Sun, 12 Jul 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:08:59</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># 凛ちゃんのデイリーニュース — 2026年7月12日
-
-## 🌍 世界のトップ5ニュース
-
-### #1 | イランがホルムズ海峡を封鎖、米国が週3回目の攻撃——140の軍事目標を破壊
-
-イラン革命防衛隊（IRGC）は日曜日、ホルムズ海峡を「追って通知があるまで」封鎖すると発表。これに対し米国は今週3回目となる大規模攻撃を実施し、ミサイル・ドローン施設、通信網、沿岸監視拠点を含む140のイラン</itunes:summary></item><item><title>ニュース速報 - 2026年07月13日</title><description># 凛ちゃんのデイリーニュース — 2026年7月13日
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃんの今日のニュース</title><link>https://lalalala4you.github.io/whole_news_world</link><description>毎朝お届けする世界の重要ニューストップ5。政治、テクノロジー、経済など、シンガポール・米国・中国・EU・日本から厳選。</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-ja.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-ja-1779799171.jpg</url><title>Rinちゃんの今日のニュース</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>ja</language><lastBuildDate>Sun, 13 Sep 2026 14:25:32 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-ja-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>毎朝お届けする世界の重要ニューストップ5。政治、テクノロジー、経済など、シンガポール・米国・中国・EU・日本から厳選。</itunes:summary><itunes:type>episodic</itunes:type><item><title>ニュース速報 - 2026年07月13日</title><description># 凛ちゃんのデイリーニュース — 2026年7月13日
 
 ## 🌍 世界のトップ5ニュース
 
@@ -815,4 +754,49 @@ TikTokは、13歳未満の子どもの個人情報を大量に収集したとし
 ## 🌏 今朝のトップ5ニュース
 
 ### 1位｜トランプ氏、共和党が中間選挙で勝てば全成人に5000ドルの「配当」と表明
-トランプ大統領は、11月の中間選挙で共和党が勝利した場合、すべての成人アメリカ人に5000ドルの「配当」を支給すると表明しました。党の中間選挙大会で打ち出されたこの公約は「トランプ配当」と呼ばれ、共和党内からも早速</itunes:summary></item></channel></rss>
+トランプ大統領は、11月の中間選挙で共和党が勝利した場合、すべての成人アメリカ人に5000ドルの「配当」を支給すると表明しました。党の中間選挙大会で打ち出されたこの公約は「トランプ配当」と呼ばれ、共和党内からも早速</itunes:summary></item><item><title>ニュース速報 - 2026年09月13日</title><description># りんちゃんの朝ニュース — 2026年9月13日（日）
+
+## 🌏 今朝のトップ5ニュース
+
+### 1位｜ホルムズ海峡で商船が攻撃され1人死亡 米イラン緊張が継続
+イランは、ホルムズ海峡で商船が攻撃を受け、1人が死亡、4人が負傷したと発表しました。米イラン紛争の焦点となっている海域で起きた最新の事件で、世界の石油供給への脅威への懸念が再燃しています。米イラン間の外交の見通しはますます不透明になっています。
+
+**なぜ重要か：** ホルムズ海峡の商船への新たな攻撃は、世界で最も重要な石油輸送ルートへのリスクを深め、外交的解決への期待を後退させます。
+
+🏷️ 中東・エネルギー
+
+### 2位｜カナダ、米との貿易戦争の中 EU「準加盟国」を目指す大胆な動き
+カナダのカーニー首相は、米国との貿易戦争が激化する中、カナダをEUの「準加盟国」にするという大胆な構想を進めています。これは米国離れの転換を示す動きで、一部からは懐疑的な声も上がる一方、カナダの同盟関係の歴史的な再編を示すものとなっています。
+
+**なぜ重要か：** カナダの欧州への接近は、北米関係の急激な悪化と、世界の貿易同盟への長期的な影響を示しています。
+
+🏷️ 通商・外交
+
+### 3位｜インドネシアの旅客船が転覆 約130人が行方不明 捜索続く
+インドネシアで240人以上を乗せた旅客船がジャワ海で転覆し、少なくとも6人が死亡、約130人が行方不明となり、救助隊が生存者の捜索を急いでいます。船は事故前に連絡を絶っていました。同地域では海難事故が相次いでいます。
+
+**なぜ重要か：** 100人以上が行方不明となる大規模な海難事故は、インドネシアのフェリー安全対策の課題を浮き彫りにしています。
+
+🏷️ アジア・災害
+
+### 4位｜ウィスコンシン州下院議員 自家用機が湖に不時着も生還
+ウィスコンシン州の共和党下院議員で知事選に立候補しているトム・ティファニー氏が、自家用機が緊急着陸して湖に墜落した際、自力で泳いで脱出し軽傷で済みました。この事故は候補者の九死に一生の経験として注目を集めています。
+
+**なぜ重要か：** 注目の知事選候補者の危機一髪の事故は、選挙戦の中での印象的な出来事です。
+
+🏷️ 米国政治
+
+### 5位｜「バイ、アメリカ」 トランプ氏の言動でカナダ人の米国離れ進む
+トランプ大統領の言動と関税で歴史的な同盟関係が緊張する中、米国製品のボイコットや渡米自粛など、カナダ人の米国離れが広がっています。小売業者は新たな調達先の模索を迫られ、消費者の意識も変化しています。貿易戦争の拡大が国境の両側の日常を変えつつあります。
+
+**なぜ重要か：** カナダでの文化的・経済的な反発は、米加関係の深い亀裂の具体的な現れです。
+
+🏷️ 通商・北米
+
+*りんちゃんがお届けしました。出典：CNN、Reuters、AP、BBC、WSJ、Al Jazeera、NPR。※時刻はすべてシンガポール時間。*
+</description><guid isPermaLink="false">rin-daily-news-ja-2026-09-13</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-ja-2026-09-13.mp3" length="1509264" type="audio/mpeg"/><pubDate>Sun, 13 Sep 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:04:11</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># りんちゃんの朝ニュース — 2026年9月13日（日）
+
+## 🌏 今朝のトップ5ニュース
+
+### 1位｜ホルムズ海峡で商船が攻撃され1人死亡 米イラン緊張が継続
+イランは、ホルムズ海峡で商船が攻撃を受け、1人が死亡、4人が負傷したと発表しました。米イラン紛争の焦点となっている海域で起きた最新の事件で、世界の石油供給への脅威への懸念が再燃しています。米イラン間の外交の見通しはますます不透明に</itunes:summary></item></channel></rss>
