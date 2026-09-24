@@ -1,52 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃんの今日のニュース</title><link>https://lalalala4you.github.io/whole_news_world</link><description>毎朝お届けする世界の重要ニューストップ5。政治、テクノロジー、経済など、シンガポール・米国・中国・EU・日本から厳選。</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-ja.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-ja-1779799171.jpg</url><title>Rinちゃんの今日のニュース</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>ja</language><lastBuildDate>Sun, 13 Sep 2026 14:25:32 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-ja-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>毎朝お届けする世界の重要ニューストップ5。政治、テクノロジー、経済など、シンガポール・米国・中国・EU・日本から厳選。</itunes:summary><itunes:type>episodic</itunes:type><item><title>ニュース速報 - 2026年07月13日</title><description># 凛ちゃんのデイリーニュース — 2026年7月13日
-
-## 🌍 世界のトップ5ニュース
-
-### #1 | 米イラン、ホルムズ海峡をめぐり軍事衝突が激化
-米国とイランは互いに新たな軍事攻撃を仕掛け、数時間のうちに応酬がエスカレートした。イラン側は米軍の攻撃への報復として、ヨルダンとバーレーンにある米軍基地を攻撃したと発表。さらに、世界の原油輸送の約2割が通過するホルムズ海峡について「事実上閉鎖された」と宣言し、イランの許可なく航行しないよう船舶に警告を発した。トランプ大統領は海峡閉鎖の主張を否定したものの、原油価格は4％以上急騰。米イラン間の外交協議は事実上決裂し、テヘランは「外交は無益である」との立場を示している。
-
-**注目ポイント：** ホルムズ海峡の長期的な混乱は、エネルギー価格の高騰を通じて世界経済全体に深刻な打撃を与える可能性がある。
-
-🏷️ 国際情勢 / エネルギー / 中東
-
-### #2 | バンコクのナイトクラブ火災、27人死亡
-13日未明、バンコクのチャトゥチャック地区にあるナイトクラブで火災が発生し、少なくとも27人が死亡、8人が重体となっている。来店客が炎の中を逃げ惑う凄惨な状況のなか消防隊が到着。現場を視察したアヌティン首相は、多くの客が非常口のない店舗奥に逃げ込んでいたと指摘した。タイの人気観光地で起きた同種の火災としては、近年最悪の惨事の一つとなっている。
-
-**注目ポイント：** 観光立国タイのナイトライフ産業を支える娯楽施設において、防火安全対策の深刻な欠陥が改めて問われる悲劇である。
-
-🏷️ アジア / 災害 / タイ
-
-### #3 | トランプ氏の最側近、リンジー・グラム上院議員が急逝（71歳）
-トランプ大統領の最も重要な議会側近の一人、サウスカロライナ州選出のリンジー・グラム上院議員が「短く突然の病」により死去した。71歳だった。その後の発表で、死因は大動脈解離とみられることが明らかになった。共和党の外交政策における重鎮であり、トランプ政権と議会をつなぐ不可欠な存在として知られたグラム氏の急逝は、ワシントンに大きな衝撃を与え、イスラエルやウクライナなど海外からも追悼の声が相次いでいる。
-
-**注目ポイント：** 複数の国際危機が同時進行するなか、トランプ政権の議会戦略を支えてきた重鎮を失ったことで、上院のパワーバランスに変化が生じる可能性がある。
-
-🏷️ 米国政治 / 訃報
-
-### #4 | 中国、大型台風「バービー」上陸で約200万人に避難指示
-大型台風「バービー」（Bavi）が浙江省に上陸し、猛烈な風雨をもたらしている。中国当局は同省の約200万人に避難指示を出し、学校や職場、屋外活動は全面的に停止。航空便や高速鉄道を含む多くの交通機関も運休となった。気象当局は今年の台風シーズンが例年になく活発になると警告しており、バービーの通過後も新たな台風の発生が懸念されている。沿岸部では洪水や地滑りへの厳重な警戒が続いている。
-
-**注目ポイント：** 人口密度が高く中国有数の工業地帯である沿岸部での200万人規模の避難は、災害対応能力の真価を問うと同時に、経済的・人道的リスクの高さを浮き彫りにしている。
-
-🏷️ アジア / 自然災害 / 中国
-
-### #5 | ゼレンスキー大統領、首相を交代—ウクライナ支援国は防空支援強化へ
-ウクライナのゼレンスキー大統領は首相を更迭し、法執行機関の全面的な刷新に着手する意向を表明した。ロシアの全面侵攻以降では最大規模の内閣改造となる。この動きは戦況に変化の兆しが見えるなかで行われており、ウクライナ軍のドローン攻撃によってロシアがアゾフ海での商業船舶の航行を一時停止する事態にも発展している。一方、欧米の支援国はウクライナ向けの防空システムを追加供与することで合意し、都市部や重要インフラの防衛能力の強化を目指している。
-
-**注目ポイント：** 指導部の刷新と支援強化の動きは、戦争の転換点となり得る局面を迎えていることを示唆しており、2026年後半に向けてキーウとモスクワの双方が戦略環境の再構築を模索している。
-
-🏷️ ウクライナ戦争 / 欧州 / 防衛
-
----
-
-*本ブリーフィングは凛ちゃんがキュレーションしました。情報源：BBC、ロイター、AP、ストレーツ・タイムズ。時刻はすべてシンガポール時間（SGT）です。*
-</description><guid isPermaLink="false">rin-daily-news-ja-2026-07-13</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-ja-2026-07-13.mp3" length="2169504" type="audio/mpeg"/><pubDate>Mon, 13 Jul 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:06:01</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># 凛ちゃんのデイリーニュース — 2026年7月13日
-
-## 🌍 世界のトップ5ニュース
-
-### #1 | 米イラン、ホルムズ海峡をめぐり軍事衝突が激化
-米国とイランは互いに新たな軍事攻撃を仕掛け、数時間のうちに応酬がエスカレートした。イラン側は米軍の攻撃への報復として、ヨルダンとバーレーンにある米軍基地を攻撃したと発表。さらに、世界の原油輸送の約2割が通過するホルムズ海峡について「事実上閉</itunes:summary></item><item><title>ニュース速報 - 2026年07月14日</title><description># 凛ちゃんのデイリーニュース — 2026年7月14日
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃんの今日のニュース</title><link>https://lalalala4you.github.io/whole_news_world</link><description>毎朝お届けする世界の重要ニューストップ5。政治、テクノロジー、経済など、シンガポール・米国・中国・EU・日本から厳選。</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-ja.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-ja-1779799171.jpg</url><title>Rinちゃんの今日のニュース</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>ja</language><lastBuildDate>Thu, 24 Sep 2026 23:31:48 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-ja-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>毎朝お届けする世界の重要ニューストップ5。政治、テクノロジー、経済など、シンガポール・米国・中国・EU・日本から厳選。</itunes:summary><itunes:type>episodic</itunes:type><item><title>ニュース速報 - 2026年07月14日</title><description># 凛ちゃんのデイリーニュース — 2026年7月14日
 
 ## 🌍 世界のトップ5ニュース
 
@@ -799,4 +752,49 @@ TikTokは、13歳未満の子どもの個人情報を大量に収集したとし
 ## 🌏 今朝のトップ5ニュース
 
 ### 1位｜ホルムズ海峡で商船が攻撃され1人死亡 米イラン緊張が継続
-イランは、ホルムズ海峡で商船が攻撃を受け、1人が死亡、4人が負傷したと発表しました。米イラン紛争の焦点となっている海域で起きた最新の事件で、世界の石油供給への脅威への懸念が再燃しています。米イラン間の外交の見通しはますます不透明に</itunes:summary></item></channel></rss>
+イランは、ホルムズ海峡で商船が攻撃を受け、1人が死亡、4人が負傷したと発表しました。米イラン紛争の焦点となっている海域で起きた最新の事件で、世界の石油供給への脅威への懸念が再燃しています。米イラン間の外交の見通しはますます不透明に</itunes:summary></item><item><title>ニュース速報 - 2026年09月25日</title><description># Rinちゃんのデイリーニュース・ブリーフ — 2026年9月25日
+
+## 🌍 世界のトップニュース 5選
+
+### #1 | ホワイトハウスで国賓晩餐会、トランプ大統領が「偉大な友好関係」と歓迎
+トランプ大統領は24日、ホワイトハウスで習近平国家主席を国賓晩餐会でもてなした。実業界からはテスラのイーロン・マスク氏やOpenAIのサム・アルトマン氏らも招かれ、式典色の強い首脳会談を締めくくった。習氏はパンダの贈呈と新たな留学生交換プログラムを発表し、トランプ氏は「安全保障、テクノロジー、超知能」が議題になると述べた。米財務長官ベッセント氏は、両国間の1年間の貿易停戦をさらに2か月延長したと発表し、訪問終了前に再延長されるとの見方も出ている。習氏は大国間の力関係の変化が衝突を招くと説く「トゥキディデスの罠」に再び言及し、イラン戦争やウクライナ、AI規制では依然として溝が深い。
+
+**なぜ重要か：** 世界最大の2つの経済圏の直接対話は、関税、AI統治、そしてインド太平洋の勢力均衡を左右する。
+
+🏷️ 政治 / 経済
+
+### #2 | 国連でネタニヤフ氏が強硬演説、各国代表が退場　アッバス氏は「二国家解決」の危機を警告
+イスラエルのネタニヤフ首相は国連総会で、イランやガザなど中東での軍事作戦を強く正当化する演説を行った。数十人の代表が抗議のため退場する中、同氏は退場者を「道徳的臆病者」と切り捨て、ガザでのジェノサイド（大量虐殺）への非難を否定。トルコのエルドアン大統領を「専制君主」と呼び、2月の米・イスラエルによるテヘラン空爆を主導したトランプ氏に感謝した。その数時間前、米国の査証を拒否されビデオリンクで演説したパレスチナのアッバス大統領は、ヨルダン川西岸での入植地拡大が「パレスチナ人の生存そのもの」を脅かし、二国家解決を危うくすると訴えた。停戦からほぼ1年が経つガザでは復興が始まっておらず、イスラエルは来月の総選挙を控えている。
+
+**なぜ重要か：** 深まるイスラエルの外交的孤立と停滞するガザ復興が、米国仲介の停戦の実効性を試している。
+
+🏷️ 中東 / 外交
+
+### #3 | ポーランド、スターリンク施設火災を「妨害工作」と断定　デンマークはロシアの脅威を警告
+ポーランドのガフコフスキ副首相は、ヴォラ・クロボフスカにある国有のスターリンク衛星基地で起きた火災について、ウクライナ軍を含む機関のインターネット接続を妨害する意図的な「妨害工作」であり、「ロシアの新たな攻撃ドクトリン」に沿う兆候が多いと述べた。クレムリンはコメントを出していない。一方、デンマークの情報機関は、ロシアが今後数か月でハイブリッド戦争を激化させるとの新たな脅威評価を公表し、NATO加盟国への限定的な軍事攻撃の「リスクは低いが高まっている」と警告した。モルドバの大統領はロシアのドローン4機が領空を通過し少なくとも1機が爆発したと発表、ルーマニアも自国領内でのドローン墜落を報告。ハルキウ近郊の農場への攻撃では6人が死亡した。
+
+**なぜ重要か：** 妨害工作と領空侵犯の広がりが、NATOとの全面戦争に踏み込まずにどこまで圧力を強めるかという欧州の警戒を高めている。
+
+🏷️ 安全保障 / 欧州
+
+### #4 | エチオピアで反政府勢力が攻勢、内戦再燃への懸念
+エチオピア政府軍とティグレ反政府勢力の戦闘が激化している。反政府勢力がアビィ・アフメド政権の打倒を掲げる新たな連合を結成したことがきっかけで、大規模な内戦再燃への懸念が強まっている。この連合には、歴史も主張も敵も異なる複数の勢力が集まっており、もともと脆弱なアフリカの角の治安情勢をさらに複雑にしている。2022年のティグレ和平合意で2年に及ぶ紛争が終結して以来、アビィ氏にとって最も深刻な挑戦の一つだ。支援機関は、隣国スーダンから既に数百万人の難民を抱える地域で、戦闘再開によりさらなる住民避難が起きると警告している。
+
+**なぜ重要か：** エチオピアでの戦争再開はアフリカの角を不安定化させ、世界最大級の人道危機をさらに悪化させる。
+
+🏷️ 紛争 / アフリカ
+
+### #5 | イラン、米国が再攻撃すれば戦火がインド洋へ拡大すると警告
+イランの最高指導者に助言するヤヒヤ・ラヒム・サファビ氏は、米国が再び攻撃すれば中東の戦火がインド洋、さらには「その先」へも拡大し得ると警告した。ファルス通信が公開したビデオでの発言で、最高指導者の助言者がインド洋に明言的に言及したのは初めて。イランから約4000キロ離れたインド洋には、米英の戦略基地ディエゴガルシアがある。イランは2月下旬に戦争の発端となった米・イスラエルの攻撃への報復としてホルムズ海峡を封鎖し、イエメンのフーシ派も紅海とバベル・マンデブ海峡の掌握を強めている。米・イラン当局者は国連総会に合わせて今週ニューヨークで協議し、イランは制裁解除と凍結資産の解放を求めている。
+
+**なぜ重要か：** ホルムズ海峡、紅海、そしてインド洋への脅威の広がりは、世界の原油・天然ガス輸送とエネルギー価格を直撃する。
+
+🏷️ 地政学 / エネルギー
+
+*本ブリーフはRinちゃんが作成。情報源：BBC、Reuters、AP、Straits Times。時刻はすべてSGT。*
+</description><guid isPermaLink="false">rin-daily-news-ja-2026-09-25</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-ja-2026-09-25.mp3" length="2602512" type="audio/mpeg"/><pubDate>Fri, 25 Sep 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:07:13</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># Rinちゃんのデイリーニュース・ブリーフ — 2026年9月25日
+
+## 🌍 世界のトップニュース 5選
+
+### #1 | ホワイトハウスで国賓晩餐会、トランプ大統領が「偉大な友好関係」と歓迎
+トランプ大統領は24日、ホワイトハウスで習近平国家主席を国賓晩餐会でもてなした。実業界からはテスラのイーロン・マスク氏やOpenAIのサム・アルトマン氏らも招かれ、式典色の強い首脳会談を締めくくった</itunes:summary></item></channel></rss>
