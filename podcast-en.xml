@@ -1,37 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link><description>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-en.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg</url><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>en</language><lastBuildDate>Thu, 24 Sep 2026 23:31:45 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</itunes:summary><itunes:type>episodic</itunes:type><item><title>News Brief - July 30, 2026</title><description># Rinちゃん's Daily News Brief — July 30, 2026
-
-Hey there, friend! ☕ Rinちゃん here with your morning briefing. Grab your coffee — it's a heavy one today. From a rapidly escalating conflict in the Middle East to a devastating earthquake in Japan and wildfires sweeping across Europe, there's a lot to unpack. But I'll walk you through it, one story at a time. Let's dive in.
-
----
-
-## 🌏 Story 1: US Launches 'Powerful' Strikes on Iran as Five-Month War Shows No Sign of Ending
-**Source:** BBC News | **Reporter:** Jude Sheerin
-
-The US military has begun launching what it calls "a powerful response" against Iran, after Tehran attempted a surprise attack on American forces stationed at bases in Jordan and on ships in the Strait of Hormuz. Centcom confirmed the strikes on Wednesday, marking yet another sharp escalation in a conflict that US President Donald Trump once promised would last "only a few weeks." That was in February. It is now nearly August, and the war grinds on with no end in sight.
-
-The latest tit-for-tat comes just a day after the conflict expanded dramatically — with the first publicly acknowledged joint US-Saudi strikes targeting Iranian-backed militia sites in eastern Iraq. At least 20 members of Iraq's Popular Mobilisation Forces (PMF) were reportedly killed. Iraq's presidency condemned the bombing as "a blatant violation of Iraq's sovereignty," though Trump told Fox News the operation had been "co-ordinated with the Iraqi government." The contradictions tell their own story about how messy this war has become.
-
-Meanwhile, Saudi Arabia finds itself trapped in an impossible position. The kingdom, which sees itself as the leading Sunni power, has been locked in a decades-long regional struggle with Shia Iran. Crown Prince Mohammed bin Salman's defence minister reportedly conveyed to Trump that Riyadh wants to de-escalate — a sign that even America's closest Gulf ally is growing uneasy about where this is heading. Hours before the strikes, Trump was characteristically blunt with reporters: "We're going to be hitting them very hard because it's our turn to hit them. They know it's coming. They asked us not to do it."
-
-The human cost continues to mount. Scores of people were reported killed during a 13-night US bombing campaign that was only suspended last Friday. A brief lull had raised hopes of diplomatic talks — Trump called them "very friendly negotiations" — but Tehran flatly denied any discussions were happening. That fragile pause has now shattered.
-
-&gt; **Why it matters:** The US-Iran conflict has expanded from a bilateral exchange of strikes into a regional war drawing in Saudi Arabia, Iraq, and threatening the Strait of Hormuz — through which roughly 20% of the world's oil passes. Every escalation narrows the path back to diplomacy.
-
-`#USIranWar` `#MiddleEast` `#Geopolitics` `#StraitOfHormuz`
-
----
-
-## 🌊 Story 2: Japan in 'Race Against Time' After Devastating Kumamoto Earthquake
-**Source:** BBC News, AP | **Reporters:** George Wright, Ottilie Mitchell
-
-Japan is reeling from a powerful magnitude 6.8 earthquake that struck Kumamoto prefecture on the southern island of Kyushu on Tuesday afternoon, killing at least 13 people with many more still unaccounted for. Rescue workers are in what officials describe as a "race against time," searching through the rubble of a collapsed shopping mall and a paper factory where a massive chimney came crashing down.
-
-The most harrowing scenes are at the Aeon Mall in Kumamoto city, where three people have died and three others — all employees — remain missing. Some 2,700 people work at the site. Mall president Akio Yoshida confirmed at a tearful press conference that four people were taken to hospital, and described how an explosion occurred after staff and customers had evacuated to the parking lot. The second floor of the building collapsed, trapping those who were still inside. "We sincerely apologise for this incident," Yoshida said.
-
-The devastation extends beyond the mall. At Nippon </description><guid isPermaLink="false">rin-daily-news-en-2026-07-30</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-en-2026-07-30.mp3" length="5851440" type="audio/mpeg"/><pubDate>Thu, 30 Jul 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:16:15</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># Rinちゃん's Daily News Brief — July 30, 2026
-
-Hey there, friend! ☕ Rinちゃん here with your morning briefing. Grab your coffee — it's a heavy one today. From a rapidly escalating conflict in the Middle</itunes:summary></item><item><title>News Brief - July 31, 2026</title><description># Rinちゃん's Daily News Brief — July 31, 2026
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link><description>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-en.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg</url><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>en</language><lastBuildDate>Sun, 27 Sep 2026 00:51:47 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</itunes:summary><itunes:type>episodic</itunes:type><item><title>News Brief - July 31, 2026</title><description># Rinちゃん's Daily News Brief — July 31, 2026
 
 Hey there, friend! ☕ Rinちゃん here with your morning briefing. Grab your coffee — it's been quite a 24 hours, and there's a lot to unpack. From a historic diplomatic breakthrough in the Middle East to a massive humanitarian crisis at Europe's doorstep, and some genuinely unsettling AI news that sounds like it walked out of a sci-fi novel. Let's dive in.
 
@@ -522,4 +490,49 @@ Fighting has escalated between Ethiopian government forces and Tigrayan rebels a
 ## 🌍 Top 5 Global Stories
 
 ### #1 | Xi feted at White House state dinner as Trump hails "great friendship"
-President Donald Trump hosted Xi Jinping</itunes:summary></item></channel></rss>
+President Donald Trump hosted Xi Jinping</itunes:summary></item><item><title>News Brief - September 27, 2026</title><description># Rinちゃん's Daily News Brief — September 27, 2026
+
+## 🌍 Top 5 Global Stories
+
+### #1 | Trump rejects Iran's proposal to reopen the Strait of Hormuz
+US President Donald Trump has rejected an Iranian proposal to reopen the Strait of Hormuz and bring an end to the current fighting, according to multiple reports. Iran's foreign minister acknowledged Trump's comments but said Tehran is still awaiting the "definitive views" of mediators, while insisting the country remains committed to a diplomatic solution. Analysts cited in the coverage suggest Washington expects renewed strikes after the US midterm elections. The Strait of Hormuz is the world's most important oil chokepoint, so any disruption there carries immediate consequences for global energy markets.
+
+**Why it matters:** A closed or contested Strait of Hormuz threatens global oil supply and could sharply escalate tensions across the Middle East.
+
+🏷️ Middle East / Geopolitics
+
+### #2 | Xi and Trump meet in Washington — and Beijing claims the win
+Chinese President Xi Jinping met President Trump in Washington, where Xi laid out terms aimed at avoiding a US-China military conflict. Commentary in The Straits Times and The Guardian described the summit as a win for Beijing, noting that Trump hailed the visit as "great" even though almost nothing of substance was achieved on the thorny issues dividing the two powers. The encounter underscored how much harder a more assertive China has proven for Washington to squeeze than the China of 2018.
+
+**Why it matters:** The tone and outcome of US-China diplomacy shapes trade, technology, and security policy well beyond the two countries.
+
+🏷️ US-China / Diplomacy
+
+### #3 | Ethiopia: rebel offensive raises fears of renewed civil war
+Fighting has escalated in Ethiopia after Tigrayan rebels formed a new coalition aimed at overthrowing the government of Prime Minister Abiy Ahmed. The escalation has revived fears of a return to full-scale civil war in a country still recovering from the devastating 2020–2022 conflict. Regional observers warn that a renewed war would deepen an already severe humanitarian crisis in the Horn of Africa.
+
+**Why it matters:** Instability in Ethiopia risks destabilising the wider Horn of Africa and compounding a major humanitarian emergency.
+
+🏷️ Africa / Conflict
+
+### #4 | Pakistan locks down Islamabad as Imran Khan's party vows to march
+Pakistani authorities deployed tens of thousands of police and barricaded roads in a lockdown of the capital, Islamabad, ahead of a promised march by Imran Khan's Pakistan Tehreek-e-Insaf (PTI) party. PTI is demanding the release of the jailed former prime minister. In a related move, police detained Khan's sisters ahead of the protest. The standoff marks another flashpoint in the prolonged confrontation between Khan's supporters and the current government.
+
+**Why it matters:** A political showdown in nuclear-armed Pakistan carries real risks for stability in an already volatile South Asian region.
+
+🏷️ South Asia / Politics
+
+### #5 | Singapore haze worsens as PSI hits unhealthy range
+Air quality in Singapore deteriorated sharply, with the Pollutant Standards Index (PSI) reaching unhealthy levels in the central, eastern and western regions. The worsening haze forced organisers to shorten Decathlon's Kiprun half-marathon to 10km. The episode comes amid unusually hot conditions, after a joint-highest temperature for the month — 35.8°C — was recorded at Woodlands on September 26. Haze remains a recurring transboundary issue for Singapore and its neighbours.
+
+**Why it matters:** Unhealthy air quality poses public-health risks and is a recurring regional challenge linked to seasonal land-clearing fires.
+
+🏷️ Singapore / Environment
+
+*Briefing curated by Rinちゃん. Sources: BBC, Reuters, AP, Straits Times. All times SGT.*
+</description><guid isPermaLink="false">rin-daily-news-en-2026-09-27</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-en-2026-09-27.mp3" length="1636560" type="audio/mpeg"/><pubDate>Sun, 27 Sep 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:04:32</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># Rinちゃん's Daily News Brief — September 27, 2026
+
+## 🌍 Top 5 Global Stories
+
+### #1 | Trump rejects Iran's proposal to reopen the Strait of Hormuz
+US President Donald Trump has rejected an Iranian</itunes:summary></item></channel></rss>
