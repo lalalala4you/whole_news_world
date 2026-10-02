@@ -1,35 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link><description>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-en.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg</url><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>en</language><lastBuildDate>Sun, 27 Sep 2026 00:51:47 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</itunes:summary><itunes:type>episodic</itunes:type><item><title>News Brief - July 31, 2026</title><description># Rinちゃん's Daily News Brief — July 31, 2026
-
-Hey there, friend! ☕ Rinちゃん here with your morning briefing. Grab your coffee — it's been quite a 24 hours, and there's a lot to unpack. From a historic diplomatic breakthrough in the Middle East to a massive humanitarian crisis at Europe's doorstep, and some genuinely unsettling AI news that sounds like it walked out of a sci-fi novel. Let's dive in.
-
----
-
-## 🌊 Story 1: 60,000 Migrants Flood Spanish Enclave Ceuta in 24 Hours — Europe Scrambles
-**Source:** BBC News | **Reporters:** Sofia Ferreira Santos, Sarah Rainsford (BBC Southern and Eastern Europe)
-
-It's hard to overstate the scale of what's happening right now on Europe's southern border. In just 24 hours, an estimated 60,000 migrants crossed from Morocco into Ceuta — a small Spanish territory on the North African coast with a population of only 83,600. That's more than 70% of the city's total population arriving in a single day. At least 34 people died trying to make the crossing.
-
-The influx was triggered after Spain's Supreme Court ruled that migrants stopped at sea cannot be summarily returned to Morocco. But what followed was chaos — border controls appear to have broken down entirely on Thursday, with thousands streaming in on foot, by swimming, and around the border fence itself. Spanish Prime Minister Pedro Sánchez called it an "attack" and has deployed armed forces to both Ceuta and Melilla, while vowing all illegal entrants would be returned "as soon as possible."
-
-The crisis has set off a chain reaction across Europe. Italy's Prime Minister Giorgia Meloni called the images "shocking" and threatened to suspend the Schengen free-movement agreement with Spain. Finland backed her, Germany demanded Morocco "take back illegal migrants immediately," and EU chief Ursula von der Leyen said the scenes were "unacceptable" and must "stop immediately." By Friday afternoon, more than 25,000 had already returned to Morocco voluntarily — at a staggering rate of 150 people per minute — but the situation on the ground remains deeply volatile.
-
-&gt; **Why it matters:** This is the largest single-day migrant surge in Ceuta's modern history, dwarfing even the 2021 crisis when 8,000 crossed. It's already fracturing European solidarity, with Schengen itself now being questioned, and it highlights how quickly a local court ruling can cascade into a continent-wide political emergency.
-
-`#CeutaCrisis` `#Migration` `#Spain` `#EuropeanUnion` `#Schengen`
-
----
-
-## 🕊️ Story 2: Hamas Agrees to Disarm in Gaza — A Historic First Step Toward Peace
-**Source:** BBC News | **Reporter:** Rushdi Abualouf (BBC Gaza Correspondent, Cairo)
-
-For the first time in its history, Hamas has accepted a framework to completely disarm in Gaza. Under the Board of Peace's plan backed by former President Trump, the group has agreed to inventory and store its remaining heavy weapons under Palestinian supervision — a concession that officials involved in the talks describe as "the most consequential political decision in Hamas's history."
-
-A senior Hamas official told the BBC the negotiations were "long and extremely difficult," with Hamas insisting on Palestinian oversight of the weapons rather than handing them over to Israel. The plan also envisions a gradual Israeli withdrawal from Gaza. If it holds, this could mark the first credible step toward ending a war that has dragged on for nearly three years, devastating the lives of more than two million Palestinians.
-
-But on the ground in Gaza, there's little celebration. After years of failed ceasefires and collapsed agreements, many residents are deeply sceptical. "People are less interested in the details of negotiations than in whether this deal will actually end the war, allow displaced families to return home, and bring lasting relief," the BBC reports. And with Israel yet to formally respond, and Israeli elections potentially complicating Prime Minister Netanyahu's political calculus, there are many hurdles still ahead.</description><guid isPermaLink="false">rin-daily-news-en-2026-07-31</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-en-2026-07-31.mp3" length="4664736" type="audio/mpeg"/><pubDate>Fri, 31 Jul 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:12:57</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># Rinちゃん's Daily News Brief — July 31, 2026
-
-Hey there, friend! ☕ Rinちゃん here with your morning briefing. Grab your coffee — it's been quite a 24 hours, and there's a lot to unpack. From a historic</itunes:summary></item><item><title>News Brief - August 02, 2026</title><description># Rinちゃん's Daily News Brief — August 2, 2026
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link><description>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-en.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg</url><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>en</language><lastBuildDate>Fri, 02 Oct 2026 01:06:31 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</itunes:summary><itunes:type>episodic</itunes:type><item><title>News Brief - August 02, 2026</title><description># Rinちゃん's Daily News Brief — August 2, 2026
 
 Hey there, friend! ☕ Rinちゃん here with your morning briefing. Pour yourself something warm, settle in, and let me walk you through what's happening in the world today. We've got high-stakes diplomacy, a continent sweltering under record heat, tragedy in the mountains, and more. Let's dive in.
 
@@ -535,4 +505,44 @@ Air quality in Singapore deteriorated sharply, with the Pollutant Standards Inde
 ## 🌍 Top 5 Global Stories
 
 ### #1 | Trump rejects Iran's proposal to reopen the Strait of Hormuz
-US President Donald Trump has rejected an Iranian</itunes:summary></item></channel></rss>
+US President Donald Trump has rejected an Iranian</itunes:summary></item><item><title>News Brief - October 02, 2026</title><description># Rinちゃん's Daily News Brief — October 2, 2026
+
+## 🌍 Top 5 Global Stories
+
+### #1 | Flydubai co-pilot stabbing: injured 'hero' pilot saves 174 lives mid-air
+A Dubai–Tel Aviv flydubai flight plunged nearly 14,000ft (4,300m) in under 30 seconds after one pilot stabbed his colleague and apparently tried to crash the plane. Despite grievous wounds, Capt Smit Machchhar, an Indian national from Mumbai, forced open the cockpit door so passengers and crew — including a plumber, a dentist and off-duty relief pilots — could overpower the attacker and stabilise the jet. The aircraft landed safely in Tabuk, Saudi Arabia, with all 174 passengers surviving; Machchhar is stable after surgery. Israeli PM Benjamin Netanyahu said the attacker had "Islamist radical indoctrination," while US President Donald Trump vowed to hit Iran "very hard" if it were linked to the plot.
+
+**Why it matters:** An aviation-security drama has become a flashpoint in the already volatile Israel–Iran–US confrontation.
+
+🏷️ Middle East / Aviation Security
+
+### #2 | Putin threatens 'all weapons' to defend Kaliningrad
+Speaking at the Valdai foreign policy forum, Vladimir Putin said Russia would use every weapon at its disposal — including nuclear arms — if its Baltic exclave of Kaliningrad came under direct attack or blockade, while insisting Moscow is "not threatening anyone" and is merely responding to Western talk of war in 2029–30. NATO chief Mark Rutte said alliance exercises pose no threat and urged Moscow to stop its nuclear rhetoric. Russia struck a key bridge in central Kyiv with drones on Thursday, and Ukraine pressed on with strikes on Russian oil refineries.
+
+**Why it matters:** New nuclear signalling over a NATO-flanked exclave sharply raises the risk of miscalculation in Europe.
+
+🏷️ Europe / Security
+
+### #3 | France's school protests escalate into 'urban violence'
+Prime Minister Sébastien Lecornu convened a crisis cabinet meeting after student demonstrations over crowded classes, teacher shortages and crumbling facilities spiralled nationwide. Police reported about 900 protests and blockades, with more than 160 schools shut and roughly 30 university campuses blocked; nearly 3,000 lycée students have been detained since the unrest began, including 1,949 on Thursday alone. More than 300 police and dozens of firefighters, teachers and pupils have been injured, and arson was reported at schools in Nantes, Marseille, Lille and Toulouse. The government blames the radical-left La France Insoumise, whose leader Jean-Luc Mélenchon denies endorsing violence.
+
+**Why it matters:** A youth-led revolt over public education is testing an already fragile French government and its authority.
+
+🏷️ Europe / Society
+
+### #4 | Trump meddling row engulfs Brazil ahead of elections
+Brazil's attorney general, Jorge Messias, said foreign meddling "cannot be tolerated," calling a Guardian investigation into Trump administration plans an "important alert for Brazilian sovereignty" as the country heads toward the polls. The reporting says Washington is diverting human rights funds to push a far-right agenda abroad, including support for white Afrikaners and anti-communist causes. A new Datafolha poll shows leftist incumbent Luiz Inácio Lula da Silva leading his right-wing rival by three points in a runoff scenario.
+
+**Why it matters:** Washington's open alignment with Brazil's right could reshape Latin America's largest democracy and US–Brazil relations.
+
+🏷️ Americas / Politics
+
+### #5 | MI5 warns UK universities over Chinese tech theft
+Britain's domestic intelligence service urged universities to sever ties with the China General Technology Research Institute, an entity linked to China's Ministry of State Security, warning that UK-funded research is being passed to Beijing's spies. The alert is expected to send a chill through cash-strapped British universities that rely heavily on Chinese students and research money.
+
+**Why it matters:** It hardens the West's tech-security rift with C</description><guid isPermaLink="false">rin-daily-news-en-2026-10-02</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-en-2026-10-02.mp3" length="1816848" type="audio/mpeg"/><pubDate>Fri, 02 Oct 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:05:02</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># Rinちゃん's Daily News Brief — October 2, 2026
+
+## 🌍 Top 5 Global Stories
+
+### #1 | Flydubai co-pilot stabbing: injured 'hero' pilot saves 174 lives mid-air
+A Dubai–Tel Aviv flydubai flight plunged</itunes:summary></item></channel></rss>
