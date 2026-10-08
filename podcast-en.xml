@@ -1,29 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link><description>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-en.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg</url><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>en</language><lastBuildDate>Fri, 02 Oct 2026 01:06:31 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</itunes:summary><itunes:type>episodic</itunes:type><item><title>News Brief - August 02, 2026</title><description># Rinちゃん's Daily News Brief — August 2, 2026
-
-Hey there, friend! ☕ Rinちゃん here with your morning briefing. Pour yourself something warm, settle in, and let me walk you through what's happening in the world today. We've got high-stakes diplomacy, a continent sweltering under record heat, tragedy in the mountains, and more. Let's dive in.
-
----
-
-## 🌊 Story 1: Trump Pulls Back From the Brink — Cancels Iran Strikes, Says a Deal Is Within Reach
-**Source:** BBC News | **Reporters:** James Chater &amp; Joe Inwood
-
-For a few nerve-wracking hours, the world held its breath. President Donald Trump has announced he's cancelling what would have been one of the most intense bombing campaigns against Iran since this war began in February — but only on the condition that a deal is struck "rapidly." In a Saturday post on Truth Social, Trump claimed that Iran and other Middle Eastern countries had actually asked Washington to hold off, saying the "perimeters" of a deal had been agreed.
-
-Here's the context that makes this so dizzying. Just a day earlier, during a cabinet meeting at Camp David, Trump was caught on microphone telling aides — with reporters still in the room — "We'll be hitting them very hard. At some point, they're going to say, 'We just can't take it anymore.'" US media reported that Washington and Israel were planning devastating strikes on Iranian energy infrastructure. The US government had even warned Americans across the Middle East to be ready to evacuate. And then, almost as suddenly as the rhetoric escalated, Saudi Crown Prince Mohammed Bin Salman got on the phone with Trump, emphasising "the necessity of prioritising dialogue." The Saudi intervention appears to have been pivotal.
-
-Now, here's why you should take all of this with a grain of salt. This isn't the first time Trump has issued apocalyptic warnings only to pivot to diplomacy. Back in April, he warned that "a whole civilisation will die tonight" if Iran didn't come to the table — and while that threat did produce historic face-to-face talks in Pakistan led by Vice President JD Vance, those talks collapsed without a deal. Iran's acting Defence Minister, Majid Ibn al-Reza, said Sunday that Tehran views every threat as "real and credible" and will "neither be caught off guard nor remain passive." Meanwhile, Gulf allies like Bahrain, Jordan, and the UAE are deeply nervous — their critical infrastructure, including water desalination plants, sits well within range of Iranian missiles even if the American mainland doesn't. And with roughly 60% of Americans disapproving of this war and midterm elections looming, Trump knows his international gambles have domestic consequences he can't ignore.
-
----
-
-## 🌏 Story 2: Europe Burns — Italy Puts Nearly Every Major City on Highest Heat Alert as Wildfires Rage
-**Source:** BBC News | **Reporter:** Jaroslav Lukiv
-
-If you're in Europe right now, you're probably not thinking about geopolitics — you're just trying to survive the heat. Italy has placed 19 of its 27 major cities on the highest "red" alert, and by Monday that number jumps to 25. We're talking Rome, Milan, Venice, Naples — essentially the entire country, from the Alps to Sicily, is baking under a subtropical anticyclone that's drifted up from North Africa and parked itself over the Mediterranean. Temperatures hit the mid-30s Celsius on Saturday, and health officials aren't just warning the usual vulnerable groups — they're telling *everyone*, including healthy and active people, to stay indoors between 11am and 6pm and drink plenty of water.
-
-This isn't happening in isolation. Across the Mediterranean, firefighters in Greece, France, Portugal, and Spain are battling blazes that have consumed thousands of hectares. In France's Var region, 2,500 people were evacuated Friday night when a fire that had been contained for days suddenly reignited. In Spain, more than 200,000 hectares have burned so far in 2026 — roughly five times above the average for this point in the year. And </description><guid isPermaLink="false">rin-daily-news-en-2026-08-02</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-en-2026-08-02.mp3" length="4318848" type="audio/mpeg"/><pubDate>Sun, 02 Aug 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:11:59</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># Rinちゃん's Daily News Brief — August 2, 2026
-
-Hey there, friend! ☕ Rinちゃん here with your morning briefing. Pour yourself something warm, settle in, and let me walk you through what's happening in the</itunes:summary></item><item><title>News Brief - August 05, 2026</title><description># Rinちゃん's Daily News Brief — August 5, 2026
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link><description>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</description><atom:link href="https://raw.githubusercontent.com/lalalala4you/whole_news_world/main/podcast-en.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg</url><title>Rinちゃん's Daily News Brief</title><link>https://lalalala4you.github.io/whole_news_world</link></image><language>en</language><lastBuildDate>Thu, 08 Oct 2026 01:26:03 +0000</lastBuildDate><itunes:author>Rinちゃん</itunes:author><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category><itunes:image href="https://lalalala4you.github.io/whole_news_world/audio/cover-en-1779799171.jpg"/><itunes:explicit>no</itunes:explicit><itunes:owner><itunes:name>Rinちゃん</itunes:name><itunes:email>yilin27077@gmail.com</itunes:email></itunes:owner><itunes:summary>Top 5 global news stories every morning, curated by Rinちゃん. Politics, tech, economy, and more from Singapore, US, China, EU, Japan.</itunes:summary><itunes:type>episodic</itunes:type><item><title>News Brief - August 05, 2026</title><description># Rinちゃん's Daily News Brief — August 5, 2026
 
 Hey there, friend! ☕ Rinちゃん here with your morning briefing. Grab your coffee, settle in, and let me walk you through what's happening in the world today. It's a heavy one in places, but there are glimmers of hope too — isn't that always the way? Let's dive in.
 
@@ -545,4 +521,49 @@ Britain's domestic intelligence service urged universities to sever ties with th
 ## 🌍 Top 5 Global Stories
 
 ### #1 | Flydubai co-pilot stabbing: injured 'hero' pilot saves 174 lives mid-air
-A Dubai–Tel Aviv flydubai flight plunged</itunes:summary></item></channel></rss>
+A Dubai–Tel Aviv flydubai flight plunged</itunes:summary></item><item><title>News Brief - October 08, 2026</title><description># Rinちゃん's Daily News Brief — October 8, 2026
+
+## 🌍 Top 5 Global Stories
+
+### #1 | Middle East marks three years since 7 October as regional tensions flare
+Memorial events were held in Israel on the third anniversary of the Hamas-led attack that triggered the devastating Gaza war, with survivors and families demanding accountability over the failures that day. In Gaza, three years of war have killed tens of thousands, destroyed homes and collapsed basic services, leaving residents describing a life of "neither war nor peace." Separately, Saudi Arabia said three people died at its airports after Houthi forces claimed cross-border attacks, underscoring how the conflict continues to ripple across the region.
+
+**Why it matters:** The anniversary highlights a war with no clear end, while fresh Houthi strikes show the risk of wider regional escalation.
+
+🏷️ Middle East
+
+### #2 | Russia-Ukraine war escalates on both fronts
+A Ukrainian naval drone struck an oil tanker off the Russian resort city of Sochi, triggering a massive blaze, in one of the deepest strikes yet on Russian energy infrastructure in the Black Sea. In Ukraine, a Russian missile hit a residential block of flats while families slept, killing at least 19 people, including children. The twin attacks came as Western allies weighed further support and sanctions.
+
+**Why it matters:** Strikes on energy and civilian targets signal a war entering a more dangerous, higher-cost phase with global energy and security implications.
+
+🏷️ Russia–Ukraine
+
+### #3 | Botched execution reignites US death penalty debate
+Christa Pike survived a failed lethal injection in Tennessee and remains "shackled" to a hospital bed, with her lawyers saying she is angry and confused about why she is still alive. Texas is now set to carry out the first US execution since the botched procedure, reigniting a national debate over capital punishment and lethal-injection protocols. State officials have not said whether Tennessee will attempt to execute Pike again.
+
+**Why it matters:** A rare botched execution puts the death penalty and states' execution methods back under national and legal scrutiny.
+
+🏷️ United States
+
+### #4 | Markets wobble as inflation fears and Middle East conflict drive tightening
+Wall Street closed lower, slipping from record highs, as climbing Treasury yields pressured equities amid renewed inflation anxiety. India's central bank raised rates for the first time since 2023, reflecting a global shift toward tighter monetary policy as central banks battle inflation fuelled by the Middle East conflict. Investors are recalibrating expectations for rate cuts in the months ahead.
+
+**Why it matters:** Rising yields and rate hikes show how the Middle East conflict is feeding global inflation and reshaping monetary policy worldwide.
+
+🏷️ Economy
+
+### #5 | Toxic haze blankets Singapore as Indonesia's fire season worsens
+Singapore was shrouded in haze, with PSI readings in the unhealthy range across the island as one of Indonesia's worst wildfire seasons in years sent smoke drifting across Southeast Asia. PM2.5 levels stayed in the normal band in the northern, southern and eastern regions, but iconic landmarks faded from view. The episode echoes the recurring transboundary haze crises that have strained regional diplomacy.
+
+**Why it matters:** The haze underscores Southeast Asia's vulnerability to cross-border environmental crises and the limits of regional cooperation.
+
+🏷️ Asia / Environment
+
+*Briefing curated by Rinちゃん. Sources: BBC, Reuters, AP, Straits Times. All times SGT.*
+</description><guid isPermaLink="false">rin-daily-news-en-2026-10-08</guid><enclosure url="https://cdn.jsdelivr.net/gh/lalalala4you/whole_news_world@main/audio/daily-news-en-2026-10-08.mp3" length="1506816" type="audio/mpeg"/><pubDate>Thu, 08 Oct 2026 07:00:00 +0800</pubDate><itunes:author>Rinちゃん</itunes:author><itunes:duration>00:04:11</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:summary># Rinちゃん's Daily News Brief — October 8, 2026
+
+## 🌍 Top 5 Global Stories
+
+### #1 | Middle East marks three years since 7 October as regional tensions flare
+Memorial events were held in Israel on the</itunes:summary></item></channel></rss>
